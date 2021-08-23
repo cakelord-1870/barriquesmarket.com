@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/light-roast.atom"/>
+  <title>Barriques</title>
+  <updated>2021-06-23T10:00:55-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/6777717620894</id>
+    <published>2021-06-23T10:00:55-05:00</published>
+    <updated>2021-06-23T10:00:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/ethiopia-yrgacheffe-3-for-2-pack"/>
+    <title>Ethiopia Yrgacheffe 3 for 2 Pack</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/EthiopiaYrgacheffe.png?v=1624457388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            28.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1"><strong>This Item Includes 3 bags of Ethiopia Yrgacheffe For the Price of Two</strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Background<br data-mce-fragment="1"></strong>Coffee is the central element of Ethiopian culture and hospitality – where the word “coffee” originated, and where people first turned beans into beverage by learning how to roast. An invitation to have coffee in Ethiopia is a timeless way to pass an afternoon! Ethiopia’s high, wild forests and remote dry mountain terraces are the epicenter of the specialty coffee revolution. The original home of Coffea Arabica, the high-altitude branch of coffee’s family tree, Ethiopia is coffee’s cradle of diversity with over 400 wild Arabica strains identified and hundreds more still to be discovered.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Taste</strong><br data-mce-fragment="1">Yrgacheffe, Ethiopia’s most prized coffee, is used to celebrate Ethiopian life’s biggest moments. Prepared from the highest-grown beans grown in the southern mountains along the Great Rift, Yrgacheffe coffees are organically grown, painstakingly hand-picked, fully sun dried and immaculately prepared by washed processing. The Yrgacheffe cup, transcendentally clean, bright, sweet and elegant, lures you back again and again. It is medium-full bodied with intoxicating spicy aroma, Yrgacheffe’s vibrant, complex flavors of sweet lemon zest, lavender, anise and spice are like no other coffee.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Africa</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>June 23 Show</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6777717620894</id>
+      <title>Whole Bean</title>
+      <s:price currency="USD">28.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6777717620894</id>
+      <title>Coarse/French Press</title>
+      <s:price currency="USD">28.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6777717620894</id>
+      <title>Drip</title>
+      <s:price currency="USD">28.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6777717620894</id>
+      <title>Fine/Espresso</title>
+      <s:price currency="USD">28.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6756823335070</id>
+    <published>2021-06-10T10:27:16-05:00</published>
+    <updated>2021-06-10T10:27:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/costa-rica-dota-santa-maria-3-for-2"/>
+    <title>Costa Rica Dota Santa Maria 3 For 2</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/CostaRicaDotaSantaMaria_0b7e0868-9dda-4664-b2f9-d2777bb31fa6.png?v=1623338757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            27.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1"><span style="color: #ff2a00;"><strong data-mce-fragment="1">This item includes 3 bags of coffee for the price of 2.</strong></span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Background:<br data-mce-fragment="1"></strong>Our Costa Rica Dota Santa Maria <span data-mce-fragment="1">is sourced from the canton (municipality) of Dota in the province of San José.</span> The humid climate, high altitude 5000 - 6500 ft, and rich volcanic soil contribute to produce coffee with such distinctive ‘taste of place’. The coffee comes from the 60 year old cooperative, CoopeDota, that strives for having a sustainable economic impact and is one of three carbon neutral coffee companies in Costa Rica. <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Taste:</strong><br data-mce-fragment="1">The Costa Rica Dota Santa Maria is light roasted to bring out the lovely flavors of orange, lemon zest and candy-honey. It has a medium ­bodied and well balanced with a crisp, clean engaging finish.  Enjoy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Americas</s:tag>
+    <s:tag>Central America</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>June 9 Show</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6756823335070</id>
+      <title>Whole Bean</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6756823335070</id>
+      <title>Coarse/French Press</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6756823335070</id>
+      <title>Drip</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6756823335070</id>
+      <title>Fine/Espresso</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5596026437790</id>
+    <published>2021-04-14T16:10:09-05:00</published>
+    <updated>2021-04-14T16:10:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/mighty-peace-congo-umoja-fto"/>
+    <title>Mighty Peace Congo Umoja FTO</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/CongoUmoja.png?v=1618434571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Our friends at Might Peace Coffee have been hard at work to help bring us this very special delivery of coffee that we will be featuring in the cafes for the next month or tow.  Say hello to the Might Peace Congo Umoja.  It is the first coffee we have brought in from the South Kivu region in eastern Democratic Republic of Congo. The cooperative has been working on increasing the quality of the coffee over the last 10 year, in order to help improve the living conditions of its members. </span></p>
+<p><span style="font-weight: 400;">The Umoja is truly one of the most unique coffees we have had an honor of roasting.   We treated it very delicately in the roaster to highlight the intrinsic acidity while developing enough body to create a substantial, drinkable cup.   Once in the cup, the Umoja </span><span style="font-weight: 400;">offers up an explosion of flavors, featuring a tight, bright acidity and clean tropical overtones. The heirloom red bourbon showcases the outstanding body making it a rival among the best examples of this coffee varietal.  Fair Trade &amp; Organic Certified.  </span><span style="font-weight: 400;">Cheers.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Africa</s:tag>
+    <s:tag>April 14 Show</s:tag>
+    <s:tag>April 21 Show</s:tag>
+    <s:tag>August 19 Show</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Fair Trade</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5596026437790</id>
+      <title>Whole Bean</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5596026437790</id>
+      <title>French Press</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5596026437790</id>
+      <title>Drip</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5596026437790</id>
+      <title>Espresso/Fine</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1569777647686</id>
+    <published>2021-02-08T12:33:58-06:00</published>
+    <updated>2021-02-08T12:33:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/kenya-top-cup"/>
+    <title>Kenya &apos;Top Cup&apos;</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Light-Kenya_Top_Cup_600.jpg?v=1537892399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            17.95 - 118.95
+            <a href="https://barriquesmarket.com/products/kenya-top-cup">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Kenya 'Top Cup' is a winy, full-bodied and very intense coffee with exceptional bright, clean aroma. It features Kenya's distinctive blackcurrant flavor, with intense, winy acidity and an extra rich dark caramel flavor note added by the Nyeri region's exceptional terroir.</p>
+<p>As with many of our past Top Cup selections, these peaberries are certified sustainably grown. They're produced by Othaya Co-op in Nyeri, where one thousand family farmers grow Heirloom Arabicas in red volcanic soil at 6000' elevation on the flanks of Mt. Kenya surrounding the Co-op's mill.</p>
+<p>This 'Top Cup' coffee is processed with the incomparable attention to detail that makes Kenyan beans the world's finest. Farm families hand-pick their own fully ripe cherries and deliver them to the mill daily, to be pulped and washed using fresh mountain water from River Ichamama. When the washing process is finished the beans are sun dried, off the ground in net 'hammock' beds.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Africa</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569777647686</id>
+      <title>Whole Bean / 12oz Bag</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>27105-1</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569777647686</id>
+      <title>Whole Bean / 5lb Bag</title>
+      <s:price currency="USD">118.95</s:price>
+      <s:sku>27105-2</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569777647686</id>
+      <title>French Press/Coarse / 12oz Bag</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>27105-3</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569777647686</id>
+      <title>French Press/Coarse / 5lb Bag</title>
+      <s:price currency="USD">118.95</s:price>
+      <s:sku>27105-4</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569777647686</id>
+      <title>Drip / 12oz Bag</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>27105-5</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569777647686</id>
+      <title>Drip / 5lb Bag</title>
+      <s:price currency="USD">118.95</s:price>
+      <s:sku>27105-6</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569777647686</id>
+      <title>Espresso/Fine / 12oz Bag</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>27105-7</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569777647686</id>
+      <title>Espresso/Fine / 5lb Bag</title>
+      <s:price currency="USD">118.95</s:price>
+      <s:sku>27105-8</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4523295080520</id>
+    <published>2021-01-08T09:23:36-06:00</published>
+    <updated>2021-01-08T09:23:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/decaf-ethiopia-mountain-water-process"/>
+    <title>Decaf Ethiopia Mountain Water Process</title>
+    <s:type></s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Light-MWP_Ethiopia_Decaf_800x800_74a0e74b-207d-40bc-8d38-ca59547cac55.png?v=1586217848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our lightly roasted Ethiopia Mountain Water Process Decaf manages to maintain a solid medium to full body while assuming the role as the crispest finishing decaf in our lineup.  Incredibly clean on the palate with lovely citrus and spices notes this coffee will fool you into thinking there is no way you are drinking a decaf coffee! </p>
+<p>Just one look and taste of Barriques decaf coffee, and you know we’re coming from a very different place than other specialty roasters. We buy better beans because we’re determined that ALL our customers enjoy great coffee – crisp, rich and satisfying, and with ‘taste of place’ only possessed by sustainably-grown heirloom Arabica.</p>
+<p>Our beans are decaffeinated by the Mountain Water Process, the same natural decaffeination as Swiss Water. The decaffeination plant is new, with updated processes and controls that protect coffee flavor. We craft roast decaf the same way as our other coffees – in small batches with careful attention to the nuances that signal peak flavor development. Our Decafs are delicious, with cup quality, intensity and flavor to match our other specialty coffees!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Decaf</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4523295080520</id>
+      <title>Whole Bean</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4523295080520</id>
+      <title>French Press/Coarse</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4523295080520</id>
+      <title>Drip</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5277776380062</id>
+    <published>2020-11-18T16:00:00-06:00</published>
+    <updated>2020-11-18T16:00:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/roasters-selection-light-roast-coffee-pack"/>
+    <title>Roaster&apos;s Selection - Light Roast Coffee Pack</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/LightRoast-TastingPack.png?v=1595431988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Roaster's Selection pack features three of our light roasted coffees in sample sized .5 lb bags, with both our blends and our single origins represented. Taste the selection and find your favorite of the batch! The pack features:</p>
+<ul>
+<li>One .5lb Bag of <a href="https://barriquesmarket.com/collections/light-roast/products/costa-rica-dota-santa-maria">Costa Rica Dota Santa Maria</a>
+</li>
+<li>One .5lb Bag of <a href="https://barriquesmarket.com/collections/light-roast/products/ethiopia-yrgacheffe">Ethiopia Yrgacheffe</a>
+</li>
+<li>One .5lb Bag of <a href="https://barriquesmarket.com/collections/light-roast/products/eye-opener">Eye Opener Blend</a>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BFCM</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Coffee Live</s:tag>
+    <s:tag>Gifts Under 20</s:tag>
+    <s:tag>Holiday 2020</s:tag>
+    <s:tag>June 10 Show</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5277776380062</id>
+      <title>French Press</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5277776380062</id>
+      <title>Drip</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5277776380062</id>
+      <title>Espresso</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5277776380062</id>
+      <title>Fine</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5277776380062</id>
+      <title>Coarse</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5277776380062</id>
+      <title>Whole Bean</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5645448380574</id>
+    <published>2020-09-02T13:14:23-05:00</published>
+    <updated>2020-09-02T13:14:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/roasters-selection-the-essentials"/>
+    <title>Roaster&apos;s Selection - The Essentials</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/roastersselection_essentials.png?v=1599070462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our Roaster's Selection pack features three of your daily coffee essentials(and best selling coffees!) in sample sized .5 lb bags.  The pack features:</span></p>
+<ul>
+<li>One half pound bag of <a href="https://barriquesmarket.com/collections/best-sellers/products/the-forge-espresso" data-mce-href="https://barriquesmarket.com/collections/best-sellers/products/the-forge-espresso">The Forge Espresso</a> </li>
+<li>One half pound bag of <a href="https://barriquesmarket.com/collections/best-sellers/products/iced-coffee-blend" data-mce-href="https://barriquesmarket.com/collections/best-sellers/products/iced-coffee-blend">Cold Brew Coffee Blend</a> <br>
+</li>
+<li>One half pound bag of <a href="https://barriquesmarket.com/collections/light-roast/products/eye-opener">Eye Opener</a> </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blends</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Dark Roast</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>September 9 Show</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5645448380574</id>
+      <title>All Wholebean</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5645448380574</id>
+      <title>All Roaster Recommended Grind</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1569778696262</id>
+    <published>2019-07-23T09:24:23-05:00</published>
+    <updated>2019-07-23T09:24:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/costa-rica-dota-santa-maria"/>
+    <title>Costa Rica Dota Santa Maria</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/CostaRicaDotaSantaMaria.png?v=1623338607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            13.95 - 92.95
+            <a href="https://barriquesmarket.com/products/costa-rica-dota-santa-maria">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Background:<br></strong>Our Costa Rica Dota Santa Maria <span style="font-weight: 400;">is sourced from the canton (municipality) of Dota in the province of San José.</span> The humid climate, high altitude 5000 - 6500 ft, and rich volcanic soil contribute to produce coffee with such distinctive ‘taste of place’. The coffee comes from the 60 year old cooperative, CoopeDota, that strives for having a sustainable economic impact and is one of three carbon neutral coffee companies in Costa Rica. <br></p>
+<p><strong>Taste:</strong><br>The Costa Rica Dota Santa Maria is light roasted to bring out the lovely flavors of orange, lemon zest and candy-honey. It has a medium ­bodied and well balanced with a crisp, clean engaging finish.  Enjoy.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Americas</s:tag>
+    <s:tag>Best Sellers</s:tag>
+    <s:tag>Central America</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569778696262</id>
+      <title>Whole Bean / 12oz Bag</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>27600-1</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569778696262</id>
+      <title>Whole Bean / 5lb Bag</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>27600-2</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569778696262</id>
+      <title>French Press/Coarse / 12oz Bag</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>27600-3</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569778696262</id>
+      <title>French Press/Coarse / 5lb Bag</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>27600-4</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569778696262</id>
+      <title>Drip / 12oz Bag</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>27600-5</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569778696262</id>
+      <title>Drip / 5lb Bag</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>27600-6</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569778696262</id>
+      <title>Espresso/Fine / 12oz Bag</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>27600-7</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569778696262</id>
+      <title>Espresso/Fine / 5lb Bag</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>27600-8</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1569775878214</id>
+    <published>2019-03-20T15:06:08-05:00</published>
+    <updated>2019-03-20T15:06:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/eye-opener"/>
+    <title>Eye Opener</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Light-Eye_Opener_600.jpg?v=1537892378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            13.95 - 92.95
+            <a href="https://barriquesmarket.com/products/eye-opener">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Background</strong><br>Barriques blends have rock-solid flavor and intensity every day of the year. Our blending secret? No shortcuts!  We create blends around specific flavor profiles and work every day to keep them tasting their best. We manage blends the rigorous, old-fashioned way, tasting and tweaking to maintain peak flavor, intensity and balance. We use great beans, too – the same sustainably-grown Heirloom Arabicas as our single origin coffees. Blend with less intense ‘blender beans’ to save a few cents? Not here.</p>
+<p><strong>Taste</strong><br>The Eye Opener is a blend of Heirloom Arabicas from both the New World as well as Africa, including Ethiopia Yrgacheffe.  It is a bright, energizing breakfast-type blend, that has a pleasant medium body, clean sweet flavor and a brisk coffee aroma. <br></p>
+<p> </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blends</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775878214</id>
+      <title>Whole Bean / 12oz Bag</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>27205-1</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775878214</id>
+      <title>Whole Bean / 5lb Bag</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>27205-2</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775878214</id>
+      <title>French Press/Coarse / 12oz Bag</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>27205-3</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775878214</id>
+      <title>French Press/Coarse / 5lb Bag</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>27205-4</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775878214</id>
+      <title>Drip / 12oz Bag</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>27205-5</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775878214</id>
+      <title>Drip / 5lb Bag</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>27205-6</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775878214</id>
+      <title>Espresso/Fine / 12oz Bag</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>27205-7</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775878214</id>
+      <title>Espresso/Fine / 5lb Bag</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>27205-8</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1569777713222</id>
+    <published>2018-09-25T11:19:59-05:00</published>
+    <updated>2018-09-25T11:19:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/ethiopia-yrgacheffe"/>
+    <title>Ethiopia Yrgacheffe</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Light-Ethiopia_Yrgacheffe_600.jpg?v=1537892400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            14.45 - 96.00
+            <a href="https://barriquesmarket.com/products/ethiopia-yrgacheffe">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong data-mce-fragment="1">Background<br></strong>Coffee is the central element of Ethiopian culture and hospitality – where the word “coffee” originated, and where people first turned beans into beverage by learning how to roast. An invitation to have coffee in Ethiopia is a timeless way to pass an afternoon! Ethiopia’s high, wild forests and remote dry mountain terraces are the epicenter of the specialty coffee revolution. The original home of Coffea Arabica, the high-altitude branch of coffee’s family tree, Ethiopia is coffee’s cradle of diversity with over 400 wild Arabica strains identified and hundreds more still to be discovered.</p>
+<p><strong data-mce-fragment="1">Taste</strong><br>Yrgacheffe, Ethiopia’s most prized coffee, is used to celebrate Ethiopian life’s biggest moments. Prepared from the highest-grown beans grown in the southern mountains along the Great Rift, Yrgacheffe coffees are organically grown, painstakingly hand-picked, fully sun dried and immaculately prepared by washed processing. The Yrgacheffe cup, transcendentally clean, bright, sweet and elegant, lures you back again and again. It is medium-full bodied with intoxicating spicy aroma, Yrgacheffe’s vibrant, complex flavors of sweet lemon zest, lavender, anise and spice are like no other coffee.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Africa</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569777713222</id>
+      <title>Whole Bean / 12oz Bag</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku>27130-1</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569777713222</id>
+      <title>Whole Bean / 5lb Bag</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>27130-2</s:sku>
+      <s:grams>2341</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569777713222</id>
+      <title>French Press/Coarse / 12oz Bag</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku>27130-3</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569777713222</id>
+      <title>French Press/Coarse / 5lb Bag</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>27130-4</s:sku>
+      <s:grams>2341</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569777713222</id>
+      <title>Drip / 12oz Bag</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku>27130-5</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569777713222</id>
+      <title>Drip / 5lb Bag</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>27130-6</s:sku>
+      <s:grams>2341</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569777713222</id>
+      <title>Espresso/Fine / 12oz Bag</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku>27130-7</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569777713222</id>
+      <title>Espresso/Fine / 5lb Bag</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>27130-8</s:sku>
+      <s:grams>2341</s:grams>
+    </s:variant>
+  </entry>
+</feed>

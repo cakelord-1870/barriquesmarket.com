@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/herbal-tea.atom"/>
+  <title>Barriques</title>
+  <updated>2020-03-23T11:31:18-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508450193480</id>
+    <published>2020-03-23T11:31:18-05:00</published>
+    <updated>2020-03-23T11:31:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/peppermint-rooibos-4-oz"/>
+    <title>Peppermint Rooibos - 4 oz</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/PeppermintR.jpg?v=1584982365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            9.00 - 15.00
+            <a href="https://barriquesmarket.com/products/peppermint-rooibos-4-oz">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Peppermint Rooibos makes a deep red infusion with a smooth, rich mouthfeel and fresh minty sweetness that underlines the finer points of peppermint. The slightest touch of bergamot harmonizes these herbs, highlighting the soothing aroma of peppermint with the sweet and silky character of rooibos.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508450193480</id>
+      <title>4oz</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508450193480</id>
+      <title>1lb</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1694522638406</id>
+    <published>2020-03-23T11:31:18-05:00</published>
+    <updated>2020-03-23T11:31:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/tangerine-ginger"/>
+    <title>Tangerine Ginger</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/BulkTea_TangerineGinger_LG.jpg?v=1581533344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Tangerine Ginger combines roots, fruits and herbs to create an uplifting, bold-flavored vitality tonic. Ginger and licorice invigorate, while rosehips and tangerine refresh with their bright succulence. Wild-harvested schizandra berry bestows an exotic layer of aromatic complexity. This rejuvenating, adaptogenic berry is harvested at its peak ripeness to lend tart cranberry and citrus accents to this vibrant juicy blend.</p>
+<p>Tasting Notes: A punchy hibiscus blend with zesty, revitalizing ginger and succulent citrus</p>
+<p>Ingredients: Organic ginger root, organic and Fair Trade Certified™ hibiscus flowers, organic schizandra berries, organic licorice root, organic rosehips, organic orange peel, essential orange and tangerine oils.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1694522638406</id>
+      <title>1lb</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1694316625990</id>
+    <published>2020-03-23T11:31:18-05:00</published>
+    <updated>2020-03-23T11:31:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/chamomile-medley"/>
+    <title>Chamomile Medley - 4 oz</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/BulkTea_ChamomileMedley_LG.jpg?v=1584981577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chamomile Medley has a honey-like sweetness with soothing herbaceous counterpoints of spearmint and lemongrass. The use of chamomile as a calming herbal tea has a history dating back millennia to the ancient cultures of the Mediterranean. The select grade of chamomile has a welcome savory-sweet flavor reminiscent of fruit nectar, quince and apple. This blend is designed to relax, refresh and please the palate.</p>
+<p>Tasting Notes: A calming ensemble of chamomile with hints of refreshing citrus and mint</p>
+<p>Ingredients: Organic chamomile flowers, organic lemon myrtle, organic lemongrass, organic spearmint.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1694316625990</id>
+      <title>4oz</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1694485741638</id>
+    <published>2018-10-19T12:23:59-05:00</published>
+    <updated>2018-10-19T12:23:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/turmeric-ginger"/>
+    <title>Turmeric Ginger</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/BulkTea_TurmericGinger_LG.jpg?v=1581533422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The awesome, centering energy of golden turmeric root is enhanced by strengthening licorice root and zesty ginger in this Ayurveda inspired blend. Fragrant lemongrass and citrus peels create a lemon drop candy sweetness that balances the pungency of the roots. The combination of turmeric, ginger, lemon and honey is an ancient herbal recipe for longevity, stamina and balance.<br>Tasting Notes: An enlivening blend of golden turmeric with spicy ginger and zesty citrus<br><br>Ingredients: Organic ginger root, organic turmeric root, organic licorice root, organic lemongrass, organic orange peel, organic lemon peel, essential orange and lemon oils<br><br>Additional Info: Infusing ancient herbal traditions with epicurean creativity, our Herbal Teas express our mastery in sourcing exotic herbs, spices and fruits from all over the world. These natural ingredients are hand-blended in micro-batches to harmonize and develop a refined complexity.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1694485741638</id>
+      <title>1lb</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1694371512390</id>
+    <published>2018-10-19T12:02:51-05:00</published>
+    <updated>2018-10-19T12:02:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/blueberry-rooibos"/>
+    <title>Blueberry Rooibos</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/BulkTea_BlueberryRooibos_LG.jpg?v=1581530385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            14.00 - 30.00
+            <a href="https://barriquesmarket.com/products/blueberry-rooibos">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This fruity, succulent blend makes a bright crimson infusion highlighting the tart flavor of hibiscus flowers in harmony with the floral aroma and sweet-sour hints of wild schizandra berry.<br><br>Tasting Notes: A succulent rooibos blend with sweet blueberries and revitalizing schizandra berries<br><br>Ingredients: Organic and Fair Trade Certified™ rooibos, organic blueberries, organic schizandra berries, organic and Fair Trade Certified™ hibiscus flowers, natural blueberry and strawberry flavors.</p>
+<p><span>Package Size: 16oz (1 lb)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fair Trade Tea</s:tag>
+    <s:tag>Herbal Tea</s:tag>
+    <s:tag>Organic Tea</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1694371512390</id>
+      <title>4 oz</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>741391010629</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1694371512390</id>
+      <title>1 lb</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>741391010630</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+</feed>

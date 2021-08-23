@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/barriques-merch.atom"/>
+  <title>Barriques</title>
+  <updated>2020-07-22T16:31:23-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/5477758795934</id>
+    <published>2020-07-22T16:31:23-05:00</published>
+    <updated>2020-07-22T16:31:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/barriques-thermal-water-bottle-combination"/>
+    <title>Barriques Thermal / Water Bottle Combo</title>
+    <s:type></s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/thermal_water.jpg?v=1595454009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our logo'd Thermal Bottle and Madison themed water bottle are the perfect combination of Barriques Swag for the that true Barriques supporter in your life.  For a a limited time, you get one Barriques Logo'd 16.9oz vacuum insulated thermal bottle perfect for your favorite hot or cold Barriques beverage.  It has a lock down tight lid for worry free transportation and available in Silver, Black and Red.  You also get one Barriques “Madison” Water Bottle. Leak-proof and BPA Free. High quality 26oz Specialized Purist Water Bottle and MoFlo Top.  Available in Lime Green, Turquoise, White, Pink, Red &amp; Black.  Pricing good while supplies last.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barriques Merch</s:tag>
+    <s:tag>July 22 Show</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5477758795934</id>
+      <title>Silver / Lime Green</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5477758795934</id>
+      <title>Silver / Turquoise</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5477758795934</id>
+      <title>Silver / Pink</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5477758795934</id>
+      <title>Silver / Black</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5477758795934</id>
+      <title>Silver / Red</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5477758795934</id>
+      <title>Red / Lime Green</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5477758795934</id>
+      <title>Red / Turquoise</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5477758795934</id>
+      <title>Red / Pink</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5477758795934</id>
+      <title>Red / Black</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5477758795934</id>
+      <title>Red / Red</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5477758795934</id>
+      <title>Black / Lime Green</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5477758795934</id>
+      <title>Black / Turquoise</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5477758795934</id>
+      <title>Black / Pink</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5477758795934</id>
+      <title>Black / Black</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5477758795934</id>
+      <title>Black / Red</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5292043665566</id>
+    <published>2020-06-16T15:49:30-05:00</published>
+    <updated>2020-06-16T15:49:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/barriques-black-trucker-hat"/>
+    <title>Barriques Black Trucker Hat</title>
+    <s:type></s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/IMG_0952-2.jpg?v=1592401323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barriques Merch</s:tag>
+    <s:tag>June 17 Show</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5292043665566</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>101019</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4399318237256</id>
+    <published>2019-12-06T14:32:27-06:00</published>
+    <updated>2019-12-06T14:32:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/barriques-black-15oz-coffee-mug"/>
+    <title>Barriques Black 15oz Coffee Mug</title>
+    <s:type></s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/BlackMug1.jpg?v=1575664804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Looking for the perfect cup to go with your Barriques coffee? Look no further! Our black matte-finished 15oz mug is the perfect vessel to have a cup of coffee, tea, or whatever hot beverage you may choose.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barriques Merch</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4399318237256</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>23981</s:sku>
+      <s:grams>549</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1609032958022</id>
+    <published>2018-10-02T13:25:11-05:00</published>
+    <updated>2018-10-02T13:25:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/barriques-thermal-bottles"/>
+    <title>Barriques Thermal Bottles</title>
+    <s:type></s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/barriques_thermal_blkredslvr.jpg?v=1594823048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Barriques Logo'd 16.9oz vacuum insulated thermal bottle perfect for your favorite hot or cold Barriques beverage. Lock down tight lid for worry free transportation and available several colors.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barriques Merch</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1609032958022</id>
+      <title>Red</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>5031799</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1609032958022</id>
+      <title>Black</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>6111699</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1609032958022</id>
+      <title>Silver</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>10101699</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1609006022726</id>
+    <published>2018-10-02T13:13:54-05:00</published>
+    <updated>2018-10-02T13:13:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/barriques-traditional-cappuccino-mug"/>
+    <title>Barriques Traditional Cappuccino Mug</title>
+    <s:type></s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/barriques_6oz_tradcap.jpg?v=1541444655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our 6oz logo'd traditional cappuccino mugs. This mug will add a little style to any morning routine.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barriques Merch</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1609006022726</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>21980</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1608997699654</id>
+    <published>2018-10-02T13:10:30-05:00</published>
+    <updated>2018-10-02T13:10:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/barriques-diner-mug"/>
+    <title>Barriques Diner Mug</title>
+    <s:type></s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/barriques_dinermug.jpg?v=1541444511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our in-house 12oz coffee mug is the perfect compliment to your favorite Barriques coffee, tea or hot beverage of your choice.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>August 12 Show</s:tag>
+    <s:tag>Barriques Merch</s:tag>
+    <s:tag>Gifts Under 20</s:tag>
+    <s:tag>Holiday 2020</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1608997699654</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>24991</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1917286907974</id>
+    <published>2018-10-02T13:08:16-05:00</published>
+    <updated>2018-10-02T13:08:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/barriques-cityscape-baseball-tee"/>
+    <title>Barriques Cityscape Baseball Tee</title>
+    <s:type></s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/fullsizeoutput_35a5.jpeg?v=1544647604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Ode to our favorite city, our heather grey bodied, blue sleeved baseball tea features Madison's skyline from the perspective of Lake Monona. Three quarters sleeves and made from a super soft stretch cotton-poly blend that will look great wash after wash.  <br>-Unisex Sizing<br>-Tri-Blend (50% Polyester / 25% Cotton / 25% Rayon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barriques Merch</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1917286907974</id>
+      <title>XS</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1917286907974</id>
+      <title>S</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1917286907974</id>
+      <title>M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1917286907974</id>
+      <title>L</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1917286907974</id>
+      <title>XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1917286907974</id>
+      <title>XXL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1608989147206</id>
+    <published>2018-10-02T13:05:20-05:00</published>
+    <updated>2018-10-02T13:05:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/barriques-madison-water-bottle"/>
+    <title>Barriques &apos;Madison&apos; Water Bottle</title>
+    <s:type></s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Barriques_Waterbottle_RedWhiteBlue.png?v=1627324111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Barriques “Madison” Water Bottle. Leak-proof and BPA Free. High quality 26oz Specialized Purist Water Bottle and MoFlo Top.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barriques Merch</s:tag>
+    <s:tag>July 28 Show</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1608989147206</id>
+      <title>Red, White &amp; Blue</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1608989147206</id>
+      <title>Hyper Green</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>11898</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1608989147206</id>
+      <title>Pink</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>11892</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1608989147206</id>
+      <title>Turquoise</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>11890</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1608989147206</id>
+      <title>Blue</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>11895</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1608989147206</id>
+      <title>Black</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>11896</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1608989147206</id>
+      <title>Spartan Green &amp; White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>11894</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1608989147206</id>
+      <title>Cardinal White and Red</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>11899</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1608989147206</id>
+      <title>White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>11891</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1572566237254</id>
+    <published>2018-09-25T21:17:29-05:00</published>
+    <updated>2018-09-25T21:17:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/barriques-gift-card"/>
+    <title>Barriques Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/giftcard_composite.png?v=1588531340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            5.00 - 100.00
+            <a href="https://barriquesmarket.com/products/barriques-gift-card">(23 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>This gift card may only be used for purchases in a Barriques Cafe. </strong></p>
+<p>Gift cards ship free via USPS First-Class mail.  <br>Can’t decide between Pinot Noir and Pinot Grigio? Will it be a latte or should I go all out and get a mocha? A very cool reloadable Barriques Gift Card might be just the answer you are looking for. Available in any denomination and can be used at all Barriques locations for any Barriques product or service. This gift card cannot be used for online purchases.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barriques Merch</s:tag>
+    <s:tag>December 23 Show</s:tag>
+    <s:tag>Gifts Under 20</s:tag>
+    <s:tag>Holiday 2020</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$5 / Red</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>8888-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$5 / Blue</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>8888-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$10 / Red</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>8888-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$10 / Blue</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>8888-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$10 / Make Coffee</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>8888-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$10 / Best Time</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>8888-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$25 / Red</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>8888-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$25 / Blue</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>8888-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$25 / Make Coffee</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>8888-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$25 / Best Time</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>8888-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$50 / Red</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>8888-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$50 / Blue</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>8888-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$50 / Make Coffee</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>8888-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$50 / Best Time</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>8888-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$75 / Red</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>8888-17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$75 / Blue</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>8888-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$75 / Make Coffee</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>8888-19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$75 / Best Time</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>8888-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$100 / Red</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>8888-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$100 / Blue</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>8888-22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$100 / Make Coffee</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>8888-23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$100 / Best Time</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>8888-24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572566237254</id>
+      <title>$5 / Make Coffee</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

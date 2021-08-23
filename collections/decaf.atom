@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/decaf.atom"/>
+  <title>Barriques</title>
+  <updated>2021-07-07T12:49:39-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/4514323791944</id>
+    <published>2021-07-07T12:49:39-05:00</published>
+    <updated>2021-07-07T12:49:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/downshift-mountain-water-decaf-cwt-3-for-2-pack"/>
+    <title>Downshift Mountain Water Decaf CWT  - 3 For 2 Pack</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Med-MWP_Downshift_Decaf_600_1024x1024_2x_77122a31-9e0a-4891-83e5-1f735d8620e1.jpg?v=1585524258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            28.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Barriques CWT Deal - This item includes 3 bags for the price of 2! </strong></p>
+<p>Downshift Decaf is our breakfast-type Decaf blend. We use natural decafs from the New World, Africa and the Pacific Islands to build a blend with crisp, energizing aroma, medium body and lots of bright fruit notes.</p>
+<p>Just one look and taste of Barriques Decaf, and you know we’re coming from a very different place than other specialty roasters. We buy better beans because we’re determined that ALL our customers enjoy great coffee – crisp, rich and satisfying, and with ‘taste of place’ only possessed by sustainably-grown heirloom Arabica.</p>
+<p>Our beans are decaffeinated by the Mountain Water Process, the same natural decaffeination as Swiss Water. The decaffeination plant is new, with updated processes and controls that protect coffee flavor. We craft roast decaf the same way as our other coffees – in small batches with careful attention to the nuances that signal peak flavor development. Our Decafs are delicious, with cup quality, intensity and flavor to match our other specialty coffees!</p>
+<p>12oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blends</s:tag>
+    <s:tag>Coffee Live</s:tag>
+    <s:tag>CWT</s:tag>
+    <s:tag>Decaf</s:tag>
+    <s:tag>July 7 Show</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4514323791944</id>
+      <title>Whole Bean</title>
+      <s:price currency="USD">28.90</s:price>
+      <s:sku>27125-1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4514323791944</id>
+      <title>French Press/Coarse</title>
+      <s:price currency="USD">28.90</s:price>
+      <s:sku>27125-3</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4514323791944</id>
+      <title>Drip</title>
+      <s:price currency="USD">28.90</s:price>
+      <s:sku>27125-5</s:sku>
+      <s:grams>1388</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4514323791944</id>
+      <title>Espresso/Fine</title>
+      <s:price currency="USD">28.90</s:price>
+      <s:sku>27125-11</s:sku>
+      <s:grams>467</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6624843825310</id>
+    <published>2021-03-31T14:46:49-05:00</published>
+    <updated>2021-03-31T14:46:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/nighty-night-decaf"/>
+    <title>Nighty Night Decaf</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/NightyNight.png?v=1617217567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><strong>Pre-Order Only.  Orders ship or are available for pickup starting Friday, April 16th.</strong></p>
+<p>Your dreams do come true, literally, w/ the newest release from our Amplified Coffee series.  The Nighty Night Decaf is built upon the most popular decaf coffee in our lineup, the Downshift Mountain Water Process Decaf.  To the Downshift we add 17 milligrams of Melatonin per 12oz bag to help insure that yawning will happen.  </p>
+<p><meta charset="UTF-8"><span>All of our decafs are decaffeinated by the Mountain Water Process, the same natural decaffeination as Swiss Water. The decaffeination plant is new, with updated processes and controls that protect coffee flavor. We craft roast decaf the same way as our other coffees – in small batches with careful attention to the nuances that signal peak flavor development. Our Decafs are delicious, with cup quality, intensity and flavor to match our other specialty coffees!</span></p>
+<p>Pack Size: 12oz Ground Coffee<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Amplified Coffee</s:tag>
+    <s:tag>April 7 Show</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Decaf</s:tag>
+    <s:tag>March 31 Show</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6624843825310</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6075781677214</id>
+    <published>2021-02-04T13:35:00-06:00</published>
+    <updated>2021-02-04T13:35:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/decaf-organic-mexico-mountain-water-process"/>
+    <title>Decaf Organic Mexico Mountain Water Process</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/MWPOrganicMexico.png?v=1612466924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong data-mce-fragment="1">Background</strong><br data-mce-fragment="1"><span data-mce-fragment="1">Just one look and taste of Barriques Decaf, and you know we’re coming from a very different place than other specialty roasters. We buy better beans because we’re determined that ALL our customers enjoy great coffee – crisp, rich and satisfying, and with ‘taste of place’ only possessed by sustainably-grown heirloom Arabica.</span></p>
+<p><span>These beans are decaffeinated by the Mountain Water Process, the same natural decaffeination as Swiss Water. The decaffeination plant is new, with updated processes and controls that protect coffee flavor. We craft roast decaf the same way as our other coffees – in small batches with careful attention to the nuances that signal peak flavor development. Our Decafs are delicious, with cup quality, intensity and flavor to match our other specialty coffees!</span></p>
+<p><span><strong>Taste</strong><br></span>This coffee is carefully sourced to withstand the extreme pressures of the natural decaffeination process resulting in natural flavor retention that is true of the bean. It is from an organically certified cooperative of nearly 2100 smallholders in the surrounding Oaxacan coffee regions of <span data-mce-fragment="1">Costa, Sierra Sur, Mixteca, Cañada and Papaloapan.   It is a </span>beautiful representation of the clean, mellow, comforting flavors of Mexican coffee. <br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Americas</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Decaf</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6075781677214</id>
+      <title>Wholebean</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6075781677214</id>
+      <title>French Press/Coarse</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6075781677214</id>
+      <title>Drip</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6075781677214</id>
+      <title>Espresso/Fine</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4523295080520</id>
+    <published>2021-01-08T09:23:36-06:00</published>
+    <updated>2021-01-08T09:23:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/decaf-ethiopia-mountain-water-process"/>
+    <title>Decaf Ethiopia Mountain Water Process</title>
+    <s:type></s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Light-MWP_Ethiopia_Decaf_800x800_74a0e74b-207d-40bc-8d38-ca59547cac55.png?v=1586217848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our lightly roasted Ethiopia Mountain Water Process Decaf manages to maintain a solid medium to full body while assuming the role as the crispest finishing decaf in our lineup.  Incredibly clean on the palate with lovely citrus and spices notes this coffee will fool you into thinking there is no way you are drinking a decaf coffee! </p>
+<p>Just one look and taste of Barriques decaf coffee, and you know we’re coming from a very different place than other specialty roasters. We buy better beans because we’re determined that ALL our customers enjoy great coffee – crisp, rich and satisfying, and with ‘taste of place’ only possessed by sustainably-grown heirloom Arabica.</p>
+<p>Our beans are decaffeinated by the Mountain Water Process, the same natural decaffeination as Swiss Water. The decaffeination plant is new, with updated processes and controls that protect coffee flavor. We craft roast decaf the same way as our other coffees – in small batches with careful attention to the nuances that signal peak flavor development. Our Decafs are delicious, with cup quality, intensity and flavor to match our other specialty coffees!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Decaf</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4523295080520</id>
+      <title>Whole Bean</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4523295080520</id>
+      <title>French Press/Coarse</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4523295080520</id>
+      <title>Drip</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1569775648838</id>
+    <published>2018-09-25T11:19:35-05:00</published>
+    <updated>2018-09-25T11:19:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/downshift-decaf-mountain-water-process"/>
+    <title>Downshift Decaf Mountain Water Process</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Med-MWP_Downshift_Decaf_600.jpg?v=1537892377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            14.45 - 96.00
+            <a href="https://barriquesmarket.com/products/downshift-decaf-mountain-water-process">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Downshift Decaf is our breakfast-type Decaf blend. We use natural decafs from the New World, Africa and the Pacific Islands to build a blend with crisp, energizing aroma, medium body and lots of bright fruit notes.</p>
+<p>Just one look and taste of Barriques decaf coffee, and you know we’re coming from a very different place than other specialty roasters. We buy better beans because we’re determined that ALL our customers enjoy great coffee – crisp, rich and satisfying, and with ‘taste of place’ only possessed by sustainably-grown heirloom Arabica.</p>
+<p>Our beans are decaffeinated by the Mountain Water Process, the same natural decaffeination as Swiss Water. The decaffeination plant is new, with updated processes and controls that protect coffee flavor. We craft roast decaf the same way as our other coffees – in small batches with careful attention to the nuances that signal peak flavor development. Our Decafs are delicious, with cup quality, intensity and flavor to match our other specialty coffees!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blends</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Decaf</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775648838</id>
+      <title>Whole Bean / 12oz Bag</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku>27320-1</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775648838</id>
+      <title>Whole Bean / 5lb Bag</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>27320-2</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775648838</id>
+      <title>French Press/Coarse / 12oz Bag</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku>27320-3</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775648838</id>
+      <title>French Press/Coarse / 5lb Bag</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>27320-4</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775648838</id>
+      <title>Drip / 12oz Bag</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku>27320-5</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775648838</id>
+      <title>Drip / 5lb Bag</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>27320-6</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775648838</id>
+      <title>Espresso/Fine / 12oz Bag</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku>27320-7</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775648838</id>
+      <title>Espresso/Fine / 5lb Bag</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>27320-8</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1569775484998</id>
+    <published>2018-09-25T11:19:33-05:00</published>
+    <updated>2018-09-25T11:19:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/decaf-merchants-blend-mountain-water-process"/>
+    <title>Decaf Merchants Blend Mountain Water Process</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Dark-Decaf_Merchants_600.jpg?v=1537892375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            14.45 - 96.00
+            <a href="https://barriquesmarket.com/products/decaf-merchants-blend-mountain-water-process">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Decaf Merchants Blend is a rich and satisfying medium-full bodied blend with roasty, lightly spicy flavor. We use natural decafs from Colombia, Sumatra and our Decaf Smokejumper Dark Roast to make a blend with a roasty flavor notes and rich, satisfying body and mouthfeel.</p>
+<p>Just one look and taste of a Barriques decaf and you know we’re coming from a very different place than other specialty roasters. We buy better beans because we’re determined that ALL our customers enjoy great coffee – crisp, rich and satisfying, and with ‘taste of place’ only possessed by sustainably-grown heirloom Arabica.</p>
+<p>Our beans are decaffeinated by the Mountain Water Process, the same natural decaffeination as Swiss Water. The decaffeination plant is new, with updated processes and controls that protect coffee flavor. We craft roast decaf the same way as our other coffees – in small batches with careful attention to the nuances that signal peak flavor development. Our Decafs are delicious, with cup quality, intensity and flavor to match our other specialty coffees!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blends</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Dark Roast</s:tag>
+    <s:tag>Decaf</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775484998</id>
+      <title>Whole Bean / 12oz Bag</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku>27220-1</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775484998</id>
+      <title>Whole Bean / 5lb Bag</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>27220-2</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775484998</id>
+      <title>French Press/Coarse / 12oz Bag</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku>27220-3</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775484998</id>
+      <title>French Press/Coarse / 5lb Bag</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>27220-4</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775484998</id>
+      <title>Drip / 12oz Bag</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku>27220-5</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775484998</id>
+      <title>Drip / 5lb Bag</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>27220-6</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775484998</id>
+      <title>Espresso/Fine / 12oz Bag</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku>27220-7</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775484998</id>
+      <title>Espresso/Fine / 5lb Bag</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>27220-8</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1569775255622</id>
+    <published>2018-09-25T11:19:31-05:00</published>
+    <updated>2018-09-25T11:19:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/decaf-colombia-mountain-water-process"/>
+    <title>Decaf Colombia Mountain Water Process</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Med-MWP_Colombia_Decaf_600.jpg?v=1537892373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            13.95 - 92.95
+            <a href="https://barriquesmarket.com/products/decaf-colombia-mountain-water-process">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Background</strong><br>Just one look and taste of Barriques Decaf, and you know we’re coming from a very different place than other specialty roasters. We buy better beans because we’re determined that ALL our customers enjoy great coffee – crisp, rich and satisfying, and with ‘taste of place’ only possessed by sustainably-grown heirloom Arabica. These beans are grown in Huila, one of the finest growing areas of Colombia’s southern Cordillera Central range, and produced by a small mill run by the Valencia family. For over 30 years the Valencias have been a mainstay for the best specialty coffees from Huila.<br></p>
+<p>Our beans are decaffeinated by the Mountain Water Process, the same natural decaffeination as Swiss Water. The decaffeination plant is new, with updated processes and controls that protect coffee flavor. We craft roast decaf the same way as our other coffees – in small batches with careful attention to the nuances that signal peak flavor development. Our Decafs are delicious, with cup quality, intensity and flavor to match our other specialty coffees!</p>
+<p><strong>Taste</strong><br>Our Colombia Mountain Water Decaf is medium-bodied with a smooth, buttery mouthfeel and sweet chocolate and walnut flavor notes. The excellent flavor and rich, nutty finish will have you reaching for a second cup.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Americas</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Decaf</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775255622</id>
+      <title>Whole Bean / 12oz Bag</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>27170-1</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775255622</id>
+      <title>Whole Bean / 5lb Bag</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>27170-2</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775255622</id>
+      <title>French Press/Coarse / 12oz Bag</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>27170-3</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775255622</id>
+      <title>French Press/Coarse / 5lb Bag</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>27170-4</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775255622</id>
+      <title>Drip / 12oz Bag</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>27170-5</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775255622</id>
+      <title>Drip / 5lb Bag</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>27170-6</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775255622</id>
+      <title>Espresso/Fine / 12oz Bag</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>27170-7</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569775255622</id>
+      <title>Espresso/Fine / 5lb Bag</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>27170-8</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+  </entry>
+</feed>

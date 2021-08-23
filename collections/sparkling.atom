@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/sparkling.atom"/>
+  <title>Barriques</title>
+  <updated>2021-08-13T12:29:27-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/6891328307358</id>
+    <published>2021-08-13T12:29:27-05:00</published>
+    <updated>2021-08-13T12:29:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/enrico-serafino-brut-alta-langa-oudeis"/>
+    <title>Enrico Serafino Brut Alta Langa Oudeis</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/EnricoSerafino_BrutAlta_LangaOudeis.png?v=1628875433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2016 - Brilliant pale yellow. Intense aroma rich in honey scents, white flowers, white fruits enhanced with bread crust and fine yeast aromas. Fine and persistent pérlage. Complex aroma, elegant, fresh and with good salinity at the same time, with long mineral persistent finish.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6891328307358</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>748789740105</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6826429251742</id>
+    <published>2021-08-11T09:32:56-05:00</published>
+    <updated>2021-08-11T09:32:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/in-person-summer-sparkling-tasting-08-27"/>
+    <title>In-Person Summer Sparkling Tasting 08/27</title>
+    <s:type>Tasting</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/WineTastingSparkleWines-1.png?v=1628692202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Tasting<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">
+<span>Often over-looked and forgotten about by the daily wine drinkers out there, Sparkling wine is rarely the wrong choice.  Join us for an in-person Summer Sparkling Wine Celebration featuring some of our favorite old faithfuls and some newbies you won't want to miss. Join us for this in-person tasting on Friday, August 27th at Barriques Middleton.  The event runs from 5 - 7pm, stop by anytime.</span><span>  $16 discounted advance purchase price.  $21 day of event. </span>
+</div>
+<div data-mce-fragment="1">
+<span></span><br>
+</div>
+<div data-mce-fragment="1"><span style="text-decoration: underline;">Wines To Be Tasted Include:</span></div>
+<p><span data-mce-fragment="1">Casa Coste Piane Prosecco</span> <br>Avinyo Cava<br>Moillard Cremant du Bourgogne<br>Roederer Estate Brut<br>Filipa Pato 3B Sparkling Rose<br>Cleto Chiarli Brut Rose</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>August 11 Show</s:tag>
+    <s:tag>August 18 Show</s:tag>
+    <s:tag>In-Person Tasting 08/27</s:tag>
+    <s:tag>July 28 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6826429251742</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6814655512734</id>
+    <published>2021-07-12T10:00:39-05:00</published>
+    <updated>2021-07-12T10:00:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/montauto-staccione-rosato-toscana"/>
+    <title>Montauto Staccione Rosato Toscana</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/bottiglia-staccione-2020.png?v=1626102039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - Organically produced.  Very floral, elegant nose with plenty of red berry fruits of raspberry, strawberry with a backdrop of mineral.  Pleasant brightness to the palate, long, lingering fruit and crisp core.--Finn</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6814655512734</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8056539350101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6779889320094</id>
+    <published>2021-06-24T14:36:56-05:00</published>
+    <updated>2021-06-24T14:36:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/santa-marina-prosecco-rose"/>
+    <title>Santa Marina Prosecco Rosè</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/SMA-Sell-Sheets-Santa-Marina-Prosecco-Rose.png?v=1624563414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fresh aromas of summertime raspberries, strawberries with a soft floral note.  Refreshing, delicate mousse, great fruit and crisp core.  A great wine for appetizers, aperitif, fruit salads and mild cheeses.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6779889320094</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>039383011785</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6084783079582</id>
+    <published>2021-02-08T14:29:38-06:00</published>
+    <updated>2021-02-08T14:29:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/villa-wolf-sparkling-pinot-noir-rose"/>
+    <title>Villa Wolf Sparkling Pinot Noir Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/PinotNoir_SparklingRose_800x_f04ffb3b-ccc7-4beb-b2fd-87521b7fd7aa.png?v=1612816180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">This German Sekt (sparkling) Pinot Noir Rose is a new release from the team.  To  begin, they decided to build off of their very popular Villa Wolf Pinot Noir Rose, coincidentally Barriques #1 selling rose of 2020.  In the glass, you get a pink salmon hue in the wine with an elegant bubble rising to the crown.  A fresh, fragrant, crips nose of sliced strawberries and red berries are a feast for your nose.  Once on the palate, you’ll experience the freshness of the lush red berry fruits followed by a zippy finish.  If you wanted to hit the proverbial Valentines Day nail on the head, the Villa Wolf Sparkling Pinot Noir Rose is it.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>February 10 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6084783079582</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>810404020616</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6071425958046</id>
+    <published>2021-02-02T10:43:13-06:00</published>
+    <updated>2021-02-02T10:43:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/underwood-cellars-bubbles-duo"/>
+    <title>Underwood Cellars Bubbles Duo</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/underwoodcellars_bubblesduo.png?v=1612284034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            9.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Get the perfect sparkling wine pair featuring some of our favorite, and certainly most portable, bubbly from Oregon.  This item includes one 250ml can of Underwood Bubbles and one 250ml can of Underwood Rose Bubbles.</span></p>
+<p><span data-mce-fragment="1">Underwood The Bubbles  - A bright refreshing wine with notes of ripe citrus, tropical fruit, and white flowers. This is a refreshingly casual wine that works well paired with just about any light fare, from bacon and eggs to buttery popcorn and even works well with sushi.  </span></p>
+<p>Underwood Rose Bubbles - For those who like their sparkling wines with a lush taste and a slight blush, Union Wine Company offers Underwood Rosé Bubbles. Our Rosé Bubbles are so delicately delicious, we gave them a glass slipper and a crown seal. Whether you are planning a garden party or a backyard BBQ, our Rosé Bubbles will add an element of taste to every gathering. Tasting Notes: Wild strawberry, watermelon &amp; tart cherry. 250ml<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Oregon</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6071425958046</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.49</s:price>
+      <s:sku>856036001395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6027129389214</id>
+    <published>2021-01-13T14:05:19-06:00</published>
+    <updated>2021-01-13T14:05:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/thomas-labaille-sancerre-mont-damnes"/>
+    <title>Thomas-Labaille Sancerre Mont Damnes</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Untitleddrawing_4_4133d9de-af90-4aa0-96a0-b672dfaaa10d.png?v=1610568300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2019 - 100% Sauvignon Blanc. Thomas-Labaille has vines averaging thirty years old with some much older on the famously steep slope of Monts Damnés in Chavignol. They are sustainably farmed and harvested by hand. The wine is fermented with native yeasts in fiberglass and cement tanks, aged on its lees in stainless steel tanks (with a small proportion of used barrel in some vintages) for four to six months and bottled without filtration.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6027129389214</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>012192</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6027122868382</id>
+    <published>2021-01-13T14:04:02-06:00</published>
+    <updated>2021-01-13T14:04:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/flaunt-sonoma-county-brut"/>
+    <title>Flaunt Sonoma County Brut</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Untitleddrawing_3_50e94338-f7af-4121-a8af-20a27255c5cf.png?v=1610568206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The nose begins with lively green fruit aromas along with a slight minerality and a hint of toastiness. The green fruit continues on the palate with kiwi and other tropical fruits mixing with ginger and a fascinating macadamia nut character. The finish is long with a broad yeastiness and crisp acidity.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-California</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6027122868382</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>012198</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5889811939486</id>
+    <published>2020-11-12T13:11:41-06:00</published>
+    <updated>2020-11-12T13:11:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/moillard-cremant-de-bourgogne-rose-brut"/>
+    <title>Moillard Cremant de Bourgogne Rose Brut</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/cremantdebourgogne_moillard_brutrose.jpg?v=1605208304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Light pink color. The citrus notes blend subtly with aromas of strawberry, forming a fresh and delicate bouquet. The palate is lively, with notes of grapefruit and fresh bread. Together they form a rich, fresh and vibrant wine.-Winemaker</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>var-</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5889811939486</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>689927013111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5889786282142</id>
+    <published>2020-11-12T12:59:38-06:00</published>
+    <updated>2020-11-12T12:59:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/moillard-cremant-de-bourgogne-brut"/>
+    <title>Moillard Cremant de Bourgogne Brut</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Moillard_CremantdeBourgogne_Brut.png?v=1605207483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Light yellow with bright reflections. The nose is fresh and lemony composed of floral aromas which are released subtly. The mouth is in fresh, delicate, tight and precise with fine bubbles that stimulate the palate nicely.--Winemaker</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020BlowOut</s:tag>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5889786282142</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>689927063017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5889753514142</id>
+    <published>2020-11-12T12:48:04-06:00</published>
+    <updated>2020-11-12T12:48:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/de-moor-vdf-blanc-sans-bruit"/>
+    <title>De Moor VDF Blanc Sans Bruit</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/DeMoor_VDFBlanc_SansBruit.jpg?v=1605206885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2017 - The 2017 Sans Bruit d'Autre Vallées is a gorgeous wine that melds together the distinctive aromatic signatures of the Sauvignons of the town of Saint-Bris with an extra kick of textural richness, an incredibly appealing combination in my book. Sage, mint, dried flowers and green orchard fruit are all finely knit in this eccentric, alluring wine. A dollop (10%) of Sauvignon Gris adds further shades of complexity.— 92pts Vinous</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5889753514142</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>112099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5889741095070</id>
+    <published>2020-11-12T12:44:55-06:00</published>
+    <updated>2020-11-12T12:44:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/mestres-conquet-gran-reserva-brut-nature-cava"/>
+    <title>Mestres Conquet Gran Reserva Brut Nature Cava</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/MestresCoquet_GranReserva_BrutNature.png?v=1605206696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2014 - Pale straw color. High-pitched citrus/orchard fruits, jasmine and dusty minerals on the incisive nose. Clean and nervy on the palate, offering fresh tangerine and green apple flavors that show excellent tension and turn spicier with air. Smooths out slowly on a long, energetic finish that leaves notes of Meyer lemon and spicy candied ginger behind.“—91pts Vinous<br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Spain</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5889741095070</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>8437001132027</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5889678409886</id>
+    <published>2020-11-12T12:19:23-06:00</published>
+    <updated>2020-11-12T12:19:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/mumm-napa-rose"/>
+    <title>Mumm Napa Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Mumm_BrutRose.png?v=1605205153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A beautiful pink coral color and fresh, vivid aromas of black cherries, red berries and citrus introduce soft red fruit flavors that are rich and mouth-filling, yet retain the elegant character that is Mumm Napa’s trademark.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-California</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5889678409886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>852832000174</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5889665564830</id>
+    <published>2020-11-12T12:13:56-06:00</published>
+    <updated>2020-11-12T12:13:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/mumm-napa-brut"/>
+    <title>Mumm Napa Brut</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Mumm_BrutPrestige.png?v=1605204800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brut Prestige features fine bright citrus, red apple, stone fruit and creamy vanilla aromas, with hints of toast, honey and gingerbread spice. Its vibrant flavors are balanced by fine acidity and a rich, lingering finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-California</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5889665564830</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>852832000150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5877725626526</id>
+    <published>2020-11-06T10:29:45-06:00</published>
+    <updated>2020-11-06T10:29:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/marcel-cabelier-cremant-du-jura-rose"/>
+    <title>Marcel Cabelier Cremant du Jura Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/cremantdujura_rose.png?v=1604680145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The wines of Marcel Cabelier are produced in the Jura region of France.  Jura is smashed up against the Swiss mountains southeast of Burgundy and is known to be a very difficult place to make wine.  They have clearly overcome the challenges however as their wines are made at the best negociant house in the area and their Cremant du Jura wines are some of the absolute best sparkling wines outside of Champagne while retailing for half the price.  </span></p>
+<p>The nose on the Cremant Du Jura Rose is reminiscent of a freshly baked strawberry, rhubarb coffee cake with notes of grilled toast. On the palate, it is full of flavor, persistent bubbles and tapers off to a lovely dry finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020BlowOut</s:tag>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>Thanksgiving 2020</s:tag>
+    <s:tag>var-</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5877725626526</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>641586338141</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5877688139934</id>
+    <published>2020-11-06T09:52:58-06:00</published>
+    <updated>2020-11-06T09:52:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/marcel-cabelier-cremant-du-jura-brut"/>
+    <title>Marcel Cabelier Cremant du Jura Brut</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/MarcelCabelier_CremantduJura_Brut.png?v=1604678082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2015 - Aromas of green apples and honey. Notes of brioche, which is characteristic of wines made in the méthode traditionelle.  On the palate you first got a hint of the nose that will carry through on the palate: you’ll taste notes of honeyed apple and toasty brioche, enhanced by fine and creamy bubbles.  Round, lush and pleasurable.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>December 30 Show</s:tag>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>Thanksgiving 2020</s:tag>
+    <s:tag>Top Picks</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5877688139934</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>641586338134</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5850325123230</id>
+    <published>2020-10-28T10:19:28-05:00</published>
+    <updated>2020-10-28T10:19:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/alma-4-blanc-de-blanc"/>
+    <title>Alma 4 Blanc de Blanc</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/blancdeblanc_alma4_square.jpg?v=1603898322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2014 - 100% Chardonnay.  Freshly baked apples, pears, citrus with light biscuit-y toast notes.  Good effervescence in the glass, bright fall fruits, crisp and dry.  A pleasure to drink.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>var-Chardonnay</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5850325123230</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>758730000011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5822253170846</id>
+    <published>2020-10-19T14:57:01-05:00</published>
+    <updated>2020-10-19T14:57:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/domaine-de-montbourgeau-cremant-du-jura"/>
+    <title>Domaine de Montbourgeau Cremant du Jura</title>
+    <s:type></s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/DomainedeMontbourgeau_CremantduJura.png?v=1603138378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A very dry, pure Chardonnay matured in contact with the lees for 18 months and bottled as a Brut, with less than three grams of sugar. The nose is clean and subtle, with some simple notes of white fruit, flowers and a little yeast character. The palate is fresh, equally clean, straightforward and easy to drink.--Wine Advocate</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>var-Chardonnay</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5822253170846</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>102098</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5573510463646</id>
+    <published>2020-08-13T16:16:24-05:00</published>
+    <updated>2020-08-13T16:16:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/domaine-mosse-petillant-naturel-moussamousettes"/>
+    <title>Domaine Mosse Petillant Naturel Moussamousettes</title>
+    <s:type></s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/DomaineMossePetillant_NaturelMoussamousettes.png?v=1597354829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2019 - Fan favorite Pet-Nat! This is a Grolleau Gris and Gamay blend from the Loire Valley. This is a fragrant and flavorful, yet dry, sparkling rosé.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>var-</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5573510463646</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>614019600481</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5573507088542</id>
+    <published>2020-08-13T16:15:00-05:00</published>
+    <updated>2020-08-13T16:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/avinyo-gran-reserva-cava-seleccion-ticota"/>
+    <title>Avinyo Gran Reserva Cava Seleccion Ticota</title>
+    <s:type></s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/avinyocava_granreserva.png?v=1597354958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2009 - Green-tinged yellow. Aromas of fresh orchard fruits and lemon curd are complicated by suggestions of anise, chalk and honey. Dry and precise but deep, offering intense, impressively deep citrus fruit flavors. Finishes vibrant and long, with lingering spiciness and smokiness. This Cava was aged on its lees for four years.--91pts Stephen Tanzer</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Spain</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5573507088542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>664841000973</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4590938554440</id>
+    <published>2020-05-19T14:40:19-05:00</published>
+    <updated>2020-05-19T14:40:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/cune-cava-brut"/>
+    <title>Cune Cava Brut</title>
+    <s:type></s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Untitleddrawing_3_08055135-150f-4974-a073-faf9f0b03cce.png?v=1589318645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>PICKUP ONLY.  You will receive confirmation as soon as the wine is ready for pickup at the location you requested. </strong></p>
+<p>Pale yellow color with golden hues. A good release of tiny<br>bubbles rising in trains to form a cheerful crown of mousse.<br>This Cava displays fruit notes and typical nuances of aging in bottle. There is fresh acidity for balance, with a creamy texture and lingering finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Spain</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>var-Cava</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4590938554440</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>051497037093</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4565138079816</id>
+    <published>2020-04-29T10:18:42-05:00</published>
+    <updated>2020-04-29T10:18:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/nv-mousse-blanc-de-noirs-lor-deugene"/>
+    <title>NV Mousse Blanc de Noirs L&apos;Or D&apos;Eugene</title>
+    <s:type></s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Untitleddrawing_5_fffb84e1-ffec-4ac3-a7e9-ad4b42f5c429.png?v=1588173652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>PICKUP ONLY.  You will receive confirmation as soon as the wine is ready for pickup at the location you requested. </strong></p>
+<p>80% Meunier and 20% PN. The aroma is refined, friendly but not ingratiating; on the palate it’s a superb Blanc de Noirs, diligent, structured, fruity but not gushing, disciplined but not severe. I think and have always thought it’s the ideal for Meunier NV; thoroughly delicious but not an avalanche of chocolate and pumpernickel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4565138079816</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>747736510709</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4565132771400</id>
+    <published>2020-04-29T10:16:08-05:00</published>
+    <updated>2020-04-29T10:16:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/emile-paris-brut"/>
+    <title>Emile Paris Brut</title>
+    <s:type></s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Untitleddrawing_4_397f4109-1342-478a-be11-61fbf6868b5e.png?v=1588173399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>PICKUP ONLY.  You will receive confirmation as soon as the wine is ready for pickup at the location you requested. </strong></p>
+<p>50% Pinot Noir, 30% Chardonnay and 20% Pinot Meunier. Delicate and fresh with muted aromas of flowers followed by a crisp palate with hints of fresh bread.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4565132771400</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>3770006660009</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4565128183880</id>
+    <published>2020-04-29T10:13:19-05:00</published>
+    <updated>2020-04-29T10:13:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/billecart-salmon-brut-reserve"/>
+    <title>Billecart Salmon Brut Reserve</title>
+    <s:type></s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Untitleddrawing_3_0fd1e9f7-c416-40f0-823f-2320f78ce22c.png?v=1588173271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>PICKUP ONLY.  You will receive confirmation as soon as the wine is ready for pickup at the location you requested. </strong></p>
+<p>40% Pinot Meunier, 35% Pinot Noir, 25% Chardonnay. The mousse is energetic with an abundant ultra fine bubble. Complex and seductive aromas of dried fruits and brioche combined with floral notes. This is further enhanced by the subtle charm of lemon verbena. A precise, elegant and aromatic freshness. Charmin biscuity flavour, white fruits with a a full and harmonious minerality. Great w/ veal carpaccio, scallops and ceviche.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4565128183880</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>121297</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4563012157512</id>
+    <published>2020-04-28T18:56:36-05:00</published>
+    <updated>2020-04-28T18:56:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/underwood-the-bubbles-can"/>
+    <title>Underwood The Bubbles Can</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/UnderwoodCellars_Bubbles_250ml.png?v=1612283617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PICKUP ONLY. You will receive confirmation as soon as the wine is ready for pickup at the location you requested. </strong></span></p>
+<p><span>Underwood The Bubbles is a bright refreshing wine with notes of ripe citrus, tropical fruit, and white flowers. This is a refreshingly casual wine that works well paired with just about any light fare, from bacon and eggs to buttery popcorn and even works well with sushi.  </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>August 26 Show</s:tag>
+    <s:tag>December 16 Show</s:tag>
+    <s:tag>ori-Oregon</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>Stocking Stuffers</s:tag>
+    <s:tag>Virtual Tasting 0430</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4563012157512</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>856036001388</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

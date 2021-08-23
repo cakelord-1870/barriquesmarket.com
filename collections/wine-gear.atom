@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/wine-gear.atom"/>
+  <title>Barriques</title>
+  <updated>2020-06-16T15:49:30-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/5291946901662</id>
+    <published>2020-06-16T15:49:30-05:00</published>
+    <updated>2020-06-16T15:49:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/picnic-stix-set"/>
+    <title>Picnic Stix Set</title>
+    <s:type></s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/picnic_stix.jpg?v=1592399462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Ditch the plastic cups and keep things classy with ingenious Picnic Stix™. The chrome spikes drive easily into the ground to hold two glasses and a bottle at drinking level. Cheers to spill-free dining!</span><br>
+<ul>
+<li>2 wine glass holders &amp; 1 bottle holder</li>
+<li>Made of chrome</li>
+<li>Prevents spills</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>June 17 Show</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Wine Gear</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5291946901662</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>876718008528</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4472912248904</id>
+    <published>2020-02-12T13:07:02-06:00</published>
+    <updated>2020-02-12T13:07:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/wine-markers-winer-dogs"/>
+    <title>Wine Markers - Winer Dogs</title>
+    <s:type>Wine Gear</s:type>
+    <s:vendor>Fred &amp; Friends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Winerdog3.jpg?v=1581534431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fred &amp; Friends<br>
+        <strong>Type: </strong>Wine Gear<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mark your territory with these dog drink IDs.<br></p>
+<p>These darling dachshunds will mark your drink so you can find it again. WINER DOGS come in a set of six fun colors and are made of pure silicone.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Wine Gear</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4472912248904</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>728987026591</s:sku>
+      <s:grams>77</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4472911036488</id>
+    <published>2020-02-12T13:04:29-06:00</published>
+    <updated>2020-02-12T13:04:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/bottle-stopper-winer-dog"/>
+    <title>Bottle Stopper - Winer Dog</title>
+    <s:type></s:type>
+    <s:vendor>Fred &amp; Friends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/WinerDog2.jpg?v=1581534321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fred &amp; Friends<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>A bottle's best friend. Need a little hair of the dog? Fred's WINER DOG is begging to help you out. This delightful dachshund will make a loyal pal for your Pinot with his favorite trick - keeping an airtight seal on your bottle. Constructed from pure food-grade silicone, each measures about 3" tall.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Wine Gear</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4472911036488</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>728987033834</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4472910151752</id>
+    <published>2020-02-12T11:55:57-06:00</published>
+    <updated>2020-02-12T11:55:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/bottle-stopper-oaked-wine"/>
+    <title>Bottle Stopper - Oaked Wine</title>
+    <s:type></s:type>
+    <s:vendor>Fred &amp; Friends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/oakedwine2.jpg?v=1581534127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fred &amp; Friends<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A nutty wine-stopper set. Fred's OAKED WINE silicone acorn stoppers squirrel away your wine for another day, while the low-pro le design is short enough to stash in your fridge. Set of two.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Wine Gear</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4472910151752</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>728987029660</s:sku>
+      <s:grams>41</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1965074612294</id>
+    <published>2019-01-17T14:13:35-06:00</published>
+    <updated>2019-01-17T14:13:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/wine-lives-wine-markers"/>
+    <title>Wine Markers - Wine Lives</title>
+    <s:type>Wine Gear</s:type>
+    <s:vendor>Fred &amp; Friends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/wine-markers2.jpg?v=1547756516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fred &amp; Friends<br>
+        <strong>Type: </strong>Wine Gear<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cuddly cats claim your wine!</p>
+<p>Purrfect kitty wine markers wrap around the stem of your glass and remind you which glass is yours. You get six color-coded silicone Wine Lives in each set.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gifts Under 20</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Wine Gear</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1965074612294</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>728987023866</s:sku>
+      <s:grams>64</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1753610027078</id>
+    <published>2018-10-29T19:27:43-05:00</published>
+    <updated>2018-10-29T19:27:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/top-banana-wine-stopper"/>
+    <title>Bottle Stopper - Top Banana</title>
+    <s:type>Wine Gear</s:type>
+    <s:vendor>Fred &amp; Friends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Top-banana-3.jpg?v=1540861583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fred &amp; Friends<br>
+        <strong>Type: </strong>Wine Gear<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div class="margin_bottom_20">
+<meta charset="utf-8">
+<div class="margin_bottom_20">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<p><span>It’s a proven fact…the mere sight of a banana stuffed into a wine bottle is enough to spread smiles everywhere, maybe even provoke the odd guarded giggle. Food-grade silicone creates an air-tight seal, and a bogus banana is surely more amusing than your basic mock mango or plastic pomegranate.</span></p>
+<ul></ul>
+<ul></ul>
+</div>
+</div>
+<div class="sumups">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Wine Gear</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1753610027078</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>728987019074</s:sku>
+      <s:grams>54</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1753602392134</id>
+    <published>2018-10-29T19:27:43-05:00</published>
+    <updated>2018-10-29T19:27:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/duo-stopper-and-pour-spout"/>
+    <title>Duo Stopper and Pour Spout</title>
+    <s:type>Wine Gear</s:type>
+    <s:vendor>True Fabrications</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/duo-3.png?v=1540861465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>True Fabrications<br>
+        <strong>Type: </strong>Wine Gear<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div class="margin_bottom_20">
+<meta charset="utf-8">
+<div class="margin_bottom_20">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<p><span>Use the Duo Stopper &amp; Pourer separately to pour drip-free from one bottle as you preserve another. Or combine both to keep one wine plugged between pours. Each piece fits securely in any standard bottle, making them versatile together or separate.</span></p>
+<ul></ul>
+<ul></ul>
+</div>
+</div>
+<div class="sumups">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Wine Gear</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1753602392134</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.49</s:price>
+      <s:sku>876718004025</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1753589448774</id>
+    <published>2018-10-29T19:27:43-05:00</published>
+    <updated>2018-10-29T19:27:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/true-bottle-bubble-bag"/>
+    <title>True Bottle Bubble Bag</title>
+    <s:type>Wine Gear</s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/bottle-bubble.png?v=1540861264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong>Wine Gear<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div class="margin_bottom_20">
+<meta charset="utf-8">
+<div class="margin_bottom_20">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<p>Get your wine ready for your next getaway. Air filled bubbles protect your bottle while a sticky seal keeps any spill contained. Grab &amp; go handles make it easy to tote and a cinch to open. So don’t leave your wine behind next time you hop on your plane.</p>
+<ul>
+<li>Easily fits larger wine bottles.</li>
+<li>Includes handle for enhanced portability</li>
+<li>Adhesive and bag design prevent spillage</li>
+<li>Easy to use</li>
+<li>Reusable</li>
+</ul>
+<ul></ul>
+</div>
+</div>
+<div class="sumups">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Wine Gear</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1753589448774</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>876718001987</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1753574834246</id>
+    <published>2018-10-29T19:27:43-05:00</published>
+    <updated>2018-10-29T19:27:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/built-two-bottle-tote"/>
+    <title>BUILT Two Bottle Tote</title>
+    <s:type>Wine Gear</s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/red-tote-2.png?v=1540861045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong>Wine Gear<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div class="margin_bottom_20">
+<meta charset="utf-8">
+<div class="margin_bottom_20">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<p><span>We took a basic product, used an unexpected material, designed a new shape-and voila-company was built. This neoprene wine tote insulates two bottles up to four hours, and stores flat. Red or white, sparkling or still-our original totes are the carrying method of choice whether you’re an oenophile or teetotaler.</span></p>
+<ul></ul>
+</div>
+</div>
+<div class="sumups">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Wine Gear</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1753574834246</id>
+      <title>Red</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>844983008895</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1753567821894</id>
+    <published>2018-10-29T19:27:43-05:00</published>
+    <updated>2018-10-29T19:27:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/built-one-bottle-tote-black"/>
+    <title>BUILT One Bottle Tote</title>
+    <s:type>Wine Gear</s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/red-tote-1.png?v=1581530552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong>Wine Gear<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div class="margin_bottom_20">
+<meta charset="utf-8">
+<div class="margin_bottom_20">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<p><span>We took a basic product, used an unexpected material, designed a new shape-and voila-company was built. This neoprene wine tote insulates one bottle up to four hours, and stores flat. Red or white, sparkling or still-our original totes are the carrying method of choice whether you’re an oenophile or teetotaler.</span></p>
+<ul></ul>
+</div>
+</div>
+<div class="sumups">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Wine Gear</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1753567821894</id>
+      <title>Red</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>844983008864</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1753559531590</id>
+    <published>2018-10-29T19:27:43-05:00</published>
+    <updated>2018-10-29T19:27:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/private-preserve-wine-preserver"/>
+    <title>Private Preserve Wine Preserver</title>
+    <s:type>Wine Gear</s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/private.png?v=1540860761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong>Wine Gear<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div class="margin_bottom_20">
+<meta charset="utf-8">
+<div class="margin_bottom_20">
+<meta charset="utf-8">
+<meta charset="utf-8">
+<p><span>Private Preserve is the #1 rated wine preserver worldwide. Save wine using a custom blend of pure nitrogen, carbon dioxide, and argon, the inert and harmless gases in our atmosphere used to produce and bottle wine. Private Preserve blankets the wine’s surface, in bottle or decanter, and will not strip out bouquet (volatile esters), which is essential in taste, like vacuum devices have been proven to do!</span></p>
+<ul></ul>
+</div>
+</div>
+<div class="sumups">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Wine Gear</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1753559531590</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>000231904863</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1753549602886</id>
+    <published>2018-10-29T19:27:43-05:00</published>
+    <updated>2018-10-29T19:27:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/vacu-vin-wine-chiller-platinum"/>
+    <title>Vacu Vin Wine Chiller (Platinum)</title>
+    <s:type>Wine Gear</s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Wine-Cooler-Platinum.jpg?v=1540860592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong>Wine Gear<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div class="margin_bottom_20">
+<meta charset="utf-8">
+<div class="margin_bottom_20">
+<meta charset="utf-8">
+<p>Chilling drinks quickly and keeping them cold is no longer a problem using the Active Coolers! The amazing Active Coolers can best be described as super cold flexible ice jackets. They can, when taken from the freezer, simply be slipped over the bottle. The drink will be chilled within minutes and stays cool for hours. The coolers are unbreakable and reusable.</p>
+<ul>
+<li>Chills drinks in minutes</li>
+<li>Keeps drinks cool for hours</li>
+<li>Keep in the freezer</li>
+<li>Available in different sizes</li>
+</ul>
+</div>
+</div>
+<div class="sumups">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Wine Gear</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1753549602886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>084256308059</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1753540427846</id>
+    <published>2018-10-29T19:27:43-05:00</published>
+    <updated>2018-10-29T19:27:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/vacu-vin-vacuum-wine-stoppers"/>
+    <title>Vacu Vin Vacuum Wine Stoppers</title>
+    <s:type>Wine Gear</s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/vacu-stop.png?v=1540860455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong>Wine Gear<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div class="margin_bottom_20">
+<meta charset="utf-8">
+<div class="margin_bottom_20">
+<p><span style="color: #ff2a00;"><strong>For a limited time, when you purchase a <a href="https://barriquesmarket.com/products/vacu-vin-wine-saver" title="Vacu Vin Wine Saver" style="color: #ff2a00;">Vacu Vin Wine Saver</a> and use coupon code VACUVIN, you'll get 50% these Vacu Vin Wine Stoppers.</strong></span></p>
+<p>The Vacuum Wine Stoppers are used in combination with the Vacuum Wine Saver, sold separately. The Wine Saver is a vacuum pump, which extracts the air from an opened bottle and re-seals it with the reusable rubber Vacuum Wine Stopper. Place the reusable stopper in the bottle and extract the air from the bottle using the Wine Saver pump. The vacuum slows down the oxidation process which makes it possible to enjoy your wine again on a later date.</p>
+</div>
+<div class="sumups">
+<ul>
+<li>Use in combination with the Wine Saver</li>
+<li>Slows down the oxidation process</li>
+</ul>
+</div>
+</div>
+<div class="sumups">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>September 2 Show</s:tag>
+    <s:tag>Wine Gear</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1753540427846</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>084256002094</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1753525518406</id>
+    <published>2018-10-29T19:27:43-05:00</published>
+    <updated>2018-10-29T19:27:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/vacu-vin-wine-saver"/>
+    <title>Vacu Vin Wine Saver</title>
+    <s:type>Wine Gear</s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/vacu-2.png?v=1540860234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong>Wine Gear<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div class="margin_bottom_20">
+<p><span style="color: #ff2a00;"><strong>For a limited time, when you purchase a Vacu Vin Wine Saver and use coupon code VACUVIN, you'll get 50% an extra pair of <a href="https://barriquesmarket.com/products/vacu-vin-vacuum-wine-stoppers?variant=17220605149254" title="Vacu Vin Wine Stoppers" style="color: #ff2a00;">Vacu Vin Wine Stoppers</a>.</strong></span></p>
+<p>The Wine Saver is a vacuum pump, which extracts the air from the opened bottle and re-seals it with a reusable rubber stopper. Place the reusable stopper in the bottle and extract the air from the bottle using the Wine Saver pump. A “click” sound tells you when you have reached the optimum vacuum level. The vacuum slows down the oxidation process which makes it possible to enjoy your wine again at a later date. The question “how often do I have to pump?” is a thing of the past. The unique and patented vacuum indicator will emit a “click” sound when the correct vacuum is reached.</p>
+</div>
+<div class="sumups">
+<ul>
+<li>Vacuum indicator</li>
+<li>Now with patented “click”</li>
+<li>Slows down the oxidation process</li>
+<li>Not for sparkling wines</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>September 2 Show</s:tag>
+    <s:tag>Wine Gear</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1753525518406</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>084256001288</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1753489113158</id>
+    <published>2018-10-29T19:27:43-05:00</published>
+    <updated>2018-10-29T19:27:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/corki-bottle-stopper"/>
+    <title>Bottle Stopper - Corki</title>
+    <s:type>Wine Gear</s:type>
+    <s:vendor>True Fabrications</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Corki3.jpg?v=1540859831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>True Fabrications<br>
+        <strong>Type: </strong>Wine Gear<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span>If there’s one trick the Corki can do, it’s keeping your bottle fresh for the next round. So keep yourself out of the dog house and let the Corki keep your best wines on a short leash.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Wine Gear</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1753489113158</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>876718041792</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

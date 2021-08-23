@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/hybrid-lapis-luna-bonny-doon-tasting-08-20.atom"/>
+  <title>Barriques</title>
+  <updated>2021-08-13T12:34:51-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/6891351965854</id>
+    <published>2021-08-13T12:34:51-05:00</published>
+    <updated>2021-08-13T12:34:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/bonny-doon-picpoul"/>
+    <title>Bonny Doon Picpoul de Pinet</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/picpoul_bonnydoon.png?v=1628876083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - Bonny Doon Beeswax Vineyard Picpoul exudes a discreet scent of white flowers and pineapple. But while the scent is subtle, the wine's bracing acidity and its unique savoriness strikes the palate. A discernible quality of brininess makes this wine an excellent match for all manners of crustacean and molluscan variety.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hybrid Tasting 08/20</s:tag>
+    <s:tag>ori-California</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Picpoul</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6891351965854</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>769434644227</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6844550054046</id>
+    <published>2021-07-26T15:56:21-05:00</published>
+    <updated>2021-07-26T15:56:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/hybrid-lapis-luna-bonny-doon-tasting-08-20"/>
+    <title>Hybrid Lapis Luna - Bonny Doon Tasting 08/20</title>
+    <s:type>Tasting</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/LapisLuna_NapaCab.png?v=1627332871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Tasting<br>
+        <strong>Price: </strong>
+            15.00 - 45.00
+            <a href="https://barriquesmarket.com/products/hybrid-lapis-luna-bonny-doon-tasting-08-20">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1"><strong>This tasting is no longer available to purchase online.</strong></p>
+<p data-mce-fragment="1"> Whether you are ready to taste in person or need to continue experiencing our tastings virtually, our new hybrid tasting format could be just what you are looking for.  On Friday, August 20th @ 7pm at Barriques Monroe St, we will be hosting a tasting featuring wines from Lapis Luna and the iconic Bonny Doon with our guest host, Andrew Nelson, who will be joining us virtually.  You can taste along with us &amp; Andrew in person at Monroe St. or tune into the livestream of the event via Zoom.  The in-person tasting will feature 6 wines including the 2019 Lapis Luna Sauvignon Blanc, 2019 Lapis Luna Red, 2019 Lapis Luna Zinfandel, 2019 Lapis Luna Napa Cabernet, 2019 Bonny Doon Picpoul and the 2020 Bonny Doon Van Gris de Cigare.</p>
+<p data-mce-fragment="1">For this attending virtually, we have a four wine option (featuring the Lapis Luna wines) and a six wine option featuring all the wines we will discuss that evening.  Both of these options include 8oz pours of the respective wines.  Virtual attendees will receive an email with instructions on how to connect with us via Zoom the night of the event.  If you select the in-person version, we will open the doors at Monroe St. at 6:45pm on the 20th.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>August 11 Show</s:tag>
+    <s:tag>August 18 Show</s:tag>
+    <s:tag>August 4 Show</s:tag>
+    <s:tag>Hybrid Tasting 08/20</s:tag>
+    <s:tag>July 28 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6844550054046</id>
+      <title>In Person</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6844550054046</id>
+      <title>Virtual w/ Four Wines</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6844550054046</id>
+      <title>Virtual w/ 6 Wines</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4565328429128</id>
+    <published>2020-05-07T20:11:05-05:00</published>
+    <updated>2020-05-07T20:11:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/lapis-luna-red-blend"/>
+    <title>Lapis Luna Red Blend</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/lapis-luna-red-wine-blend.png?v=1593538756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>PICKUP ONLY.  You will receive confirmation as soon as the wine is ready for pickup at the location you requested. </strong></p>
+<p>2019 -50% Merlot, 25% Syrah, 25% Cabernet Sauvignon. Aromas of purple flowers, ripe red fruits, dark and brooding, crushed blackberries, faint clove and sage notes. Layers upon layers of juicy ripe fruits, nicely balanced, rounded mouthfeel and long. <span>For a limited time we are also offering a free Lapis Luna Reach For the Moon Poster with your purchase of the Lapis Luna Red </span><span>B</span><span>lend, Zinfandel or Sauvignon Blanc.  While supplies last, one poster per customer only.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hybrid Tasting 08/20</s:tag>
+    <s:tag>July 29 Show</s:tag>
+    <s:tag>ori-California</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Red Blend</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4565328429128</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>860115002418</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

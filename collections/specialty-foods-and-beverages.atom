@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/specialty-foods-and-beverages.atom"/>
+  <title>Barriques</title>
+  <updated>2020-07-01T14:38:01-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/5355567972510</id>
+    <published>2020-07-01T14:38:01-05:00</published>
+    <updated>2020-07-01T14:38:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/barriques-gluten-friendly-chocolate-chip-cookies-12ct"/>
+    <title>Take-n-Bake: Gluten Friendly Choco Chip Cookies - 12ct.</title>
+    <s:type></s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/gf_chocochip_cookie.png?v=1593639660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The gluten friendly chocolate chip cookies that our bakery makes just might be the best cookie in our lineup.  Take home 12 frozen 4oz balls of our gluten friendly chocolate chip cookie dough and bake them up to perfection at home anytime you get a craving for a little treat.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>July 1 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5355567972510</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5355060297886</id>
+    <published>2020-07-01T10:17:39-05:00</published>
+    <updated>2020-07-01T10:17:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/barriques-cold-brew-1-gallon"/>
+    <title>Barriques Cold Brew - 1 Gallon</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/DSC06904.jpg?v=1593641928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>This Item Is In-Store Pickup Only</strong></p>
+<p>Our freshly brewed Cold Brew Coffee is the perfect beverage to refresh and energize you on a warm summer day.  We use a custom designed coffee blend we created specifically to be used with the cold brew coffee brewing method that results in a delicious, rich &amp; smooth cold coffee drinking experience.  Now available in a take-home one gallon beverage bag.   Fits easily in your refrigerator so that it is always ready when you are.  Enjoy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>August 26 Show</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>July 1 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5355060297886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508575236168</id>
+    <published>2020-03-23T14:46:28-05:00</published>
+    <updated>2020-03-23T14:46:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/nutkrack-caramelized-pecans"/>
+    <title>Nutkrack Caramelized Pecans</title>
+    <s:type></s:type>
+    <s:vendor>Nutkrack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/NutKrack.jpg?v=1584995453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutkrack<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nutkrack is caramelized, buttery, toasted pecans with a touch of sea salt and a whole lot of great energy. Nutkrack satisfies and delights with every perfect mouthful. Five it a try? Want more? Go for it!</p>
+<p>4oz container</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508575236168</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508557869128</id>
+    <published>2020-03-23T14:46:28-05:00</published>
+    <updated>2020-03-23T14:46:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/sjolinds-love-bug-chocolate-bar"/>
+    <title>Sjolinds Love Bug Chocolate Bar</title>
+    <s:type>Specialty Foods</s:type>
+    <s:vendor>Sjolinds</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/LoveBug.jpg?v=1614204836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sjolinds<br>
+        <strong>Type: </strong>Specialty Foods<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A dark chocolate bar topped with freeze dried strawberries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>CWT</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Treats Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508557869128</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>111712</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508555608136</id>
+    <published>2020-03-23T14:46:28-05:00</published>
+    <updated>2020-03-23T14:46:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/sjolinds-lillehammer-chocolate-bar"/>
+    <title>Sjolinds Lillehammer Chocolate Bar</title>
+    <s:type></s:type>
+    <s:vendor>Sjolinds</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Lillehammer.jpg?v=1584993433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sjolinds<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A lovely 63% dark milk chocolate with toffee pieces, cocoa nibs, and sea salt. <br>Ingredients: Cocoa beans, sugar, cocoa butter, milk powder, buttermilk powder, butter, sea salt.<br><br>1.5 ounces</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>CWT</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Treats Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508555608136</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>111702</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508552134728</id>
+    <published>2020-03-23T14:46:28-05:00</published>
+    <updated>2020-03-23T14:46:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/sjolinds-wisconsin-butter-chocolate-bar"/>
+    <title>Sjolinds Wisconsin Butter Chocolate Bar</title>
+    <s:type></s:type>
+    <s:vendor>Sjolinds</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/ButterBar.jpg?v=1584993095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sjolinds<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An homage to the dairy state, a dark milk chocolate with clarified butter.  <br>Ingredients: Cocoa Beans, sugar, milk powder, cocoa butter, butter, salt.<br><br>1.5 ounces</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>CWT</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Treats Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508552134728</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>111701</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508551086152</id>
+    <published>2020-03-23T14:46:28-05:00</published>
+    <updated>2020-03-23T14:46:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/sjolinds-mongolian-mocha-chocolate-bar"/>
+    <title>Sjolinds Mongolian Mocha Chocolate Bar</title>
+    <s:type></s:type>
+    <s:vendor>Sjolinds</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/MongMocha.jpg?v=1584992969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sjolinds<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This exotic bar is made with coffee and goat's milk.<br>Ingredients: Cocoa beans, sugar, goat's milk powder, espresso beans, butter. <br><br>1.5oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>CWT</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Treats Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508551086152</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>111703</s:sku>
+      <s:grams>54</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508505276488</id>
+    <published>2020-03-23T13:37:32-05:00</published>
+    <updated>2020-03-23T13:37:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/sjolinds-malted-milk-chocolate-bar"/>
+    <title>Sjolinds Malted Milk Chocolate Bar</title>
+    <s:type></s:type>
+    <s:vendor>Sjolinds</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/MaltedMilk.jpg?v=1584990678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sjolinds<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A dairyland favorite, made with milk chocolate infused with malt.</p>
+<meta charset="utf-8">
+<p><strong>For a limited time, buy any two Sjolinds<span> </span>Chocolate bars and get one free.</strong></p>
+<p>1.5oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>CWT</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Treats Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508505276488</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>111704</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508547121224</id>
+    <published>2020-03-23T13:33:59-05:00</published>
+    <updated>2020-03-23T13:33:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/sjolinds-kaffe-colombia-chocolate-bar"/>
+    <title>Sjolinds Kaffe Colombia Chocolate Bar</title>
+    <s:type>Specialty Foods</s:type>
+    <s:vendor>Sjolinds</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/kaffecolombia_chocolate.jpg?v=1604420086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sjolinds<br>
+        <strong>Type: </strong>Specialty Foods<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>70% chocolate with Barriques Cordillera Central Colombian coffee and Butter Toffee.  Delish!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>CWT</s:tag>
+    <s:tag>Gifts Under 20</s:tag>
+    <s:tag>Holiday 2020</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Treats Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508547121224</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>111709</s:sku>
+      <s:grams>54</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508505243720</id>
+    <published>2020-03-23T13:33:59-05:00</published>
+    <updated>2020-03-23T13:33:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/sjolinds-dominican-70-dark-chocolate-bar"/>
+    <title>Sjolinds Dominican 70% Dark Chocolate Bar</title>
+    <s:type></s:type>
+    <s:vendor>Sjolinds</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Dominican.jpg?v=1584988641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sjolinds<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fruit and tobacco are defining flavors of this bar. <br><br>Ingredients: Cocoa beans, sugar, cocoa butter. <br><br>1.5oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508505243720</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>111705</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508391014472</id>
+    <published>2020-03-23T10:35:42-05:00</published>
+    <updated>2020-03-23T10:35:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/kikkoman-pearl-soy-milk"/>
+    <title>Kikkoman Pearl Soy Milk</title>
+    <s:type>Specialty Foods</s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Soymilk.png?v=1584976293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong>Specialty Foods<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Looking to add a little flavor to your coffee? Consider Kikkoman's Pearl Soy Milk! The same kind that we use in our cafés, this is a refreshing beverage that also happens to be completely organic.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508391014472</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508386787400</id>
+    <published>2020-03-23T10:35:42-05:00</published>
+    <updated>2020-03-23T10:35:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/pacific-foods-almond-milk"/>
+    <title>Pacific Foods Almond Milk</title>
+    <s:type>Specialty Foods</s:type>
+    <s:vendor>Pacific Foods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/AlmondMilk.png?v=1584975595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pacific Foods<br>
+        <strong>Type: </strong>Specialty Foods<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lighten your coffee with Pacific Foods Almond Milk. This is the Barista Series, smoother and not quite as overly almond-flavored as their traditional blend. Also, if you have the capability to steam it, is completely curdle free.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508386787400</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508388950088</id>
+    <published>2020-03-23T09:35:48-05:00</published>
+    <updated>2020-03-23T09:35:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/pacific-foods-oat-milk"/>
+    <title>Pacific Foods Oat Milk</title>
+    <s:type></s:type>
+    <s:vendor>Pacific Foods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/OatMilk.png?v=1584975860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pacific Foods<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Looking for a non-dairy option for your coffee. Take the Pacific Foods Oat Milk for a spin! This is the Barista series, with a subtle oaty flavor that won't overwhelm your coffee. Also, if you want to steam it up, it makes a perfect micro-foam.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508388950088</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1034</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508371779656</id>
+    <published>2020-03-23T09:35:48-05:00</published>
+    <updated>2020-03-23T09:35:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/gomacro-protein-bar"/>
+    <title>GoMacro Protein Bar - 3pk</title>
+    <s:type></s:type>
+    <s:vendor>GoMacro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/PBCC.jpg?v=1584974161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GoMacro<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Looking to keep your energy up? GoMacro Protein Bars are loaded with up to 20% of your daily value of protein, and come in a variety of delicious tastes. On top of that,  they have numerous certifications, including Organic, Vegan, Gluten-Free, Kosher, and Non-GMO! A delicious pick-me-up that you can feel good about eating!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>April 15 Show</s:tag>
+    <s:tag>CWT</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508371779656</id>
+      <title>Peanut Butter Chocolate Chips</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>181945000062</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508371779656</id>
+      <title>Banana + Almond Butter</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>181945000154</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508371779656</id>
+      <title>Coconut + Almond Butter + Chocolate Chips</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>853555006689</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508371779656</id>
+      <title>Dark Chocolate + Almonds</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>853555006412</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508371779656</id>
+      <title>Mocha Chocolate Chip</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>853555006405</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1694296440902</id>
+    <published>2018-10-19T11:37:33-05:00</published>
+    <updated>2018-10-19T11:37:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/rishi-masala-chai-concentrate"/>
+    <title>Rishi Organic Masala Chai Concentrate</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/RishiMasalaChai.jpg?v=1585147422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">An energizing and rich blend of fresh spices and real vanilla, slow brewed with a full-bodied organic &amp; Fair Trade Certified™ wild-grown black tea.<br><br>Ingredients: An infusion of filtered water, organic Fair Trade Certified™ black tea, organic cinnamon, organic cardamom, organic black pepper, organic cloves, organic ginger, organic dried cane syrup, organic blackstrap molasses, organic vanilla extract, organic lemon juice.<br><br>Package Size: 32oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1694296440902</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+</feed>

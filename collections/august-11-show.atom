@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/august-11-show.atom"/>
+  <title>Barriques</title>
+  <updated>2021-08-11T09:32:56-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/6826429251742</id>
+    <published>2021-08-11T09:32:56-05:00</published>
+    <updated>2021-08-11T09:32:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/in-person-summer-sparkling-tasting-08-27"/>
+    <title>In-Person Summer Sparkling Tasting 08/27</title>
+    <s:type>Tasting</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/WineTastingSparkleWines-1.png?v=1628692202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Tasting<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">
+<span>Often over-looked and forgotten about by the daily wine drinkers out there, Sparkling wine is rarely the wrong choice.  Join us for an in-person Summer Sparkling Wine Celebration featuring some of our favorite old faithfuls and some newbies you won't want to miss. Join us for this in-person tasting on Friday, August 27th at Barriques Middleton.  The event runs from 5 - 7pm, stop by anytime.</span><span>  $16 discounted advance purchase price.  $21 day of event. </span>
+</div>
+<div data-mce-fragment="1">
+<span></span><br>
+</div>
+<div data-mce-fragment="1"><span style="text-decoration: underline;">Wines To Be Tasted Include:</span></div>
+<p><span data-mce-fragment="1">Casa Coste Piane Prosecco</span> <br>Avinyo Cava<br>Moillard Cremant du Bourgogne<br>Roederer Estate Brut<br>Filipa Pato 3B Sparkling Rose<br>Cleto Chiarli Brut Rose</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>August 11 Show</s:tag>
+    <s:tag>August 18 Show</s:tag>
+    <s:tag>In-Person Tasting 08/27</s:tag>
+    <s:tag>July 28 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6826429251742</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6884146806942</id>
+    <published>2021-08-10T17:32:35-05:00</published>
+    <updated>2021-08-10T17:32:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/domaine-dupeuble-beaujolais"/>
+    <title>Domaine Dupeuble Beaujolais</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/DomaineDupeuble_Beaujolais.png?v=1628634756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">2020 - Dupeuble Beaujolais is a classic burgundian wine that over delivers for the price.  The wine has an evocative deep ruby color with a purplish rim in the glass  It has fleshy, ripe aromas of a blackberry, pomegranate, blueberry, raspberry with a mix of violets and cinnamon spice.  On the palate you'll find a mix of plush fruit with a delicate touch defines the structure on the first sip, on the second sip you taste the depth and complexity of this tasty wine.  This is a great summer red to put a light chill on for just enjoying on its own, or put it with a charcuterie plate of dried sausages and soft cheeses like brie or camembert.  You may also be surprised to find what a tasty wine it is with fried chicken, meat tacos and spicy tuna meatballs.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>August 11 Show</s:tag>
+    <s:tag>ori-Beaujolais</s:tag>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6884146806942</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>761503222268</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6844550054046</id>
+    <published>2021-07-26T15:56:21-05:00</published>
+    <updated>2021-07-26T15:56:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/hybrid-lapis-luna-bonny-doon-tasting-08-20"/>
+    <title>Hybrid Lapis Luna - Bonny Doon Tasting 08/20</title>
+    <s:type>Tasting</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/LapisLuna_NapaCab.png?v=1627332871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Tasting<br>
+        <strong>Price: </strong>
+            15.00 - 45.00
+            <a href="https://barriquesmarket.com/products/hybrid-lapis-luna-bonny-doon-tasting-08-20">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1"><strong>This tasting is no longer available to purchase online.</strong></p>
+<p data-mce-fragment="1"> Whether you are ready to taste in person or need to continue experiencing our tastings virtually, our new hybrid tasting format could be just what you are looking for.  On Friday, August 20th @ 7pm at Barriques Monroe St, we will be hosting a tasting featuring wines from Lapis Luna and the iconic Bonny Doon with our guest host, Andrew Nelson, who will be joining us virtually.  You can taste along with us &amp; Andrew in person at Monroe St. or tune into the livestream of the event via Zoom.  The in-person tasting will feature 6 wines including the 2019 Lapis Luna Sauvignon Blanc, 2019 Lapis Luna Red, 2019 Lapis Luna Zinfandel, 2019 Lapis Luna Napa Cabernet, 2019 Bonny Doon Picpoul and the 2020 Bonny Doon Van Gris de Cigare.</p>
+<p data-mce-fragment="1">For this attending virtually, we have a four wine option (featuring the Lapis Luna wines) and a six wine option featuring all the wines we will discuss that evening.  Both of these options include 8oz pours of the respective wines.  Virtual attendees will receive an email with instructions on how to connect with us via Zoom the night of the event.  If you select the in-person version, we will open the doors at Monroe St. at 6:45pm on the 20th.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>August 11 Show</s:tag>
+    <s:tag>August 18 Show</s:tag>
+    <s:tag>August 4 Show</s:tag>
+    <s:tag>Hybrid Tasting 08/20</s:tag>
+    <s:tag>July 28 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6844550054046</id>
+      <title>In Person</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6844550054046</id>
+      <title>Virtual w/ Four Wines</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6844550054046</id>
+      <title>Virtual w/ 6 Wines</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4552769962056</id>
+    <published>2020-04-23T10:42:08-05:00</published>
+    <updated>2020-04-23T10:42:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/wollersheim-apple-brandy"/>
+    <title>Wollersheim Apple Brandy</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Untitleddrawing_61_35a2e9f7-85de-4f76-ba68-4b76d7a85afa.png?v=1587656554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>Distilled from Wisconsin apples and aged in Wisconsin oak barrels. The apples for the brandy comes from growers throughout Wisconsin.  Fresh honey crisp apple aromas backed by vanilla and cinnamon spice.</p>
+<p>750ml<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>August 11 Show</s:tag>
+    <s:tag>ori-Wisconsin</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Brandy</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4552769962056</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>027952920200</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1569778073670</id>
+    <published>2019-09-19T15:33:35-05:00</published>
+    <updated>2019-09-19T15:33:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/guatemala-huehuetenango"/>
+    <title>Guatemala Huehuetenango</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Guatemala_Huehuetenango.png?v=1628261068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            11.95 - 93.00
+            <a href="https://barriquesmarket.com/products/guatemala-huehuetenango">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Finca La Providencia Palu, this week’s newcrop arrival, has a classic Huehue cup: crisp aroma with floral and spice notes, fresh, sweet orange acidity that doesn't overwhelm the jammy sweet chocolate midtone and a creamy, malty caramel finish note, the signature of fine Huehuetenango coffees.</p>
+<p><span data-mce-fragment="1">La Providencia is owned and operated by Maximiliano Palacios (Max), a third generation coffee farmer. The name of the coffee, Palhu, is formed from a combination of the family name Palacios and the department of Huehuetenango. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Americas</s:tag>
+    <s:tag>August 11 Show</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569778073670</id>
+      <title>Whole Bean / 12oz Bag</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>27125-1</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569778073670</id>
+      <title>Whole Bean / 5lb Bag</title>
+      <s:price currency="USD">93.00</s:price>
+      <s:sku>27125-2</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569778073670</id>
+      <title>French Press/Coarse / 12oz Bag</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>27125-3</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569778073670</id>
+      <title>French Press/Coarse / 5lb Bag</title>
+      <s:price currency="USD">93.00</s:price>
+      <s:sku>27125-4</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569778073670</id>
+      <title>Drip / 12oz Bag</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>27125-5</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569778073670</id>
+      <title>Drip / 5lb Bag</title>
+      <s:price currency="USD">93.00</s:price>
+      <s:sku>27125-6</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569778073670</id>
+      <title>Espresso/Fine / 12oz Bag</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>27125-7</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1569778073670</id>
+      <title>Espresso/Fine / 5lb Bag</title>
+      <s:price currency="USD">93.00</s:price>
+      <s:sku>27125-8</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+  </entry>
+</feed>

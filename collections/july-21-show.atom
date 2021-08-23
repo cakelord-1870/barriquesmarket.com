@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/july-21-show.atom"/>
+  <title>Barriques</title>
+  <updated>2021-07-21T09:13:54-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/6826440622238</id>
+    <published>2021-07-21T09:13:54-05:00</published>
+    <updated>2021-07-21T09:13:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/in-person-wines-from-oregon-tasting-08-06"/>
+    <title>In-Person Wines from Oregon Tasting 08/06</title>
+    <s:type>Tasting</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/WineTasting_3.png?v=1626880401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Tasting<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">
+<meta charset="UTF-8">
+<span style="color: #ff2a00;"><strong>Online ordering is now closed.  Walk-in orders are available.  </strong></span>
+</div>
+<div data-mce-fragment="1">
+<span>Oregon is a world class wine producing region that produces some of our favorite wines.  Join us for this in-person tasting on Friday, August 6th at Barriques Fitchburg.  The event runs from 5 - 7pm, stop by anytime.</span><span>  $15 discounted advance purchase price.  $20 day of event. </span>
+</div>
+<div data-mce-fragment="1"><span></span></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<span style="text-decoration: underline;">Wines To Be Tasted Include:</span><br>
+</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">2019 Brooks Pinot Blanc</div>
+<div data-mce-fragment="1">2019 Acrobat Pinot Gris</div>
+<div data-mce-fragment="1">2020 Teutonic "Crow Valley" Pinot Gris</div>
+<div data-mce-fragment="1">2018 Kings Ridge Pinot Noir</div>
+<div data-mce-fragment="1">2019 Foris PInot Noir</div>
+<div data-mce-fragment="1">2019 Four Graces Willamette Valley Pinot Noir</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>In-Person Tasting 08/06</s:tag>
+    <s:tag>July 21 Show</s:tag>
+    <s:tag>ori-Oregon</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6826440622238</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6814830526622</id>
+    <published>2021-07-13T15:55:43-05:00</published>
+    <updated>2021-07-13T15:55:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/zuani-pinot-grigio-sodevo"/>
+    <title>Zuani Pinot Grigio Sodevo</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/2018ZuaniVigneDOCCollioBianco_Friuli_Italy_1200x1200_51c7c95b-d78e-4e82-bd2d-56d4c931c361.png?v=1626114240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">The 2019 Zuani Pinot Grigio Sodevo is hand picked, destemmed, gently pressed, fermented in stainless steel to preserve freshness and aged on its lees for 5 months.  The clarity is nearly flawless in the glass with its bright golden color.  In the nose you immediately appreciate the focus of this wine with its intensity, delivering golden apple, pear, citrus aromas layered with crunchy minerality.  The wine instantly delivers a gratifying, mouthwatering fresh minerality with tangy citrus, richer body from the lees aging and long finish.  This powerhouse of a Pinot Grigio is a treat just to sip, yet the Italians demand a great meal with their wines, so pair it up with fresh grilled black cod in a miso glaze, wild mushroom risotto or a garden fresh golden beet canederli.  Enjoy!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>July 14 Show</s:tag>
+    <s:tag>July 21 Show</s:tag>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Pinot Grigio</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6814830526622</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8051764260010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6810167967902</id>
+    <published>2021-07-09T09:51:47-05:00</published>
+    <updated>2021-07-09T09:51:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/in-person-pinot-noir-tasting-07-23"/>
+    <title>In-Person Pinot Noir Tasting 07/23</title>
+    <s:type>Tasting</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/FinnPicEveshamWoodPinotNoir-1.png?v=1625842308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Tasting<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;">Online sales are now closed.  Walk-in reservations available.</span></p>
+<p><meta charset="UTF-8"><span data-mce-fragment="1">The tasting will include six Pinot Noirs. Get your tastings fee refunded if you make a case/mixed case purchase of Pinot the night of the event.  Event runs from 5 - 7pm at Barriques Middleton.  Stop by anytime during those two hours. $15 discounted advance purchase price.  $20 day of event. </span></p>
+<p><span data-mce-fragment="1">Wines to be tasted:</span></p>
+<div><span>2018 Wilhelm Walch "Prendo" Pinot Noir - Alto Adige, Italy</span></div>
+<div>2018 Domaine Bernier Pinot Noir - Loire Valley, France</div>
+<div>2019 Maison l'Envoye 'Straight Shooter' Pinot Noir - Willamette Valley, OR</div>
+<div>2017 Manu Pinot Noir - Marlborough, New Zealand</div>
+<div>2019 Devils Corner Pinot Noir - Tasmania</div>
+<div>2019 Barda Pinot Noir - Patagonia, Argentina</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>In-Person Tasting 07/23</s:tag>
+    <s:tag>July 14 Show</s:tag>
+    <s:tag>July 21 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6810167967902</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6744236753054</id>
+    <published>2021-06-11T19:00:39-05:00</published>
+    <updated>2021-06-11T19:00:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/senator-straight-rye"/>
+    <title>Senator Straight Rye</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/thesenator_straightrye_117fb5a6-9ac5-420b-a2da-fdfbded95299.png?v=1622742162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Barrel Proof Straight Rye Whiskey.<br data-mce-fragment="1">Aged a minimum of 6 years in new charred oak barrels, mingling 10-20 select barrels.<br data-mce-fragment="1">Bottled at barrel proof to showcase the bold Rye flavors.<br data-mce-fragment="1">"A nutty palate with notes of toffee, orange peel, herbs and light tobacco, with chocolate brownies and blackberry emerging with water" - Whiskey Advocate<br data-mce-fragment="1">95% Rye, 5% Malted Barley<br data-mce-fragment="1">112-121 Proof</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>July 21 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Rye</s:tag>
+    <s:tag>virtual tasting 06/11</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6744236753054</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>609788231462</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4546390229064</id>
+    <published>2020-04-20T13:14:29-05:00</published>
+    <updated>2020-04-20T13:14:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/straight-shooter-pinot-noir"/>
+    <title>Straight Shooter Pinot Noir</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/MaisonlEnvoye_StraightShooter_Pinot_Noir.png?v=1626725583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>PICKUP ONLY.  You will receive confirmation as soon as the wine is ready for pickup at the location you requested. </strong></p>
+<p>2019 - Intense aromatics of dark cherry and blue fruits alongside subtle earth and elegant floral notes. The palate mirrors the nose and is full of freshness with a touch of oak for texture and balance. Vibrant acidity and soft tannins support the flavors through a long, satisfying finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>In-Person Tasting 07/23</s:tag>
+    <s:tag>July 21 Show</s:tag>
+    <s:tag>ori-Oregon</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Pinot Noir</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4546390229064</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>767749016111</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4538867515464</id>
+    <published>2020-04-16T10:35:45-05:00</published>
+    <updated>2020-04-16T10:35:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/marco-felluga-pinot-grigio"/>
+    <title>Marco Felluga Pinot Grigio</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Untitleddrawing_26.png?v=1587051373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>PICKUP ONLY.  You will receive confirmation as soon as the wine is ready for pickup at the location you requested. </strong></p>
+<p>2019 - It presents an intense and immediate bouquet with pronounced hints of acacia flowers, broom and apple. In the mouth it is elegantly fruity and becomes full-bodied and well-structured. It has a long finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hybrid Tasting 07/16</s:tag>
+    <s:tag>July 21 Show</s:tag>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Pinot Grigio</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4538867515464</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>748789111103</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1609060417606</id>
+    <published>2018-09-25T11:20:06-05:00</published>
+    <updated>2018-09-25T11:20:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/colombia-dark"/>
+    <title>Colombia Dark</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/ColombiaDark.png?v=1539974187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            13.95 - 92.95
+            <a href="https://barriquesmarket.com/products/colombia-dark">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Background</strong><br>Really good Colombian like our “Cordillera Central” is one of the best reasons to love coffee! Colombian coffees are celebrated for having “more” and compared to the straightforward bright, clean cup of other New World beans, they sure do… more lush character and body, a richer aroma, and more sweet chocolate, lush fruit flavors.   These beans come from steep hillsides of rich volcanic soil, with heirloom Arabicas grown in shade at 1500 to 1800 meters altitude high above the Cauca River, an excellent year-round source of fresh spring water. Only ripe cherries are harvested by hand and sun-dried by individual farmers.</p>
+<p><strong>Taste</strong><br>A darker take on our Colombian Coffee, the Colombia Dark is a full and buttery dark roast, with a deep spicy twist. Like rich bittersweet dark chocolate, this Colombia Dark makes a compelling argument to join the dark side.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Americas</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Dark Roast</s:tag>
+    <s:tag>July 21 Show</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1609060417606</id>
+      <title>Whole Bean / 12oz Bag</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>27125-1</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1609060417606</id>
+      <title>Whole Bean / 5lb Bag</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>27125-2</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1609060417606</id>
+      <title>French Press/Coarse / 12oz Bag</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>27125-3</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1609060417606</id>
+      <title>French Press/Coarse / 5lb Bag</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>27125-4</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1609060417606</id>
+      <title>Drip / 12oz Bag</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>27125-5</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1609060417606</id>
+      <title>Drip / 5lb Bag</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>27125-6</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1609060417606</id>
+      <title>Espresso/Fine / 12oz Bag</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>27125-7</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1609060417606</id>
+      <title>Espresso/Fine / 5lb Bag</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>27125-8</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/wine-and-spirits.atom"/>
+  <title>Barriques</title>
+  <updated>2020-07-29T12:12:00-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/5511140901022</id>
+    <published>2020-07-29T12:12:00-05:00</published>
+    <updated>2020-07-29T12:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/un-oaked-summer-6-pack"/>
+    <title>Un-Oaked Summer 6-Pack</title>
+    <s:type></s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/leparadou_rhone_viognier_1335b756-dd7e-41a3-a2fe-62a526e583e3.jpg?v=1596042721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Please step aside Mr. Wood.  Finn has put together a refreshing, un-oaked wine 6-pack to help you stay cool and crisp during these dog days of Summer.  It's a stellar deal for these six stellar bottles of vino.  Enjoy.</span></p>
+<p><span><a href="https://barriquesmarket.com/products/le-paradou-viognier">2019 Le Paradou Viognier</a> - A richer style of Viognier giving up fresh aromas of peach blossom, green pear and ripe melon. <br></span> <a href="https://barriquesmarket.com/products/les-vignerons-3-messes-basses-rose">2018 Cuvee 3 Messes Basses Rose</a> - <span>A fresh and fleshy dry rosé with a crisp mouth, supple and light, with expressive perfumes of red fruits and berries. <br><a href="https://barriquesmarket.com/products/domaine-des-homs-minervois-rose">2019 Domaine des Homs Minervois Rose</a> - <span> Vibrant, elegant and well balanced on the palate.<br><a href="https://barriquesmarket.com/products/2018-honig-sauvignon-blanc">2019 Honig Sauvignon Blanc</a> - <span>Organically produced. Bright acidity and crisp freshness, with flavors of juicy peach, passion fruit, and grapefruit, and the enticing aromas of jasmine and lemon zest. Medium-bodied, with a lingering finish.<br></span></span></span><span><span><span><a href="https://barriquesmarket.com/products/laplaya-chardonnay">2018 Laplaya Chardonnay</a> -<span>Un-oaked.  A lively vibrancy of bright citrus, apple notes balance out the weight of the tropical fruit flavors to give an effortless impression on the palate.  <br><a href="https://barriquesmarket.com/products/acrobat-pinot-gris">2018 Acrobat Pinot Gris</a> - <span>Light, fresh aromas of green pear, melon, ruby grapefruit with a floral touch.  Fleshy fruit texture with a nice citrusy core and refreshing finish.</span><br></span></span></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>July 29 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine Deals</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5511140901022</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5490874777758</id>
+    <published>2020-07-24T15:31:47-05:00</published>
+    <updated>2020-07-24T15:31:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/les-vignerons-3-messes-basses-rose"/>
+    <title>Les Vignerons 3 Messes Basses Rose</title>
+    <s:type></s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/troismesses_basses_rose.png?v=1595622708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2018 - Clean fruity and floral bouquet with hint of acid drop when aerated.  This is a fresh and fleshy dry rosé with a crisp mouth, supple and light, with expressive perfumes of red fruits and berries. Fantastic for the price.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>July 29 Show</s:tag>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>var-</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine Deals</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5490874777758</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>811536000477</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5475955146910</id>
+    <published>2020-07-22T08:50:50-05:00</published>
+    <updated>2020-07-22T08:50:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/luchador-tempranillo-toro"/>
+    <title>Luchador Tempranillo Toro</title>
+    <s:type></s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Luchador_Tempranillo.png?v=1595425851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2016 - The Tempranillo grapes in this wine come from the <span>dry, arid hillsides of Spain's Toro region.  The warm dry season ripens the grapes to a deep, rich red color with deep purple velvety core.  Aromas waft off this wine full of ripe black raspberry, plum, black cherry, dusty vanilla spice.  It features a lush palate with an inky texture and full of plummy red berry fruits and round soft tannins.  This is a juicy, fun kick around wine you can also pair up with a red sauce lasagna, hamburger or pizza night.  Limited quantity available.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>July 22 Show</s:tag>
+    <s:tag>ori-Spain</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Tempranillo</s:tag>
+    <s:tag>Wine Deals</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5475955146910</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>010111004347</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

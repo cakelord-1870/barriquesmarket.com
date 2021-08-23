@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/august-18-show.atom"/>
+  <title>Barriques</title>
+  <updated>2021-08-18T10:28:19-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/3973109645382</id>
+    <published>2021-08-18T10:28:19-05:00</published>
+    <updated>2021-08-18T10:28:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/colombia-geraldo-exotico"/>
+    <title>Colombia Giraldo Exotico</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/ColombiaGiraldo_4x3.3.png?v=1567204414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            12.95 - 99.00
+            <a href="https://barriquesmarket.com/products/colombia-geraldo-exotico">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Really good Colombian Coffees like our “Cordillera Central” are one of the best reasons to love coffee! Colombian coffees are celebrated for having “more” and compared to the straightforward bright, clean cup of other New World beans, they sure do… more lush character and body, a richer aroma, and more sweet chocolate, lush fruit flavors. This is why we are so excited to be featuring, for a limited time, a new coffee from Colombia, the Colombia Giraldo Exotico. This world-class, limited production coffee is a product of of just 81 family-owned farms in and around the municipality of Giraldo in Antioquia, Colombia. They produce this amazing coffee at around 2000 meters above sea level and form a producer association that is dedicated to quality and close working relationships with their partners in the US. <br><br>We back off the roast just slightly from our regular Cordillera Central profile to emphasize the delicate, wine like acidity and rich undertones of butter-toffee sweetness of this coffee. The mouth-coating syrupy body makes this a truly delicious coffee drinking experience. Get it while it lasts.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Americas</s:tag>
+    <s:tag>August 18 Show</s:tag>
+    <s:tag>Best Sellers</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Single Origin</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/3973109645382</id>
+      <title>Whole Bean / 12oz Bag</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>27140-1</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/3973109645382</id>
+      <title>Whole Bean / 5lb Bag</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>27140-2</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/3973109645382</id>
+      <title>French Press / 12oz Bag</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>27140-3</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/3973109645382</id>
+      <title>French Press / 5lb Bag</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>27140-14</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/3973109645382</id>
+      <title>Drip / 12oz Bag</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>27140-4</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/3973109645382</id>
+      <title>Drip / 5lb Bag</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>27140-5</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/3973109645382</id>
+      <title>Espresso / 12oz Bag</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>27140-6</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/3973109645382</id>
+      <title>Espresso / 5lb Bag</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>27140-7</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/3973109645382</id>
+      <title>Turkish / 12oz Bag</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>27140-8</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/3973109645382</id>
+      <title>Turkish / 5lb Bag</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>27140-9</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/3973109645382</id>
+      <title>Fine / 12oz Bag</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>27140-10</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/3973109645382</id>
+      <title>Fine / 5lb Bag</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>27140-11</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/3973109645382</id>
+      <title>Coarse / 12oz Bag</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>27140-12</s:sku>
+      <s:grams>467</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/3973109645382</id>
+      <title>Coarse / 5lb Bag</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>27140-13</s:sku>
+      <s:grams>2318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6902925623454</id>
+    <published>2021-08-17T14:48:51-05:00</published>
+    <updated>2021-08-17T14:48:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/alois-lageder-chardonnay"/>
+    <title>Alois Lageder Chardonnay</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/aloislageder_chardonnay.png?v=1629229724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One of the synonymous names with the highest quality wines of northern Italy is Alois Lageder, a sustainable/renewable energy winery with a focus on biodiversity and biodynamically produced wines.  Fifth and sixth generation Lageder family members oversee the wine production, marketing and vineyard management.  Their influence has led other producers to implement similar programs to help preserve their soil, minimize impact of agriculture and maintain their pristine landscape for the future generations.</p>
+<p data-mce-fragment="1">Chardonnay is well suited to the cool growing season of this area and excels in the chalky gravelly soils.  Alois Lageder takes a section of the grapes and ferments them on their lees in concrete for 4 months, leaving the remaining to ferment in stainless tanks outside in the naturally cool temperatures.  This wine displays a bright, white to golden color that is perfectly clear in the glass.  Vibrant aromas of Granny Smith apple, pear, lime zest, crushed stone and pear blossom will deeply penetrate your sniffer.  On the palate, there's the vibrancy of the Alto Adige, focused, taut and filled with refreshing fall fruits, driven mineral structure and a crisp, dry finish.  The Alois Lageder Chardonnay is a dream wine for a sommelier to put on a restaurant wine list as it delivers way above its pay grade and is a treat of a wine for food pairing.  Easily pair up with Chicken Piccata, a grilled shrimp pesto pasta, or pan fried Turbot with a caper butter reduction. Cheers.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>August 18 Show</s:tag>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Chardonnay</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6902925623454</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>609286300752</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6826429251742</id>
+    <published>2021-08-11T09:32:56-05:00</published>
+    <updated>2021-08-11T09:32:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/in-person-summer-sparkling-tasting-08-27"/>
+    <title>In-Person Summer Sparkling Tasting 08/27</title>
+    <s:type>Tasting</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/WineTastingSparkleWines-1.png?v=1628692202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Tasting<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">
+<span>Often over-looked and forgotten about by the daily wine drinkers out there, Sparkling wine is rarely the wrong choice.  Join us for an in-person Summer Sparkling Wine Celebration featuring some of our favorite old faithfuls and some newbies you won't want to miss. Join us for this in-person tasting on Friday, August 27th at Barriques Middleton.  The event runs from 5 - 7pm, stop by anytime.</span><span>  $16 discounted advance purchase price.  $21 day of event. </span>
+</div>
+<div data-mce-fragment="1">
+<span></span><br>
+</div>
+<div data-mce-fragment="1"><span style="text-decoration: underline;">Wines To Be Tasted Include:</span></div>
+<p><span data-mce-fragment="1">Casa Coste Piane Prosecco</span> <br>Avinyo Cava<br>Moillard Cremant du Bourgogne<br>Roederer Estate Brut<br>Filipa Pato 3B Sparkling Rose<br>Cleto Chiarli Brut Rose</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>August 11 Show</s:tag>
+    <s:tag>August 18 Show</s:tag>
+    <s:tag>In-Person Tasting 08/27</s:tag>
+    <s:tag>July 28 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6826429251742</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6874311721118</id>
+    <published>2021-08-05T09:18:17-05:00</published>
+    <updated>2021-08-05T09:18:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/doundrins-distilling-lemon-rum"/>
+    <title>Doundrins Distilling Lemon Rum</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/lemon_rum.png?v=1629300001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            26.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fresh from Cambridge, WI.  Lemon infused white rum made from sugar cane. Delish!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>August 18 Show</s:tag>
+    <s:tag>ori-Wisconsin</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Rum</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6874311721118</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.49</s:price>
+      <s:sku>850003592640</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6844550054046</id>
+    <published>2021-07-26T15:56:21-05:00</published>
+    <updated>2021-07-26T15:56:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/hybrid-lapis-luna-bonny-doon-tasting-08-20"/>
+    <title>Hybrid Lapis Luna - Bonny Doon Tasting 08/20</title>
+    <s:type>Tasting</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/LapisLuna_NapaCab.png?v=1627332871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Tasting<br>
+        <strong>Price: </strong>
+            15.00 - 45.00
+            <a href="https://barriquesmarket.com/products/hybrid-lapis-luna-bonny-doon-tasting-08-20">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1"><strong>This tasting is no longer available to purchase online.</strong></p>
+<p data-mce-fragment="1"> Whether you are ready to taste in person or need to continue experiencing our tastings virtually, our new hybrid tasting format could be just what you are looking for.  On Friday, August 20th @ 7pm at Barriques Monroe St, we will be hosting a tasting featuring wines from Lapis Luna and the iconic Bonny Doon with our guest host, Andrew Nelson, who will be joining us virtually.  You can taste along with us &amp; Andrew in person at Monroe St. or tune into the livestream of the event via Zoom.  The in-person tasting will feature 6 wines including the 2019 Lapis Luna Sauvignon Blanc, 2019 Lapis Luna Red, 2019 Lapis Luna Zinfandel, 2019 Lapis Luna Napa Cabernet, 2019 Bonny Doon Picpoul and the 2020 Bonny Doon Van Gris de Cigare.</p>
+<p data-mce-fragment="1">For this attending virtually, we have a four wine option (featuring the Lapis Luna wines) and a six wine option featuring all the wines we will discuss that evening.  Both of these options include 8oz pours of the respective wines.  Virtual attendees will receive an email with instructions on how to connect with us via Zoom the night of the event.  If you select the in-person version, we will open the doors at Monroe St. at 6:45pm on the 20th.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>August 11 Show</s:tag>
+    <s:tag>August 18 Show</s:tag>
+    <s:tag>August 4 Show</s:tag>
+    <s:tag>Hybrid Tasting 08/20</s:tag>
+    <s:tag>July 28 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6844550054046</id>
+      <title>In Person</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6844550054046</id>
+      <title>Virtual w/ Four Wines</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6844550054046</id>
+      <title>Virtual w/ 6 Wines</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

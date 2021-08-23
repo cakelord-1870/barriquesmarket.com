@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/in-person-oregon-wine-tasting-08-06.atom"/>
+  <title>Barriques</title>
+  <updated>2021-07-21T09:13:54-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/6826440622238</id>
+    <published>2021-07-21T09:13:54-05:00</published>
+    <updated>2021-07-21T09:13:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/in-person-wines-from-oregon-tasting-08-06"/>
+    <title>In-Person Wines from Oregon Tasting 08/06</title>
+    <s:type>Tasting</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/WineTasting_3.png?v=1626880401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Tasting<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">
+<meta charset="UTF-8">
+<span style="color: #ff2a00;"><strong>Online ordering is now closed.  Walk-in orders are available.  </strong></span>
+</div>
+<div data-mce-fragment="1">
+<span>Oregon is a world class wine producing region that produces some of our favorite wines.  Join us for this in-person tasting on Friday, August 6th at Barriques Fitchburg.  The event runs from 5 - 7pm, stop by anytime.</span><span>  $15 discounted advance purchase price.  $20 day of event. </span>
+</div>
+<div data-mce-fragment="1"><span></span></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<span style="text-decoration: underline;">Wines To Be Tasted Include:</span><br>
+</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">2019 Brooks Pinot Blanc</div>
+<div data-mce-fragment="1">2019 Acrobat Pinot Gris</div>
+<div data-mce-fragment="1">2020 Teutonic "Crow Valley" Pinot Gris</div>
+<div data-mce-fragment="1">2018 Kings Ridge Pinot Noir</div>
+<div data-mce-fragment="1">2019 Foris PInot Noir</div>
+<div data-mce-fragment="1">2019 Four Graces Willamette Valley Pinot Noir</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>In-Person Tasting 08/06</s:tag>
+    <s:tag>July 21 Show</s:tag>
+    <s:tag>ori-Oregon</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6826440622238</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

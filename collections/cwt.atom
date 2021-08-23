@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/cwt.atom"/>
+  <title>Barriques</title>
+  <updated>2021-07-07T12:49:39-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/4514323791944</id>
+    <published>2021-07-07T12:49:39-05:00</published>
+    <updated>2021-07-07T12:49:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/downshift-mountain-water-decaf-cwt-3-for-2-pack"/>
+    <title>Downshift Mountain Water Decaf CWT  - 3 For 2 Pack</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Barriques Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Med-MWP_Downshift_Decaf_600_1024x1024_2x_77122a31-9e0a-4891-83e5-1f735d8620e1.jpg?v=1585524258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Coffee<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            28.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Barriques CWT Deal - This item includes 3 bags for the price of 2! </strong></p>
+<p>Downshift Decaf is our breakfast-type Decaf blend. We use natural decafs from the New World, Africa and the Pacific Islands to build a blend with crisp, energizing aroma, medium body and lots of bright fruit notes.</p>
+<p>Just one look and taste of Barriques Decaf, and you know we’re coming from a very different place than other specialty roasters. We buy better beans because we’re determined that ALL our customers enjoy great coffee – crisp, rich and satisfying, and with ‘taste of place’ only possessed by sustainably-grown heirloom Arabica.</p>
+<p>Our beans are decaffeinated by the Mountain Water Process, the same natural decaffeination as Swiss Water. The decaffeination plant is new, with updated processes and controls that protect coffee flavor. We craft roast decaf the same way as our other coffees – in small batches with careful attention to the nuances that signal peak flavor development. Our Decafs are delicious, with cup quality, intensity and flavor to match our other specialty coffees!</p>
+<p>12oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blends</s:tag>
+    <s:tag>Coffee Live</s:tag>
+    <s:tag>CWT</s:tag>
+    <s:tag>Decaf</s:tag>
+    <s:tag>July 7 Show</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4514323791944</id>
+      <title>Whole Bean</title>
+      <s:price currency="USD">28.90</s:price>
+      <s:sku>27125-1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4514323791944</id>
+      <title>French Press/Coarse</title>
+      <s:price currency="USD">28.90</s:price>
+      <s:sku>27125-3</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4514323791944</id>
+      <title>Drip</title>
+      <s:price currency="USD">28.90</s:price>
+      <s:sku>27125-5</s:sku>
+      <s:grams>1388</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4514323791944</id>
+      <title>Espresso/Fine</title>
+      <s:price currency="USD">28.90</s:price>
+      <s:sku>27125-11</s:sku>
+      <s:grams>467</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4515053043784</id>
+    <published>2021-05-07T08:11:57-05:00</published>
+    <updated>2021-05-07T08:11:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/villa-wolf-pinot-noir-rose"/>
+    <title>Villa Wolf Pinot Noir Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/villawolfrose.png?v=1585591543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2020 - The Pfalz is a very warm and sunny region, often called the “Tuscany of Germany,” so all of the Pinot varieties do well here. The Villa Wolf Pinot Noir Rosé is a true rosé, made with a brief maceration before pressing to extract color. It is light and refreshing, with deliciously bright berry and fruit flavors and a clean, zippy finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CWT</s:tag>
+    <s:tag>In-Person Tasting 06/18</s:tag>
+    <s:tag>May 19 Show</s:tag>
+    <s:tag>ori-Germany</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4515053043784</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>183103000174</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4517730287688</id>
+    <published>2020-08-17T10:47:11-05:00</published>
+    <updated>2020-08-17T10:47:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/7-deadly-zins"/>
+    <title>7 Deadly Zins</title>
+    <s:type></s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/sevendeadly_zins.png?v=1585860792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PICKUP ONLY.  You will receive confirmation as soon as the wine is ready for pickup at the location you requested. </strong></p>
+<p>2016 - Heaps of jammy berry fruit are followed by aromas of leather, oak and spice notes. On the palate the wine is round and layered showing flavors of dark fruits, currants and toffee through a lingering spice-touched finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CWT</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Zinfandel</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:tag>Wine Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4517730287688</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>652935011028</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4580601430088</id>
+    <published>2020-05-14T09:44:08-05:00</published>
+    <updated>2020-05-14T09:44:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/elderberry-hill-farm-spinach"/>
+    <title>Elderberry Hill Farm Spinach</title>
+    <s:type></s:type>
+    <s:vendor>Barriques Farmers Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Untitleddrawing_17_329396c5-eee7-4a4b-9564-2bd6008f2cdd.png?v=1588800580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Farmers Market<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Elderberry Hill is a diversified vegetable farm near Madison, growing in the beautiful soil on the North side of Lake Mendota, near the Cherokee Marsh. They focus on growing delicious, beautiful varieties and deliver their freshly harvested produce to restaurants in Madison. This is a 1/2 lb bag of their spinach.</p>
+<p><strong>Order weekly Sunday through Wednesday evening for a Saturday pickup at the Barriques location you designate.</strong><span><strong> </strong> Thank you.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CWT</s:tag>
+    <s:tag>Farmers Market</s:tag>
+    <s:tag>May 6th Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Treats Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4580601430088</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4580598775880</id>
+    <published>2020-05-14T09:44:07-05:00</published>
+    <updated>2020-05-14T09:44:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/elderberry-hill-farm-salad-greens"/>
+    <title>Elderberry Hill Farm Salad Greens</title>
+    <s:type></s:type>
+    <s:vendor>Barriques Farmers Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Untitleddrawing_16_dd5dcebb-be64-4ec2-b840-75c4e6cddb04.png?v=1588800485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Farmers Market<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Elderberry Hill is a diversified vegetable farm near Madison, growing in the beautiful soil on the North side of Lake Mendota, near the Cherokee Marsh. They focus on growing delicious, beautiful varieties and deliver their freshly harvested produce to restaurants in Madison. This is a 1/2 lb bag of their salad greens.</p>
+<p><strong>Order weekly Sunday through Wednesday evening for a Saturday pickup at the Barriques location you designate.</strong><span><strong> </strong> Thank you.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CWT</s:tag>
+    <s:tag>Farmers Market</s:tag>
+    <s:tag>May 6th Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Treats Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4580598775880</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4592247570504</id>
+    <published>2020-05-13T17:56:56-05:00</published>
+    <updated>2020-05-13T17:56:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/random-madison-service-employee-donation-may-13"/>
+    <title>Random Madison Service Employee Donation May 13</title>
+    <s:type></s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/ScreenShot2020-03-30at3.49.49PM_41e45eb5-b95a-45b2-b76b-8d5265a51091.png?v=1589410618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We pick one random Madison service employee from the site tipyourserver.org and donate to them, all the proceeds from the purchases of this item.  For our April 15th show, for every $5 donation, you will get one entry into our drawing for the chance to purchase the one bottle of Blanton's Single Barrel Bourbon that we have.  Thank you for your generosity.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CWT</s:tag>
+    <s:tag>May 13th Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Treats Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4592247570504</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4590942584904</id>
+    <published>2020-05-13T13:59:44-05:00</published>
+    <updated>2020-05-13T13:59:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/cowboy-cookies-6pk"/>
+    <title>Cowboy Cookies - 6pk</title>
+    <s:type></s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Untitleddrawing_4_6dced75e-79e7-442f-bb32-3aa27b5b1652.png?v=1589319066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get a 6 pack of our delicious, made from scratch, freshly baked cowboy cookies. Available for in-store pickup only. You will be contacted via text or email to arrange a pickup time that is convenient for you.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CWT</s:tag>
+    <s:tag>May 13th Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Treats Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4590942584904</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4580854202440</id>
+    <published>2020-05-06T18:08:07-05:00</published>
+    <updated>2020-05-06T18:08:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/random-madison-service-employee-donation-may-6"/>
+    <title>Random Madison Service Employee Donation May 6</title>
+    <s:type></s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/ScreenShot2020-03-30at3.49.49PM_7df747d2-3d13-4675-821f-cb2f471834c9.png?v=1588812444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>During our live Barriques Coffee, Wine &amp; Treats show that we stream live each Wednesday night at 7pm, we pick one random Madison service employee from the site tipyourserver.org and donate all the proceeds from the purchases of this item to them. </span><span>Support your Madison service employees with a small donation. 100% of the money raised by your purchase of this item will be sent to the person picked during our live show.</span><span> Thank you for your generosity.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CWT</s:tag>
+    <s:tag>May 6th Show</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4580854202440</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4580596678728</id>
+    <published>2020-05-06T15:57:20-05:00</published>
+    <updated>2020-05-06T15:57:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/stellas-spicy-cheese-bread"/>
+    <title>Stella&apos;s Spicy Cheese Bread</title>
+    <s:type></s:type>
+    <s:vendor>Barriques Farmers Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Untitleddrawing_15_08411e71-9cd4-4dc7-9a1a-29dd26bb862c.png?v=1588800308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Farmers Market<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Stella﻿'s famous spicy cheese bread, a staple of the Madison Farmers Market, is now available for purchasing. Filled with a quarter pound of spicy Wisconsin cheese.</p>
+<p><strong>Order weekly Sunday through Wednesday evening for a Saturday pickup at the Barriques location you designate.</strong><span><strong> </strong> Thank you.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CWT</s:tag>
+    <s:tag>Farmers Market</s:tag>
+    <s:tag>May 6th Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Treats Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4580596678728</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4565966585928</id>
+    <published>2020-04-29T18:36:53-05:00</published>
+    <updated>2020-04-29T18:36:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/random-madison-service-employee-donation-april-29"/>
+    <title>Random Madison Service Employee Donation April 29</title>
+    <s:type></s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/ScreenShot2020-03-30at3.49.49PM_1024x1024_2x_f5f5cd5d-dba2-4b19-85a8-1e87570ca934.png?v=1588204125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>During our live Barriques Coffee, Wine &amp; Treats show that we stream live each Wednesday night at 7pm, we pick one random Madison service employee from the site tipyourserver.org and donate all the proceeds from the purchases of this item to them. </span><span>Support your Madison service employees with a small donation. 100% of the money raised by your purchase of this item will be sent to the person picked during our live show.</span><span> Thank you for your generosity.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>April 29 Show</s:tag>
+    <s:tag>CWT</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4565966585928</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4557190332488</id>
+    <published>2020-04-25T15:20:21-05:00</published>
+    <updated>2020-04-25T15:20:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/bryant-family-farms-fresh-duck-eggs-one-12ct-carton"/>
+    <title>Bryant Family Farms Fresh Duck Eggs - One 6ct Carton</title>
+    <s:type></s:type>
+    <s:vendor>Barriques Farmers Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Untitleddrawing-2020-04-28T130519.116.png?v=1588097134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Farmers Market<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Bryant Family Farms was founded in 2011 with the idea of supplying farm-direct, FRESH, local eggs to customers </span><span class="text_exposed_show">throughout Illinois and Wisconsin.  We've been a drop-off site for their Egg CSA for years.  Help support this local farmer and get a few cartons of their delicious eggs into your refrigerator.  <span>These eggs </span><span>come from <strong>Ducks</strong> raised </span><span>in open pastures and contain no hormones, no antibiotics, and are GMO - Free.</span></span></p>
+<meta charset="utf-8">
+<p><span class="text_exposed_show"><strong>Order weekly Sunday through Wednesday evening for a Saturday pickup at the Barriques location you designate.</strong><span><strong> </strong> Thank you.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CWT</s:tag>
+    <s:tag>Farmers Market</s:tag>
+    <s:tag>March 30 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Treats Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4557190332488</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4551415103560</id>
+    <published>2020-04-22T17:10:58-05:00</published>
+    <updated>2020-04-22T17:10:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/peanut-butter-cookies-6pk"/>
+    <title>Peanut Butter Cookies - 6pk</title>
+    <s:type></s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/IMG_0892_94184edf-eee5-432c-a98d-ae3a358220d1.jpg?v=1587593459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get a 6 pack of our delicious, made from scratch, freshly baked peanut butter cookies.  Available for in-store pickup only.  <strong>You will be contacted via text or email to arrange a pickup time that is convenient for you at Monroe St., Middleton, Fitchburg or Old Sauk.  </strong>This deal good through noon, Tuesday, April 28th.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>April 22 Show</s:tag>
+    <s:tag>CWT</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4551415103560</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4551202930760</id>
+    <published>2020-04-22T15:32:09-05:00</published>
+    <updated>2020-04-22T15:32:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/random-madison-service-employee-donation-april-22"/>
+    <title>Random Madison Service Employee Donation April 22</title>
+    <s:type></s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/ScreenShot2020-03-30at3.49.49PM_a11809f0-5e87-45cf-b2dd-4de67e5312b6.png?v=1587587540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">During our live Barriques Coffee, Wine &amp; Treats show that we stream live each Wednesday night at 7pm, we pick one random Madison service employee from the site tipyourserver.org and donate all the proceeds from the purchases of this item to them.  For our April 22nd show, for every $5 donation, you will get one entry into our drawing for the chance to purchase one of two bottles of Blood Oath Pact 6 Bourbon.  You may only win once per drawing.  Thank you for your generosity.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>April 22 Show</s:tag>
+    <s:tag>CWT</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4551202930760</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4537002524744</id>
+    <published>2020-04-15T18:38:10-05:00</published>
+    <updated>2020-04-15T18:38:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/zoom-cabernet-tasting-pack"/>
+    <title>Zoom Cabernet Tasting Pack</title>
+    <s:type></s:type>
+    <s:vendor>Barriques Tastings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/IMG_0959_b31f778d-ab90-4a46-acd1-2a20538871c0.jpg?v=1586993932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Tastings<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pick up this three pack of Cabernet Sauvignons and join us for the second Barriques Zoom wine tasting being held on Thursday, April 23 at 7pm.  Specify your preferred curbside pickup location and we will contact you directly w/ the link to use to join us the night of the tasting.  The three wines include:</p>
+<p><strong>CS Substance Cabernet Sauvignon</strong><span> </span>- Classic Cabernet raised in the Columbia Valley.  </p>
+<p><strong>Rickshaw Cabernet Sauvignon</strong><span> </span>- The fleshy fruit flavors and suede like tannins will slay you.</p>
+<p><strong>Sanssouci Cabernet Sauvignon</strong><span> </span>- <span> A great value Cab that comes across without being too heavy handed.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>April 15 Show</s:tag>
+    <s:tag>CWT</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>WIne</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4537002524744</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4537271615560</id>
+    <published>2020-04-15T16:26:37-05:00</published>
+    <updated>2020-04-15T16:26:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/rowans-creek-kentucky-bourbon-whiskey"/>
+    <title>Rowan&apos;s Creek Kentucky Bourbon Whiskey</title>
+    <s:type></s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/rowanscreek_boubon.jpg?v=1586986224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Well balanced nose with orange, fresh cut oak and cherries. Palate has a pleasant mouth feel with more cherries coming through along with baking spices and maple. The finish is moderate and brings back the orange on the nose with some char to balance it out.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>April 15 Show</s:tag>
+    <s:tag>CWT</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Bourbon</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4537271615560</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>680203040074</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4537021562952</id>
+    <published>2020-04-15T13:07:57-05:00</published>
+    <updated>2020-04-15T13:07:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/funckenhausen-cabernet-sauvignon"/>
+    <title>Funckenhausen Cabernet Sauvignon</title>
+    <s:type></s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Untitleddrawing.png?v=1586978069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2017 - The 2017 Funckenhausen Cabernet Sauvignon (85% Cabernet Sauvignon, 12% Malbec, 3% Petit Verdot) Dark violet with ruby edges in the glass, there are black fruits and red pepper mixed with subtle notes of spice and vanilla. The texture is bold, but elegant on the palate with a balanced finish that invited another pour.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>April 15 Show</s:tag>
+    <s:tag>CWT</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Cabernet Sauvignon</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4537021562952</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>7798143901416</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4514321268808</id>
+    <published>2020-04-13T20:45:12-05:00</published>
+    <updated>2020-04-13T20:45:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/bryant-family-farms-fresh-eggs-one-12ct-carton"/>
+    <title>Bryant Family Farms Fresh Eggs - One 12ct Carton</title>
+    <s:type></s:type>
+    <s:vendor>Barriques Farmers Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Untitleddrawing-2020-04-28T130436.977.png?v=1588097090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Farmers Market<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Bryant Family Farms was founded in 2011 with the idea of supplying farm-direct, FRESH, local eggs to customers </span><span class="text_exposed_show">throughout Illinois and Wisconsin. We've been a drop-off site for their Egg CSA for years. Help support this local farmer and get a few cartons of their delicious eggs into your refrigerator. These eggs come from chickens raised <span>in open pastures and contain no hormones, no antibiotics, and are GMO - Free.</span></span></p>
+<meta charset="utf-8">
+<p><strong>Order weekly Sunday through Wednesday evening for a Saturday pickup at the Barriques location you designate.</strong><span><strong> </strong> Thank you.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CWT</s:tag>
+    <s:tag>Farmers Market</s:tag>
+    <s:tag>March 30 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Treats Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4514321268808</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4513998733384</id>
+    <published>2020-04-13T20:45:12-05:00</published>
+    <updated>2020-04-13T20:45:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/chocolate-chip-cookies-6pk"/>
+    <title>Chocolate Chip Cookies - 6pk</title>
+    <s:type></s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/IMG_0892.jpg?v=1585490822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get a 6 pack of our delicious, made from scratch, freshly baked chocolate chip cookies.  Available for in-store pickup only.  You will be contacted via text or email to arrange a pickup time that is convenient for you.</p>
+<p>This deal good through noon, Tuesday , Monday March 31st.  You will be contacted directly to arrange a pickup time.  Thank you.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CWT</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Treats Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4513998733384</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4526217166920</id>
+    <published>2020-04-08T16:33:34-05:00</published>
+    <updated>2020-04-08T16:33:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/juggernaut-hillside-cabernet-sauvignon"/>
+    <title>Juggernaut Hillside Cabernet Sauvignon</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/JuggernautHillside_CabernetSauvignon.png?v=1605720189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PICKUP ONLY.  You will receive confirmation as soon as the wine is ready for pickup at the location you requested. </strong></p>
+<p>2019 - Move over rover, this is an inky, untamed kitty of a wine.  Deep, rich, plummy blackberry, cassis infused in vanilla, dark chocolate and spice.  Mouthfeel is big, full and plush with visceral fruit, intense with a backbone of dry tannins.--Finn</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>April 8 Show</s:tag>
+    <s:tag>Big Deals</s:tag>
+    <s:tag>CWT</s:tag>
+    <s:tag>ori-California</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Cabernet Sauvignon</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:tag>Wine Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4526217166920</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>080887551017</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4526351056968</id>
+    <published>2020-04-08T16:22:38-05:00</published>
+    <updated>2020-04-08T16:22:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/zoom-sauvignon-blanc-tasting-pack"/>
+    <title>Zoom Sauvignon Blanc Tasting Pack</title>
+    <s:type></s:type>
+    <s:vendor>Barriques Tastings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/IMG_0959.jpg?v=1586389641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Tastings<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Pick up this three pack of springtime Sauvignon Blancs and join us for the first Barriques Zoom wine tasting being held on Thursday, April 16 at 7pm.  Specify your preferred curbside pickup location and we will contact you directly w/ the link to use to join us the night of the tasting.  The three wines include:</p>
+<p><strong>Yelcho Sauvignon Blanc</strong> - Crisp, clean, loaded in white fruit character.</p>
+<p><strong>Manos Andinas Sauvignon Blanc</strong> - Classic, fresh and crisp interpretation of Sauvignon Blanc. </p>
+<p><strong>Vavasour Sauvignon Blanc</strong> - A fairly bold, lush, tropical New Zealand Sauvignon Blanc.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CWT</s:tag>
+    <s:tag>March 30 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Wine Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4526351056968</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4514339356744</id>
+    <published>2020-04-08T16:22:38-05:00</published>
+    <updated>2020-04-08T16:22:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/random-madison-service-employee"/>
+    <title>Random Madison Service Employee Donation April 15</title>
+    <s:type></s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/ScreenShot2020-03-30at3.49.49PM.png?v=1587587438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We pick one random Madison service employee from the site tipyourserver.org and donate to them, all the proceeds from the purchases of this item.  For our April 15th show, for every $5 donation, you will get one entry into our drawing for the chance to purchase one of three Blanton's Single Barrel Bourbon bottles that we have.  Thank you for your generosity.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>April 15 Show</s:tag>
+    <s:tag>CWT</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Treats Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4514339356744</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4523157028936</id>
+    <published>2020-04-07T18:36:55-05:00</published>
+    <updated>2020-04-07T18:36:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/2016-chateau-malbec-bordeaux-rouge"/>
+    <title>Chateau Malbec Bordeaux Rouge</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/ChateauMalbec_BordeauxRouge.jpg?v=1586208703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PICKUP ONLY.  You will receive confirmation as soon as the wine is ready for pickup at the location you requested. </strong></p>
+<p>2018 - Superb intense and very inviting aromas of sweet cassis black fruit, warm spicy oak and coffee. Lovely, mouth-filling palate of glossy delicious black fruit and well judged oak giving an appealing spicy undercurrent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CWT</s:tag>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Bordeaux</s:tag>
+    <s:tag>var-Red Blend</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4523157028936</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>083729006133</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4517643485256</id>
+    <published>2020-04-02T13:35:13-05:00</published>
+    <updated>2020-04-02T13:35:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/silver-trident-napa-sauvignon-blanc"/>
+    <title>Silver Trident Napa Sauvignon Blanc</title>
+    <s:type></s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/SilverTridentNapa_SauvignonBlanc.png?v=1585853063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PICKUP ONLY.  You will receive confirmation as soon as the wine is ready for pickup at the location you requested. </strong></p>
+<p>2017 - Made by Madison native, Kari Auringer.  With just a swirl of the glass, abundant aromas of tropical fruit, pineapple and ripe nectarine fill the air. A few more swirls release aromas of pink grapefruit, sweet Meyer lemon and fresh cut tarragon. Rich in texture, it is both creamy and bright at the same time.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CWT</s:tag>
+    <s:tag>ori-California</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Sauvignon Blanc</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:tag>Wine Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4517643485256</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>231997</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4517637947464</id>
+    <published>2020-04-02T13:23:35-05:00</published>
+    <updated>2020-04-02T13:23:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/ravenswood-lodi-zinfandel"/>
+    <title>Ravenswood Lodi Zinfandel</title>
+    <s:type></s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/RavenswoodLodi_Zinfandel.png?v=1585852162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PICKUP ONLY.  You will receive confirmation as soon as the wine is ready for pickup at the location you requested. </strong></p>
+<p>2017 - A very supple zinfandel displaying aromas of black plum, black raspberry, strawberry and boysenberry, notes of dusty violet, chocolate and vanilla spice.  Silky red berry fruits fill the palate with richness and weight, smooth tannins and juicy finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CWT</s:tag>
+    <s:tag>ori-California</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Zinfandel</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:tag>Wine Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4517637947464</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>715826102967</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4516607033416</id>
+    <published>2020-04-02T08:20:16-05:00</published>
+    <updated>2020-04-02T08:20:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/copy-of-papet-del-mas-brut-rose"/>
+    <title>2019 Occhipinti Rosso SP68</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/arianna-occhipinti-sp68-rosso.jpg?v=1585792424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PICKUP ONLY.  You will receive confirmation as soon as the wine is ready for pickup at the location you requested.</strong></p>
+<p>2019 - An evocative blend of Nero d'Avola and Frapatto, organically grown in Sicily.  Intense fruity and spicy with notes of currant, earth, thyme, dark spices and a hint wild.  Fresh and soft, with sweet tannins and good length  A wine with intellect.--Finn</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CWT</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Red Blend</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4516607033416</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>291596</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

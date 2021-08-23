@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/in-person-summer-sparkling-wine-08-27.atom"/>
+  <title>Barriques</title>
+  <updated>2021-08-11T09:32:56-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/6826429251742</id>
+    <published>2021-08-11T09:32:56-05:00</published>
+    <updated>2021-08-11T09:32:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/in-person-summer-sparkling-tasting-08-27"/>
+    <title>In-Person Summer Sparkling Tasting 08/27</title>
+    <s:type>Tasting</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/WineTastingSparkleWines-1.png?v=1628692202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Tasting<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">
+<span>Often over-looked and forgotten about by the daily wine drinkers out there, Sparkling wine is rarely the wrong choice.  Join us for an in-person Summer Sparkling Wine Celebration featuring some of our favorite old faithfuls and some newbies you won't want to miss. Join us for this in-person tasting on Friday, August 27th at Barriques Middleton.  The event runs from 5 - 7pm, stop by anytime.</span><span>  $16 discounted advance purchase price.  $21 day of event. </span>
+</div>
+<div data-mce-fragment="1">
+<span></span><br>
+</div>
+<div data-mce-fragment="1"><span style="text-decoration: underline;">Wines To Be Tasted Include:</span></div>
+<p><span data-mce-fragment="1">Casa Coste Piane Prosecco</span> <br>Avinyo Cava<br>Moillard Cremant du Bourgogne<br>Roederer Estate Brut<br>Filipa Pato 3B Sparkling Rose<br>Cleto Chiarli Brut Rose</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>August 11 Show</s:tag>
+    <s:tag>August 18 Show</s:tag>
+    <s:tag>In-Person Tasting 08/27</s:tag>
+    <s:tag>July 28 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6826429251742</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

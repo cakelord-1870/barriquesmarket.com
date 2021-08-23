@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/red-wine.atom"/>
+  <title>Barriques</title>
+  <updated>2021-08-20T09:53:02-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/6909558358174</id>
+    <published>2021-08-20T09:53:02-05:00</published>
+    <updated>2021-08-20T09:53:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/mary-taylor-mittelbrun-castilla-y-leon"/>
+    <title>Mary Taylor Mittelbrun Castilla y Leon</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/marytaylor_mittelbrunn_castillayleon_1e966ce3-8a72-4e10-b348-3b9f11c01079.png?v=1629471073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">2019 - A pleasantly inky, fleshy wine with aromas of plum, figs, blackberry, mulberry fruits. With a little carbonic maceration this wine is fresh, well rounded and easy to sip on. A wine for pizza night, burgers off the grill or pulled pork sandwiches.--Finn</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Spain</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6909558358174</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>686461170034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6909550166174</id>
+    <published>2021-08-20T09:48:58-05:00</published>
+    <updated>2021-08-20T09:48:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/rio-de-chacayes-super-uco-malbec"/>
+    <title>Rio de Chacayes SuperUco Malbec</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/RiodeChacayes_SuperUco_Malbec.png?v=1629470933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2018 - The wine shows the stony soils with less limestone than Altamira or Gualtallary; it is elegant and fluid, and with the larger volume (and a longer élevage), the wines feel more elegant. 3,000 bottles were filled in February 2020. The vineyard is certified organic and biodynamic, but they don't show it on the label, as they want to do it and feel it but not use it as a commercial tool.--94pts Wine Advocate<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Argentina</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Malbec</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6909550166174</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>853586006023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6891375362206</id>
+    <published>2021-08-13T12:53:07-05:00</published>
+    <updated>2021-08-13T12:53:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/valpane-barbera-rosso-pietro"/>
+    <title>Valpane Barbera Rosso Pietro</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Valpane_Barbera_PietroRosso.png?v=1628877183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2017 - The aroma of black cherry and black currant stands out in the nose, followed by fern and cloves, while in the mouth it has an excellent drinkability with a lingering finish of acidy fruits.  It is the typical "all meal" wine, pleasant and versatile with any type of cuisine.--winemaker</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Barbera</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6891375362206</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>761503723970</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6891340038302</id>
+    <published>2021-08-13T12:28:27-05:00</published>
+    <updated>2021-08-13T12:28:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/valderroa-valdesil-mencia"/>
+    <title>Valderroa Valdesil Mencia</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/ValderroaValdesil_Mencia.png?v=1628875660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2018 - Created in 1991, Valderroa shows the purest essence of the Mencía variety through blue slate soils. Made with grapes from various vineyards located along the Sil river valley, which are settled on the blue slate slopes, it shows a strong Atlantic character, with a delicate and bright fresh fruit, wrapped in spicy notes, with a body and a light tannin, and a very energetic slate minerality.--Winemaker</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Spain</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6891340038302</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8423085002004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6884146806942</id>
+    <published>2021-08-10T17:32:35-05:00</published>
+    <updated>2021-08-10T17:32:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/domaine-dupeuble-beaujolais"/>
+    <title>Domaine Dupeuble Beaujolais</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/DomaineDupeuble_Beaujolais.png?v=1628634756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">2020 - Dupeuble Beaujolais is a classic burgundian wine that over delivers for the price.  The wine has an evocative deep ruby color with a purplish rim in the glass  It has fleshy, ripe aromas of a blackberry, pomegranate, blueberry, raspberry with a mix of violets and cinnamon spice.  On the palate you'll find a mix of plush fruit with a delicate touch defines the structure on the first sip, on the second sip you taste the depth and complexity of this tasty wine.  This is a great summer red to put a light chill on for just enjoying on its own, or put it with a charcuterie plate of dried sausages and soft cheeses like brie or camembert.  You may also be surprised to find what a tasty wine it is with fried chicken, meat tacos and spicy tuna meatballs.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>August 11 Show</s:tag>
+    <s:tag>ori-Beaujolais</s:tag>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6884146806942</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>761503222268</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6875240988830</id>
+    <published>2021-08-05T16:48:49-05:00</published>
+    <updated>2021-08-05T16:48:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/les-carrelets-bordeaux-rouge"/>
+    <title>Les Carrelets Bordeaux Rouge</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/LesCarrelets_BordeauxRouge.png?v=1628200280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2019 - Bold and fruity, with enticing aromas of raspberry, currant and vanilla. An ideal Bordeaux to take you through a variety of dishes.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Bordeaux</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6875240988830</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>810029016629</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6875236270238</id>
+    <published>2021-08-05T16:44:54-05:00</published>
+    <updated>2021-08-05T16:44:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/j-select-pinot-noir"/>
+    <title>J Select Pinot Noir</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/JSelect_PinotNoir.png?v=1628199895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2017 - Perfumed aromas of florals, cranberry, pomegranate and juniper. Satin-smooth, the luscious palate features complex, layered notes of exotic spice, black tea, dried persimmon, date and tart cherry, finishing with depth and richness.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-California</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Pinot Noir</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6875236270238</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>724624001099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6872120819870</id>
+    <published>2021-08-04T12:56:11-05:00</published>
+    <updated>2021-08-04T12:56:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/hum-hofer-zweigelt"/>
+    <title>Hum Hofer Zweigelt</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/HumHofer_Zweigelt.png?v=1628099765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2018 - Certified organic.  Zweigelt is the #1 red in Austria, similar to a Beaujolais in style, fresh, lighter body, upfront dark raspberry, cherry, plum, blueberry aromas with an incredible drink-ability.  This is that perfect weekday red for sipping with pizza, spaghetti or turkey club sandwich.--Finn</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Austria</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Zweigelt</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6872120819870</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>9007225740002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6826545512606</id>
+    <published>2021-07-23T15:43:29-05:00</published>
+    <updated>2021-07-23T15:43:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/devils-corner-pinot-noir"/>
+    <title>Devils Corner Pinot Noir</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/devilscorner_pinotnoir.png?v=1626732555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2019 - This Pinot Noir is brightly colored with youthful purple tones.  A strongly perfumed style redolent of spicy black cherry, dark fruits and hints of raspberries.  The wine displays a juicy, sweet-fruit middle palate with soft, ripe tannins and fresh acidity.  Try this with pan fried duck breast and roasted Mediterranean vegetables. Or serve it with venison that is drizzled in a red wine and black pepper jus.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>In-Person Tasting 07/23</s:tag>
+    <s:tag>ori-Tasmania</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Pinot Noir</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6826545512606</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>767749018023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6837923938462</id>
+    <published>2021-07-23T15:42:01-05:00</published>
+    <updated>2021-07-23T15:42:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/domaine-les-carmels-les-caprices-bordeaux"/>
+    <title>Domaine les Carmels Les Caprices Bordeaux</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/caprices_domaine_carmels.png?v=1627072922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - A rarity in Bordeaux, this wine is 100% Merlot, organically grown and aged in concrete.  The result is a wine with buoyant aromas of black cherry, blackberry, red currant and wild flower.  Deep, dark red berry flavors ink the palate, dry skin tannins and supple finish.  A nice wine for venison, duck au poive, or beef bourguignon.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Bordeaux</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6837923938462</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6826546331806</id>
+    <published>2021-07-19T17:06:33-05:00</published>
+    <updated>2021-07-19T17:06:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/barda-pinot-noir"/>
+    <title>Barda Pinot Noir</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Barda_PinotNoir.png?v=1626732387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2019 - This is a high energy, taut pinot noir from the high altitude of Patagonia.  Vibrant cherry, wild raspberry, cranberry fruits, weighty rich aromas and mixed spice.  Medium bodied pinot, ripe with red berry fruits, balanced and focused.  A wine for herb grilled chicken thighs, sausages, blackened salmon or drunken goat cheese from Murcia.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Argentina</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Pinot Noir</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6826546331806</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>858423004019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6820805279902</id>
+    <published>2021-07-15T09:43:10-05:00</published>
+    <updated>2021-07-15T09:43:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/filipa-pato-dnmc-biscal"/>
+    <title>Filipa Pato DNMC</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/FilipaPato_DNMCBiscal.png?v=1626360120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2019 - The 2019 Dinamica is an 80/20 blend of Bical and Arinto, unoaked, very dry and coming in at 11.9% alcohol. It is clearly meant to be more fruit-forward in style and more accessible. To some, it may not seem as serious. Yet it has its own virtues, and it is pretty serious in its own way. Still, this tastes great and it holds up as it airs out and warms a bit. It still has a beautiful acidic backbone supporting the fruit. It should be great this coming summer—light, fruity and bright, a wine you can sip on the porch all by itself. I suspect it will also age a reasonable time, but aging really isn't the point. Let's start here on this overachiever.--Wine Advocate<br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Portugal</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Baga</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6820805279902</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>5600816160001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6820729323678</id>
+    <published>2021-07-15T09:21:52-05:00</published>
+    <updated>2021-07-15T09:21:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/imagery-cabernet-sauvignon-375ml"/>
+    <title>Imagery Cabernet Sauvignon 375ml</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/imagery_cabernet_375.png?v=1626358823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">PICKUP ONLY.  You will receive confirmation as soon as the wine is ready for pickup at the location you requested. </strong></p>
+<p data-mce-fragment="1">2019 - A soft, smooth wine with well integrated oak. Flavors of dark fruit like blackberry are met with earthy notes such as tobacco, toast and tea in the mid-palate. Layers of rich notes of spice, clove and pepper from the Petite Sirah complete the wine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-California</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Cabernet Sauvignon</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6820729323678</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>081308011189</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6820717330590</id>
+    <published>2021-07-15T08:51:48-05:00</published>
+    <updated>2021-07-15T08:51:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/frankland-estate-cabernet-sauvignon"/>
+    <title>Frankland Estate Cabernet Sauvignon</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/FranklandEstate_CabernetSauvignon.png?v=1626356792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2018 - A distinctive mineraly cabernet sauvignon that has a strong varietal and vineyard character from this excellent Frankland producer. Deep and concentrated with power and poise. Love that mineraly finish with a beautifully leafy lift.--Ray Jordan Top 100 Reds</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Australia</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Cabernet Sauvignon</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6820717330590</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>872728000156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6820720115870</id>
+    <published>2021-07-15T08:51:34-05:00</published>
+    <updated>2021-07-15T08:51:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/filipa-pato-post-quer-s-baga"/>
+    <title>Filipa Pato Post-Quer..s Baga</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/filipa-pato-2018-filipa-pato-post-quercs-baga-750.png?v=1626357089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2018 - Organic/Biodynamically produced by the amazing Filipa Pato.  This wine is fermented and aged in amphorae to retain the core freshness and quality of the Baga grapes.  Deep dark crimson color in the glass with dark cherry, blackberry, dark plum, currant, licorice and fresh sage.  Vibrant, fresh and delicious in the glass with incredible depth and concentration.  A perfect wine for squab, duck, turkey, salmon or pork loin.--Finn</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Portugal</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Filipa Pato</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6820720115870</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>5600816160094</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6817302577310</id>
+    <published>2021-07-13T16:28:27-05:00</published>
+    <updated>2021-07-13T16:28:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/bodegas-alceno-12-monastrell"/>
+    <title>Bodegas Alceno 12 Monastrell</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/BodegasAlceno_12Monastrell.png?v=1626211706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2016 - This Crianza is a blend of 85% Monastrell and 15%<br data-mce-fragment="1">Syrah aged 12 months in French and American oak bar-<br data-mce-fragment="1">rels. Deep color, complex nose with layers of black fruit,<br data-mce-fragment="1">toast, cocoa and spices. The palate shows great breadth<br data-mce-fragment="1">and depth of flavor and overall balance.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Spain</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Monastrell</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6817302577310</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>8437001739271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6814662230174</id>
+    <published>2021-07-12T10:06:13-05:00</published>
+    <updated>2021-07-12T10:06:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/occhipinti-il-frappato-terre-siciliane"/>
+    <title>Occhipinti Il Frappato Terre Siciliane</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/OcchipintiIlFrappato_TerreSiciliane.png?v=1626102374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2019 - Il Frappato stems from a dream which I had when I was a girl to make a wine that knows the land that I work, the air I breath, and my own thoughts. It is bitter, bloody and elegant. That is Vittoria and the Iblei Mountains. It is the wine that most resembles me, brave, original and rebellious. But not only. It has peasant origins, for this it loves its roots and the past that it brings in; but, at the same time, it is able to fight to improve itself. It knows refinement without forgetting itself.--Arianna Occhipinti</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6814662230174</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>121799</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6814649188510</id>
+    <published>2021-07-12T10:01:19-05:00</published>
+    <updated>2021-07-12T10:01:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/occhipinti-siccagno-nero-davola"/>
+    <title>Occhipinti Siccagno Nero d&apos;Avola</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/occhipinti_siccagno.png?v=1626101776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2018 - Siccagno is my Nero d’Avola, born from those concentrated grapes which we precisely call Siccagna. Nero relates mostly Sicily, that it is wild, but it is also fresh and elegant and it is red fruit flavoured. That it has something noble and aristocratic, but it is also melancholic as a poet or a philosopher. That it is passionate, full of warmth and contrasts. The Nero which is the grape of our fathers and unites Sicily from corner to corner and it better gathers the spirit for centuries. A wine which I deeply love and since the first year it has always been with me.--Arianna Occhipinti</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Nero d&apos;avila</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6814649188510</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>272199</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6814645125278</id>
+    <published>2021-07-12T10:01:11-05:00</published>
+    <updated>2021-07-12T10:01:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/occhipinti-rosso-sp68"/>
+    <title>2020 Occhipinti Rosso SP68</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/arianna-occhipinti-sp68-rosso_a68e6bfa-7568-4f34-beef-2d632af0f548.jpg?v=1626101293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">PICKUP ONLY.  You will receive confirmation as soon as the wine is ready for pickup at the location you requested.</strong></p>
+<p data-mce-fragment="1">2020 - An evocative blend of Nero d'Avola and Frapatto, organically grown in Sicily.  Intense fruity and spicy with notes of currant, earth, thyme, dark spices and a hint wild.  Fresh and soft, with sweet tannins and good length  A wine with intellect.--Finn</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Red Blend</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6814645125278</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>272190</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6802572738718</id>
+    <published>2021-07-05T15:56:44-05:00</published>
+    <updated>2021-07-05T15:56:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/charton-le-fluet-bordeaux-rouge"/>
+    <title>Chartron La Fluer Bordeaux Rouge</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/ChartronleFleur_BordeauxRouge.png?v=1625518433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2018 - The Chartron La Fleur Bordeaux Rouge has a nice ruby color with an inky touch to it in the glass. It is a classic bordeaux blend of Merlot and Cabernet Sauvignon that shows its origins with aromas of dark black cherry, black currant, plum, blackberry, light dusty spice and earth.  The wine is friendly with fresh fruits come up front that morph into dark fruits and then slide into light drying tannins and a rounded finish.  This is wine built for everyday enjoyment which pairs well will grilled poultry, pork chops, hamburgers and sharp cheeses.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>July 7 Show</s:tag>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Bordeaux</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6802572738718</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>087358100071</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6773021474974</id>
+    <published>2021-06-22T08:43:22-05:00</published>
+    <updated>2021-06-22T08:43:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/domaine-bernier-pinot-noir"/>
+    <title>Domaine Bernier Pinot Noir</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/bernier_pinotnoir.png?v=1624325675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2018 - <meta charset="UTF-8"><span data-mce-fragment="1">A beautifully light, focused Pinot Noir from the ancient schist soils of the Loire valley.  Pleasant aromas of violet, raspberry, blueberry, cherry, red plum, gun flint and sage.  Light bodied, silky smooth texture with red berry fruits, nice mineral texture in the mid palate and supple.  A wine for a poached salmon salad, chicken club sandwich or seared rare tuna w/ a soy glaze.  </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>In-Person Tasting 07/23</s:tag>
+    <s:tag>June 23 Show</s:tag>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Pinot Noir</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6773021474974</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6756768841886</id>
+    <published>2021-06-14T11:20:12-05:00</published>
+    <updated>2021-06-14T11:20:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/villa-montecastello-chianti"/>
+    <title>Villa Montecastello Chianti</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/VillaMontecastello_Chianti.png?v=1623687605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2018 - A fresh nose of dusty cherry, cranberry, red currant and dry rosemary with a little spice.  Nicely balanced and weight to the palate, pleasant red berry fruits and smooth finish.  A wine for lasagna, classic bolognese pasta, cured meats and pizza.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Chianti</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6756768841886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>8017257101000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6756777033886</id>
+    <published>2021-06-14T11:17:15-05:00</published>
+    <updated>2021-06-14T11:17:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/vina-real-rioja-reserva"/>
+    <title>Vina Real Rioja Reserva</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Vina_Real_Gran_Reserva_Rioja.png?v=1623687408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2014 - A blend of Tempranillo with 10% split between Garnacha, Mazuelo and Graciano. It fermented in stainless steel vats and aged in new oak barriques for 22 months with rackings every four months. It felt quite subtle, clean and with nice balance between ripeness and freshness. There is some complexity, with changing aromas, developing notes of licorice. It's quite gentle, with a soft, velvety texture, fine tannins and lively acidity.--91+ Wine Advocate</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Spain</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Rioja</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6756777033886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>051497037260</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6761699967134</id>
+    <published>2021-06-14T10:55:50-05:00</published>
+    <updated>2021-06-14T10:55:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/aroa-navarra-le-naturel-red"/>
+    <title>Aroa Navarra Le Naturel Red</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/AroaNavarra_LeNaturelRed.png?v=1623686151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - Clean and bright color, with dominating raspberry tones.  Aromas are fresh and fruity, with good intensity of blackberries, blackcurrant and violets. The palate has a fresh and fruity attack that comes from the high-altitude vineyards. It has a vibrant touch and lovely tartness, pleasantly balanced acidity and delightful aftertaste.  Le Naturel contains no preservatives so this wine should be consumed young, not for the cellar. Recommend serving at a cooler temperature, 50-54F.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Spain</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6761699967134</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>8435065601503</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6754807316638</id>
+    <published>2021-06-09T09:15:16-05:00</published>
+    <updated>2021-06-09T09:15:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/musita-cabernet-sauvignon"/>
+    <title>Musita Cabernet Sauvignon</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Musita_CabernetSauvignon.png?v=1623248061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2018 - Aromas of red currants, mulberry, blackberry, hints of olive, rosemary bush and tea.  More of a medium weight to the palate, due to the minimal oak influence, opening up the wine to the unique Sicilian terrior to show through with rich fruit in the body and supple dry tannins.  A wine for grilled game, day long roasts and barbecue, cured meats, aged cheeses or wild boar.--Finn</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>June 9 Show</s:tag>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Red Wine</s:tag>
+    <s:tag>var-Cabernet Sauvignon</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6754807316638</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>8055731670048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

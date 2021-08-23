@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/blogs/news.atom"/>
+  <title>Barriques - News</title>
+  <updated>2021-07-12T15:51:59-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/monroe-st-business-hours-extended</id>
+    <published>2021-07-12T15:51:59-05:00</published>
+    <updated>2021-07-12T15:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/monroe-st-business-hours-extended"/>
+    <title>Monroe St. Business Hours Extended</title>
+    <author>
+      <name>Matt Weygandt</name>
+    </author>
+    <content type="html">
+      <![CDATA[We are please to announce that effective on Monday, July 12th, Barriques Monroe St will be open one hour later, until 7pm, Monday through Saturday.  <a href="https://barriquesmarket.com/pages/monroe-st">Please see additional details about this location here.</a>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/4th-of-july-hours-1</id>
+    <published>2021-06-30T09:44:09-05:00</published>
+    <updated>2021-06-30T09:44:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/4th-of-july-hours-1"/>
+    <title>4th of July Hours</title>
+    <author>
+      <name>Matt Weygandt</name>
+    </author>
+    <content type="html">
+      <![CDATA[We hope you have a great 4th of July holiday weekend.  All Barriques locations are open on Sunday, July 4th from 7am - 2pm.  Normal business hours for Saturday and Monday apply. Cheers!]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/barriques-university-business-hours-update</id>
+    <published>2021-06-07T08:50:22-05:00</published>
+    <updated>2021-06-07T08:50:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/barriques-university-business-hours-update"/>
+    <title>Barriques University Business Hours Update</title>
+    <author>
+      <name>Matt Weygandt</name>
+    </author>
+    <content type="html">
+      <![CDATA[Effective on Monday, June 7th, we will be open from 7am to 6pm, Monday through Sunday at Barriques University.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/updates-on-covid-19</id>
+    <published>2020-03-17T09:33:00-05:00</published>
+    <updated>2020-05-26T09:21:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/updates-on-covid-19"/>
+    <title>Updates on COVID-19</title>
+    <author>
+      <name>Frederick Stein</name>
+    </author>
+    <summary type="html">
+      <![CDATA[IMPORTANT. Read here for updates on our cafes.<p><a class="read-more" href="https://barriquesmarket.com/blogs/news/updates-on-covid-19">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p>Tuesday, May 26th Update</p>
+<p>We have reopened our West Wash location, with plans to open our remaining locations (Park St, Atwood, and University) by the end of the week. Furthermore, we are now offering carry-out service for all of our locations, without the need to call ahead. If you'd prefer not to enter the store, call-ahead, curbside pickup, and online ordering are also still available options. </p>
+<meta charset="utf-8">
+<p>All stores are still operating under 7am - 6pm hours.</p>
+<p>--------------------</p>
+<p>Monday, April 27th Update</p>
+<p>All cafe hours have been extended to cover 7am - 6pm daily. All store are still only open for curbside pickup. <span>Please place your coffee drink, bakery and food orders via our </span><a href="https://www.barriques.mobi/" title="Food &amp; Drink Ordering">mobile ordering site</a><span> or for wine, beer or spirits at </span><a href="https://barriquesmarket.com/">barriquesmarket.com</a><span>.</span></p>
+<p>--------------------</p>
+<p>Friday, April 17th Update</p>
+<p>Tuesday, April 21st we will be re-opening our Old Sauk location from 8 - 2 for curbside pickup of wine, coffee, bakery and more.  Monroe St., Middleton and Fitchburg locations are also still open from 8am - 2pm daily for curbside pickup.  Please place your coffee drink, bakery and food orders via our <a href="https://www.barriques.mobi/" title="Food &amp; Drink Ordering">mobile ordering site</a> or for wine, beer or spirits at <a href="https://barriquesmarket.com/">barriquesmarket.com</a>. All other locations remain closed until further notice.</p>
+<p>--------------------</p>
+<p>Monday, March 30th Update</p>
+<p>Effective immediately Monroe St., Middleton and Fitchburg locations are now open from 8am - 2pm daily for curbside pickup.  Please place your orders via our <a href="https://www.barriques.mobi/" title="Food &amp; Drink Ordering">mobile ordering site</a> or call the store directly.  All other locations remain closed until further notice.<br><br>--------------------</p>
+<p>As of Friday, March 20th, we have made the decision to shut down all our cafes until further notice.</p>
+<p><a href="https://barriquesmarket.com/collections/coffee" title="Freshly Roasted Coffee">Our online ordering and fulfillment is still up and running. If you are looking for freshly roasted coffee, we have lot's of deals to be had and free shipping on orders over $25.  </a></p>
+<p>Thank you all for you support and understanding.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/spring-drinks-in-full-bloom</id>
+    <published>2020-03-04T15:46:00-06:00</published>
+    <updated>2020-03-04T16:10:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/spring-drinks-in-full-bloom"/>
+    <title>Spring Drinks in Full Bloom!</title>
+    <author>
+      <name>Frederick Stein</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>To celebrate the melting of the winter snow and the budding flowers, we've prepared a trio of appropriately floral beverages.</p>
+<p>Our first Spring Drink Special is the <strong>Fiery Spring Italian Soda<em></em></strong>. This drink is sparkling water, flavored with a combination of hibiscus syrup and house-made Jalape<span>ño simple syrup. Sweet and sparkling, with just a touch of spiciness, this is the perfect thirst quencher as the weather starts to warm up.</span></p>
+<p><span>Our second Spring Drink Special is the <strong>Pretty in Pink Tea Latte</strong>. We combine Rishi's Jade Cloud Green Tea with steamed oat milk, and add in some hibiscus syrup for sweetness. Then, for an added decorative floral touch, we top it with a candied hibiscus flower. Rich and sugary, this is a luxurious beverage that will make you feel as fresh as a flower in bloom.</span></p>
+<p><span>Our final Spring Drink Special is the <strong>Iced Hibiscus Americano</strong>. This is our classic Iced Americano, flavored with hibiscus syrup and topped off with cold milk foam of your choice. If you're looking for a coffee drink with a spring twist, then this is the drink for you.</span></p>
+<p>All these beverages are available at <a href="https://barriquesmarket.com/pages/our-cafes" target="_blank" title="Barriques Cafes" rel="noopener noreferrer">all our locations</a>, while supplies last!</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/whats-in-your-decaf</id>
+    <published>2020-02-14T09:25:00-06:00</published>
+    <updated>2020-02-14T13:30:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/whats-in-your-decaf"/>
+    <title>What&apos;s In Your Decaf?</title>
+    <author>
+      <name>Matt Weygandt</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><span style="font-weight: 400;"></span><span style="font-weight: 400;">If you buy decaf coffee somewhere other than at Barriques, there is a chance that it was decaffeinated using methylene chloride, a chemical routinely used in solvent-based decaffeination. And folks, that is probably not a good thing. In fact, the EPA banned it from certain consumer applications, such as paint remover, as recently as last year. That’s good news if you are in the market for paint remover, but bad if you are not discerning about your choice in decaf. Unfortunately, it has been over 35 years since methylene chloride tolerance in decaffeinated coffee has been federally evaluated. The Clean Label Project, a nonprofit focused on health and transparency in consumer product labels, set about to change that and their findings have sent ripples throughout the world of coffee. Their <a href="https://cdn1.cleanlabelproject.org/app/uploads/20200115024034/CLP-Decaf-Coffee-White-Paper.pdf" title="Clean Label Project: The Truth Behind Decaffeinated Coffee">white paper, which you can find here</a>, is actually an easy read and a interesting primer on Decaf coffee in general. </span></p>
+<p><span style="font-weight: 400;">All of the decaf coffee we sell at Barriques is decaffeinated using the chemical-free water process method of decaffeination. You see this noted on our single origin bags by the ‘MWP’ in the name for ‘Mountain Water Process’ or SWP for 'Swiss Water Process'. The decaf blends we make from these coffees are also all water processed decafs as well. Potential health effects aside, we have always felt the water process method resulted in a coffee that wasn’t stripped of flavor. It may cost a bit more, but there is no question it is worth it and certainly has us feeling better when the FDA has come out and said that methylene chloride is carcinogenic in animals when inhaled and may be carcinogenic to humans. The Clean Label Project put it best when they wrote, “While this chemical is currently considered acceptable to the FDA, is the presence of a banned active ingredient in paint stripper in your decaf coffee acceptable to you?”</span></p>
+<p><a href="https://barriquesmarket.com/discount/CLEANDECAF2020?redirect=%2Fcollections%2Fdecaf" title="Chemical Free, Water Processed Decaf">To get your delicious, freshly roasted, chemical free decaf coffee and save 20% now through March 1st, use coupon code 'CLEANDECAF2020' at checkout.</a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/doundrins-distilling-barriques-tasting</id>
+    <published>2020-02-06T13:59:00-06:00</published>
+    <updated>2020-02-07T12:36:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/doundrins-distilling-barriques-tasting"/>
+    <title>Doundrins Distilling + Barriques: Free Sampling!</title>
+    <author>
+      <name>Frederick Stein</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Try Doundrins Distilling's Coffee Liquor, made with Barriques coffee! Details in the article!<p><a class="read-more" href="https://barriquesmarket.com/blogs/news/doundrins-distilling-barriques-tasting">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>We are please to announce our collaboration with <a href="https://doundrinsdistilling.com/" title="Doundrins Distilling">Doundrins Distilling</a> to help produce their newest product, a coffee liquor. Doundrins is a small new distillery located east of Madison in Cottage Grove. They make it a priority to work with local producers, so their distilling skills plus our locally roasted coffee seemed like a match made in heaven. Doundrins' Coffee Liquor will be sold in our Monroe St., Middleton, and Fitchburg locations.</p>
+<p>On top of that, we're offering you the chance to sample this coffee liquor, as well as Doundrins' Immature Brandy and Honey Liquor. The schedule for these samplings will be as follows:</p>
+<p>Friday, Feb. 7th, 5:30-7:30pm at <a href="https://barriquesmarket.com/pages/fitchburg" title="Barriques Fitchburg">Fitchburg</a><br>Saturday, Feb. 8th, 3:00-5:00pm at <a href="https://barriquesmarket.com/pages/monroe-st" title=" Barriques Monroe St">Monroe</a><br>Friday, Feb. 14th, 5:00-7:00pm at <a href="https://barriquesmarket.com/pages/middleton" title="Barriques Middleton">Middleton</a></p>
+<p>These events will be completely free, so we hope to see you at one of them!</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/two-for-tuesday</id>
+    <published>2020-02-05T14:05:00-06:00</published>
+    <updated>2020-02-07T14:08:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/two-for-tuesday"/>
+    <title>Two For Tuesday!</title>
+    <author>
+      <name>Frederick Stein</name>
+    </author>
+    <summary type="html">
+      <![CDATA[On any given Tuesday, buy two bottles of wine or more, and get <strong>﻿10% </strong>﻿off on all of them!<p><a class="read-more" href="https://barriquesmarket.com/blogs/news/two-for-tuesday">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[Did you know about our Two for Tuesday wine deal? Every Tuesday, you can pick up two or more bottles of wine, and get <strong>﻿10% </strong>﻿off on all of them! This includes all the wine in our stores, from our Wall of 100 and beyond. Furthermore, this offer is valid at all of our stores, all Tuesday long. So make Tuesday your day to pick up wine at Barriques!]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/upcoming-premium-tasting</id>
+    <published>2020-01-15T10:34:00-06:00</published>
+    <updated>2020-03-06T11:08:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/upcoming-premium-tasting"/>
+    <title>Upcoming Premium Tastings!</title>
+    <author>
+      <name>Frederick Stein</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>As the snow (hopefully) begins to melt, we have a few upcoming premium wine tastings that you can RSVP for online.</p>
+<p><del>On March 13th, from 5:30 to 7:30pm, we'll host another Wine 101 tasting. This one will be at our Monroe St location. If you couldn't make the previous one, then you have another shot to learn about the basics of wine tasting. Admission is $12, and you can <a href="https://barriquesmarket.com/products/barriques-wine-101-march-13-2020" title="Wine 101 - Monroe">RSVP here.</a></del> <strong>SOLD OUT</strong></p>
+<p><del>On April 10th, from 5:30 to 7:30pm, at our Fitchburg location we'll be hosting a tasting of Tuscan wines and Italian cheeses. This is another sit-down tasting, and will be limited to approximately fourteen people. Admission is $17, and you can <a href="https://barriquesmarket.com/products/tuscan-wine-italian-cheeses-april-10-2020" title="Tuscan Wine and Wisconsin Cheese">RSVP here while seats last.</a></del> <strong>SOLD OUT</strong></p>
+<p>On April 17th, from 5:30 to 7:30pm, we'll be pouring some American whiskies, specifically bourbon and rye, at our Monroe St. location. While you don't need to RSVP online to get into this tasting, it is highly recommended, as these whiskey tastings fill up fast. Admission is $15, and <a href="https://barriquesmarket.com/products/american-whiskies-bourbon-rye-april-17-2020" target="_blank" title="American Whiskey Bourbon and Rye" rel="noopener noreferrer">you can RSVP here.</a></p>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/winter-drink-specials</id>
+    <published>2019-12-11T10:54:00-06:00</published>
+    <updated>2019-12-11T10:54:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/winter-drink-specials"/>
+    <title>Winter Drink Specials</title>
+    <author>
+      <name>Frederick Stein</name>
+    </author>
+    <content type="html">
+      <![CDATA[In this frigid Wisconsin winter, we've prepared a trio of warming drinks to fill you with holiday cheer. Here are our drink specials for the winter.<br><br>Our first specialty drink is the Spicy Velvet Mocha. This is a creamy mocha made with a little beet powder for added richness, balanced by maple syrup for sweetness. And to top it off, we dust on a little cayenne pepper to warm you up.<br><br>Our second seasonal special is the Brown Sugar Sage Au Lait. This is our delicious Au Lait, a combination of concentrated coffee and milk, steamed up with some house-made brown sugar sage syrup. Topped with whipped cream.<br><br>And the last drink of winter is a treat for grownups, the Figgy Hot Toddy. This cocktail is Irish Whiskey combined with a dash of cayenne, a drop of bitters, a dollop of balsamic fig syrup, and some steaming hot water. Then we finish it off with a cinnamon stick and a lemon slice. This beverage is in-house only, no to go orders.<br><br>All of these drinks are available at all locations while supplies last!]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/upcoming-holiday-hours</id>
+    <published>2019-11-19T10:13:00-06:00</published>
+    <updated>2019-12-30T09:17:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/upcoming-holiday-hours"/>
+    <title>Holiday Hours</title>
+    <author>
+      <name>Frederick Stein</name>
+    </author>
+    <summary type="html">
+      <![CDATA[View our hours for the winter holidays here.<p><a class="read-more" href="https://barriquesmarket.com/blogs/news/upcoming-holiday-hours">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>In observance of the holidays, we will be operating under special hours for all of our locations. The schedule is listed below:</p>
+<meta charset="utf-8">
+<blockquote type="cite">
+<div dir="ltr">
+<div dir="ltr">
+<div>
+<a href="https://barriquesmarket.com/pages/fitchburg" title="Barriques Fitchburg" target="_blank" rel="noopener noreferrer">Fitchburg</a> &amp; <a href="https://barriquesmarket.com/pages/monroe-st" target="_blank" title="Barriques Monroe St." rel="noopener noreferrer">Monroe</a>:</div>
+<div></div>
+<div>New Year's Eve: 6:30am-7pm</div>
+<div>New Year's Day: 8am-7pm</div>
+<div></div>
+<br>
+<div></div>
+<div>
+<a href="https://barriquesmarket.com/pages/middleton" target="_blank" title="Barriques Middleton" rel="noopener noreferrer">Middleton</a>:</div>
+<div></div>
+<div>New Year's Eve: 6am-7pm</div>
+<div>New Year's Day: 8am-7pm</div>
+<div></div>
+<br>
+<div></div>
+<div>
+<a href="https://barriquesmarket.com/pages/park-street" target="_blank" title="Barriques Park Street" rel="noopener noreferrer">Park</a>, <a href="https://barriquesmarket.com/pages/university-avenue" target="_blank" title="Barriques University" rel="noopener noreferrer">University</a>, <a href="https://barriquesmarket.com/pages/west-wash" target="_blank" title="Barriques West Wash" rel="noopener noreferrer">West Wash</a>, &amp; <a href="https://barriquesmarket.com/pages/old-sauk" target="_blank" title="Barriques Old Sauk" rel="noopener noreferrer">Old Sauk</a>:</div>
+<div></div>
+<div>New Year's Eve: 6am-7pm</div>
+<div>New Year's Day: 8am-7pm</div>
+<div></div>
+<br>
+<div></div>
+<div>
+<a href="https://barriquesmarket.com/pages/atwood" target="_blank" title="Barriques Atwood" rel="noopener noreferrer">Atwood</a>:</div>
+<div></div>
+<div>New Year's Eve: 6:30am-7pm</div>
+<div>New Year's Day: 8am-7pm</div>
+</div>
+</div>
+</blockquote>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/barriques-season-of-sampling</id>
+    <published>2019-11-12T12:47:00-06:00</published>
+    <updated>2019-11-14T13:04:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/barriques-season-of-sampling"/>
+    <title>Barriques Season of Sampling</title>
+    <author>
+      <name>Frederick Stein</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Starting on November 23rd, we'll be hosting free samplings at our Middleton and Fitchburg locations, every Saturday. Stop anytime between 1-3pm to try wine, beer, and more! More details in the article!<p><a class="read-more" href="https://barriquesmarket.com/blogs/news/barriques-season-of-sampling">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>In the spirit of giving, we present our Barriques Season of Sampling. Every Saturday, starting on November 23rd, stop by either our Fitchburg or Middleton locations between 1pm - 3pm and try some of the products at our store! These samplings are completely free, so stop on by, try something new, and maybe find the perfect ingredient to liven up your next holiday gathering!</p>
+<p>The schedule is as listed:</p>
+<hr>
+<p><a href="https://barriquesmarket.com/pages/middleton" title="Barriques Middleton">Middleton</a>:<br>Nov 23 - Wine Tasting with <a href="https://www.leftbankwine.com/" target="_blank" title="Left Bank" rel="noopener noreferrer">Left Bank</a><br>Nov 30 - Chocolate Tasting with <a href="https://www.sjolinds.com/" target="_blank" title="Sjolinds" rel="noopener noreferrer">Sjolinds</a><br>Dec 7 - Hard Seltzer Tasting with <a href="https://www.strayforth.com/" target="_blank" title="Stray Forth" rel="noopener noreferrer">Stray Forth</a><br>Dec 14 - Hard Cider Tasting with <a href="http://www.theciderfarm.com/" target="_blank" title="The Cider Farm" rel="noopener noreferrer">The Cider Farm</a><br>Dec 21 - Beer Tasting with <a href="https://www.hophausbrewing.com/" target="_blank" title="Hop Haus" rel="noopener noreferrer">Hop Haus</a></p>
+<p><a href="https://barriquesmarket.com/pages/fitchburg" target="_blank" title="Barriques Fitchburg" rel="noopener noreferrer">Fitchburg</a>:<br>Nov 23 - Hard Seltzer Tasting with <a href="https://www.strayforth.com/" target="_blank" title="Stray Forth" rel="noopener noreferrer">Stray Forth</a><br>Nov 30 - Beer Tasting with <a href="http://giantjones.com/" target="_blank" title="Giant Jones" rel="noopener noreferrer">Giant Jones Brewing</a><br>Dec 7 - Hard Cider Tasting with <a href="http://www.theciderfarm.com/" target="_blank" title="The Cider Farm" rel="noopener noreferrer">The Cider Farm</a><br>Dec 14 - Wine Tasting with <a href="https://www.leftbankwine.com/" target="_blank" title="Left Bank" rel="noopener noreferrer">Left Bank</a><br>Dec 21 - Chocolate Tasting with <a href="https://www.sjolinds.com/" target="_blank" title="Sjolinds" rel="noopener noreferrer">Sjolinds</a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/barriques-congo-idjwi-coffee-heads-to-the-un</id>
+    <published>2019-11-08T10:40:00-06:00</published>
+    <updated>2019-11-14T12:48:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/barriques-congo-idjwi-coffee-heads-to-the-un"/>
+    <title>Barriques Congo Idjwi Coffee Heads To The UN</title>
+    <author>
+      <name>Matt Weygandt</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Mighty Peace Coffee, our importing partner for our delicious Congo Idjwi coffee has a date w/ the United Nations this coming spring. At stake is an opportunity to rally the $100B coffee industry around their Peace Trade Model, urging industry leaders to adopt models of inclusion and diversity in decision making and it all came about by a chance meeting.<br><br>During a field visit to the Democratic Republic of Congo (DRC) in 2018, Marcel Elgers, the Energy Team Lead with the United Nations Development Program (UNDP), l heard about the private sector initiative through a chance meeting with Gilbert Makelele, a community leader and President of a coffee cooperative who told him about Mighty Peace Coffee; a company based in the U.S. who had Congolese ownership, women leadership and was committed to being a true partner to the Congolese and elevate the local coffee industry to global renown. The Mighty Peace Coffee team was confident about succeeding in its mission, as numerous coffee quality experts raved about Congolese coffee’s uniqueness while lamenting it’s lack of availability in the global marketplace; this gap was proof of a business opportunity, an opportunity to use business for good.<br> <br>Elgers was intrigued to find out more about Mighty Peace Coffee, its business model and local impact and sought to meet the organization’s leadership upon his return to the UNDP headquarters in New York City. As a result, a meeting was arranged with Elgers’ core team to do a deep dive into Mighty Peace Coffee in order to understand how decisions are made, how prices are set, how meaningfully the team works with Congolese and how empowered the coffee cooperatives are to chart their path forward. Impressed by findings from the session as well as its own due diligence, the UNDP team suggested a larger session at the headquarters to rally international development professionals and the coffee industry to showcase this as a future model for the coffee industry as well as for future private sector led initiatives across other industries.</p>
+<p>We couldn't be more excited for JD, Liza and the entire Mighty Peace crew.  Supporting the good work that the folks at Mighty Peace are doing is simple.  Grab a bag or two of the true fruits of their labor. Our Congo Idjwi coffee is world-class coffee we medium roast to pull out all of its rich, nutty, sweet chocolaty goodness.  <a href="https://barriquesmarket.com/products/congo-idwji-organic?_pos=1&amp;_sid=f595fd529&amp;_ss=r" title="Congo Idjwi">Available online and at your neighborhood Barriques.</a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/rsvp-for-upcoming-tastings</id>
+    <published>2019-10-28T13:30:00-05:00</published>
+    <updated>2019-12-13T10:51:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/rsvp-for-upcoming-tastings"/>
+    <title>RSVP for Upcoming Tastings</title>
+    <author>
+      <name>Frederick Stein</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>We have upcoming premium tastings in December. RSVP now online and reserve your spot!</p>
+<p>On Friday, December 13th, we will host a tasting with Italian wines featuring the noble Nebbiolo grape. This tasting will be held at our Fitchburg location. Nebbiolo grapes are included in such wines as Barolo, Barbaresco, Gattinara, and Bramaterra, and to sweeten the deal, we'll pair these wines with fine cheeses from Emmi Roth. This tasting runs from 5:30 to 8:00pm. We're limiting this one to thirty people, <a href="https://barriquesmarket.com/products/italys-noble-nebbiolo-wines-emmi-roth-cheese" title="Italy's Noble Wines">so RSVP here while seats last!</a></p>
+<p>Then, next week on December 20th, we'll have a Champagne tasting! Come find the perfect bottle of bubbly for your holiday gatherings. This tasting will be at our Middleton location, and run from 6:00pm to 8:00pm. <a href="https://barriquesmarket.com/products/a-tour-through-frances-premier-growing-region-champagne" title="Champagne">RSVP while seats last!</a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/best-wine-bottle-presentation-weve-seen-all-year</id>
+    <published>2019-10-18T14:09:00-05:00</published>
+    <updated>2019-10-18T14:19:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/best-wine-bottle-presentation-weve-seen-all-year"/>
+    <title>Best Wine Bottle Presentation We&apos;ve Seen All Year</title>
+    <author>
+      <name>Matt Weygandt</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<p><span>You have </span><span>all read stories of the incredible lengths wine producers take to get their product from field to bottle.  Why then do some of them choose to 'mail it in' when it comes to what the consumer will finally see on the shelf or on their table. </span></p><p><a class="read-more" href="https://barriquesmarket.com/blogs/news/best-wine-bottle-presentation-weve-seen-all-year">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p><span>You have all read stories of the incredible lengths wine producers take to get their product from field to bottle. Why then do some of them choose to 'mail it in' when it comes to what the consumer will finally see on the shelf or on their table. They work the land sustainably, biodynamically or organically. They hand harvest, meticulously hand sort and baby their grape juice as it ferments and becomes that beverage we all know and love and then the caring seems to stop. Do they not understand the need to stand out from the dozens or hundreds or thousands of competitors out there? They have to realize that many people really do make wine choices because they like the look of the label. And that's ok. We buy clothes, houses, cars, and countless other food items because we like the way they look. Why then would wine be any different and therefore why wouldn't some of them try harder?</span></p>
+<p><span>In the case of the Hello World Cabernet Franc, there is not only much to love about the label, but the entire presentation of the label, bottle and enclosure are all top notch. These folks clearly care and it is easily the best wine packaging we've seen this year. Let's start with the label.  </span></p>
+<p><span><img src="//cdn.shopify.com/s/files/1/0050/6793/1718/files/helloworld_label_large.jpg?v=1571423128" alt="" style="display: block; margin-left: auto; margin-right: auto;"></span></p>
+<p><span>There is a healthy dose of 'cute' with the Hello World branding featuring a baby owl popping its head out of its shell. Say what you want about cute, cute sells. I might remind you that Cabernet Franc is not exactly one of those grape varietals that the majority of the wine drinking public go looking for, you need to make an impression. In this case, the added detail of shininess of the owls eyes which seem to follow yours as you walk by it and the speckled, gleaming, raised texture of the owls shell really stand out. The shell affect begs you to reach out, grab the bottle and run your finger across it. Once you do that, game over, you will be taking this home with you tonight, guaranteed. After you get it home, you are really in for a surprise that will having you buying another bottle of the Hello World the next time you are shopping for wine. Let's talk about the enclosure.</span></p>
+<p><span><img src="//cdn.shopify.com/s/files/1/0050/6793/1718/files/hello_world_top_large.jpg?v=1571423382" alt="" style="display: block; margin-left: auto; margin-right: auto;"></span></p>
+<p><span>It is notably unusually for a still wine to have its cork protruding out of the top of the bottle. It again is one of those things your eye will catch when it is on the shelf. But there is more genius to it that you'll see in a minute. The cork is held into place by clear plastic shrink wrap that is integrated into the black necker. There is a small gold tag where the two come together that obviously is meant to be pulled. Put the silly foil cutter away folks, one pull of that gold tag and off pops the shrink rap. From there, you will realize there is also no need for a wine opener here, just grab the cork, and twist the bottle(not the cork) and it will pop right out. Look mom, no tools needed!  </span></p>
+<p><span>The final feature that really set this bottle apart and told us the producer was thinking of the end consumer when they made their choices is the construction of the inside top of the bottle and the cork itself. Just inside the top of the bottle are raised glass ridges in a spiral pattern. These are designed to hold the cork firmly in place both before you open it and if you want to recork it for further drinking later. When compared to a standard cork and bottle setup, once you open it, replacing the cork back into the bottle is not always easy and sometimes, if you push it back in too hard, you are going to need to get that opener back out to reopen it. Is that the end of the world? No, but the choice made w/ the Hello World packaging is non-intimidating, easy and extremely consumer friendly.  </span></p>
+<p><span>Let us finish by saying that you will be as delighted with the wine as you were with the packaging. This isn't a case of putting lipstick on a pig. At $11.49 a bottle, this is well made Cabernet Franc that is full bodied, smooth and full of varietal character. Check it out the next time you stop by your neighborhood Barriques.</span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/autumn-drink-specials</id>
+    <published>2019-09-11T10:17:00-05:00</published>
+    <updated>2019-09-11T10:18:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/autumn-drink-specials"/>
+    <title>Autumn Drink Specials</title>
+    <author>
+      <name>Frederick Stein</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Fall is here! See our specialty drinks for the season!<p><a class="read-more" href="https://barriquesmarket.com/blogs/news/autumn-drink-specials">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p>With the last of the summer heat burning away, it's time to look forward to cool temperatures, changing leaves, and of course, pumpkin spice. Here are our drink specials for fall.</p>
+<p>Our first specialty drink is a twist on an autumnal standby, the Maple Pumpkin Latte. This year, we've added a little bit of maple syrup to our pumpkin spice mix, which adds a touch of rich sweetness to the mix. Available hot or iced, it's a fresh take on the fall standby you know and love.</p>
+<p>Our second seasonal special is our Hot Apple Cider. This is a perfect autumnal treat for when you want a hot drink, but not necessarily a caffeinated one. Steamed with cinnamon sticks, this drink is warming, with just a touch of that cinnamon spice.</p>
+<p>And the last fall drink is our Rosemary Ginger Latte. This latte is a returning favorite of ours. The savory rosemary and the kick of ginger play remarkably well off each other, creating a unique latte that warms you to your core on a rainy fall day.</p>
+<p>All of these drinks are available at all locations while supplies last!</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/coffee-of-the-week-colombia-giraldo-exotico</id>
+    <published>2019-08-30T18:09:00-05:00</published>
+    <updated>2019-09-13T13:04:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/coffee-of-the-week-colombia-giraldo-exotico"/>
+    <title>Coffee Of The Week: Colombia Giraldo Exotico</title>
+    <author>
+      <name>Matt Weygandt</name>
+    </author>
+    <content type="html">
+      <![CDATA[You can't go wrong with great coffee from Colombia. Our Colombia Giraldo Exotico is now available for a limited time. It is a world-class, small production coffee that will blow you away with its rich butter-toffee sweetness and luscious mouthfeel.  <a href="https://barriquesmarket.com/collections/frontpage/products/colombia-geraldo-exotico" title="Colombia Giraldo Exotico">Get yours now here while it lasts ----&gt;</a>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/advice-to-help-extend-the-life-of-an-open-bottle-of-wine</id>
+    <published>2019-08-14T13:18:00-05:00</published>
+    <updated>2019-08-14T14:35:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/advice-to-help-extend-the-life-of-an-open-bottle-of-wine"/>
+    <title>Advice to Help Extend the Life Of An Open Bottle of Wine</title>
+    <author>
+      <name>Matt Weygandt</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Our favorite ways to extend the life of an open bottle of wine.<p><a class="read-more" href="https://barriquesmarket.com/blogs/news/advice-to-help-extend-the-life-of-an-open-bottle-of-wine">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p><span style="font-weight: 400;">One of the questions we get fairly often is what is the best way to help extend the life of a bottle of wine that has been opened.  In reality there is no perfect system. Oxygen is the enemy of wine and once the cork or cap has been removed, the wine begins to oxidize and eventually will taste awful. In our experience, the tools listed below will double the time you get versus simply re-corking/capping the bottle and putting it on the counter or in the fridge.  We will caveat this all by saying, at the end of the day, it comes down to personal preference as to how long you can have an open bottle taste good, regardless of what you do to extend its life. Some more finely tuned palates out there might find a wine sitting open for only a day to be undrinkable. Assuming you are not one of those people, here are a few of our favorite ways to keep a wine enjoyable after it has been open.   </span></p>
+<p><strong>1.   Inert Gas: </strong><a href="https://barriquesmarket.com/products/private-preserve-wine-preserver" target="_blank" title="Private Preserve" rel="noopener noreferrer">Private Preserve</a> is our favorite tool to extend the life of partially consumed bottles of wine.  True story. 15 or so years ago when the first case of Private Preserve was sent to us, we immediately called our sales person to let him know they sent us empty bottles!  We quickly felt like complete idiots but later realized we might have been in good company when they began printing “Full Can Feels Empty” directly onto the bottle.  Indeed it does! To use, simply pop the cap off and squirt two or three short bursts of this inert gas(nitrogen, carbon dioxide, and argon) into the bottle of wine and quickly recork.  The gas displaces the oxygen, shielding it from the harmful effects of oxidation. The bottle comes with a slim tube that attaches to the nozzle to allow it to place the gas deeper into the bottle but we generally don’t use it.</p>
+<p><b>LONGEVITY:</b><span style="font-weight: 400;"> Seven days is typically the maximum time we find a wine stays fresh enough to not warrant pouring the rest down the drain and just opening opening a new bottle. Commercial inert gas systems might get double that or more.</span></p>
+<p><b>PROS</b><span style="font-weight: 400;">: Super, super easy to use.  No parts to lose. Superior results vs pumping in our unscientific tests.</span></p>
+<p><b>CONS</b><span style="font-weight: 400;">: More expensive over time.  The can says you get 120 full uses which is alot.  Possibility for humiliation if you send it back telling them that your bottle is em</span><span style="font-weight: 400;">pty. :)</span></p>
+<p> </p>
+<p><strong>2.  Vacuum Pumps.</strong>  The <a href="https://barriquesmarket.com/products/vacu-vin-wine-saver" target="_blank" title="Vacu Vin Wine Saver" rel="noopener noreferrer">Vacu Vin brand</a> is the one you might be most familiar with.  This solution is cheap, reasonably effective, and easy to use. The standard kit comes with the pump and a wine stopper.  Simply place the wine stopper into the top of the bottle and then place the pump on top of the stopper. With one hand holding the pump on the stopper, start pumping w/ the other hand.  This will pull air out of the bottle, thereby reducing the gases that can help oxidize the wine and make it taste bad over time. Modern models actually click while pumping to indicate you have removed the maximum amount of air the system can extract.  </p>
+<p><b>LONGEVITY: </b><span style="font-weight: 400;">Three or four days is typically the maximum life we get from a wine w/ the vacuum pump.</span></p>
+<p><b>PROS</b><span style="font-weight: 400;">: Easy to use and very durable.  Relatively in-expensive. Additional stopper kits available for purchase.</span></p>
+<p><b>CONS</b><span style="font-weight: 400;">:  Possibility of losing the stoppers.  Our unscientific tests lead us to think it is not quite as effective as using inert gas. While easy to use, you do need to expend several calories while pumping.</span><span style="font-weight: 400;"><br></span></p>
+<p><br>3.  So we are going to cheat on this one a bit.  How about inviting a friend over to help you enjoy the bottle so that you don’t have any left over to begin with!  Lol. But seriously, wine is always meant to be enjoyed. When people come in and tell us about their favorite bottle of wine, a big part of why they thought it was so awesome was the company in which they drank it.  A good friend will make any bottle taste better. </p>
+<p><b>LONGEVITY:</b><span> NA, nothing left to preserve</span></p>
+<p><b>PROS</b><span>: No need for storage solutions.   Wine tastes better with friends.</span></p>
+<p><b>CONS</b><span>: May delay getting out of bed the next morning. ;)</span></p>
+<p><span style="font-weight: 400;">Let us know in the comments below what your favorite way is to preserve an open bottle of wine or if you have any questions?  </span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/rsvp-to-upcoming-tastings-1</id>
+    <published>2019-08-02T15:11:00-05:00</published>
+    <updated>2019-09-09T12:42:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/rsvp-to-upcoming-tastings-1"/>
+    <title>RSVP to an Upcoming Premium Tasting!</title>
+    <author>
+      <name>Frederick Stein</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>We have an upcoming premium wine tasting that you can RSVP for! </p>
+<meta charset="utf-8">
+<p><span></span>This tasting is a <a href="https://barriquesmarket.com/products/rhone-valley-reds-paired-with-salumi-hard-cheeses-tasting" target="_blank" title="Rhone Valley, Salumi, and Hard Cheese" rel="noopener noreferrer">Rhone Valley wine tasting</a>, paired with Salumi and Hard cheeses. Finn will be running this at Barriques Monroe St on Friday, September 13th. The event is a go-at-your-own-pace affair and runs from 5:30 - 7:30. Space is limited to 30 people so grab a spot or two while they are available.  </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/summer-drink-specials</id>
+    <published>2019-06-27T15:14:00-05:00</published>
+    <updated>2019-06-27T15:20:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/summer-drink-specials"/>
+    <title>Summer Drink Specials!</title>
+    <author>
+      <name>Frederick Stein</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Check out our summer drink specials here!<p><a class="read-more" href="https://barriquesmarket.com/blogs/news/summer-drink-specials">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>Summertime is beaming down on us, and we have a trio of ice cold refreshments to help you beat the heat!</p>
+<p>The first drink is a Blueberry Lavender Lemonade. It's a rejuvenating mix of blueberries, lavender syrup, and lemonade. Tart and flowery, with a hint of sweetness, this is a great drink for a sweltering summer day.</p>
+<p>Our second seasonal special is the Sweet Heat Iced Tea, a sweet iced tea with a bit of spicy kick! This drink is a combination of Earl Grey iced tea and sparkling water, with some hot chili pepper simple syrup and passion fruit puree to top it off.</p>
+<p>And the last summer drink is a Creamy Maple Ginger Cold Brew. This is our classic Barriques cold brew, shook up with a creamy maple ginger syrup. Full of sweetness, with a ginger kick to balance it out!</p>
+<p>All of these drinks are available at all locations while supplies last!</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/get-free-barriques-coffee-for-your-office</id>
+    <published>2019-03-11T20:44:00-05:00</published>
+    <updated>2019-03-11T20:44:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/get-free-barriques-coffee-for-your-office"/>
+    <title>Get Free Barriques Coffee  For Your Office</title>
+    <author>
+      <name>Matt Weygandt</name>
+    </author>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p>Barriques and Gold Star Coffee service have teamed up to offer a one week free trial of Gold Star’s service featuring samples of our coffees. This includes brewing equipment installation, a pack of a medium roast and dark roast coffee, and all the accessories you will need to brew our coffee in your breakroom or office. All of that free of charge, and no obligations.  Visit our <a href="https://barriquesmarket.com/pages/office-promotion" title="Office Coffee Promotion">office coffee promotion page</a> to find out how to get started.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/rsvp-to-upcoming-tastings</id>
+    <published>2019-02-07T09:51:00-06:00</published>
+    <updated>2019-03-06T12:47:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/rsvp-to-upcoming-tastings"/>
+    <title>RSVP to Upcoming Tastings!</title>
+    <author>
+      <name>Frederick Stein</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>We have a number of upcoming sit-down tastings through February and March that you can RSVP for right now!</p>
+<p><span style="text-decoration: underline;"><strong>February 15th, 6:00pm - 7:30pm</strong></span></p>
+<p><em><span style="text-decoration: underline;"></span></em>@ Barriques Fitchburg - <a href="https://barriquesmarket.com/products/port-n-blue-cheese-tasting" target="_blank" title="Port and Blue Cheese Tasting" rel="noopener noreferrer">Port and Blue Cheese Pairings</a></p>
+<p><span style="text-decoration: underline;"><strong>March 1st, 5:45pm - 7:15pm</strong></span></p>
+<p>@ Barriques Fitchburg - <a href="https://barriquesmarket.com/products/australian-shiraz-salumi-tasting" target="_blank" title="Australian Shiraz and Salumi Tasting" rel="noopener noreferrer">Australian Shiraz and Salumi</a> </p>
+<p><span style="text-decoration: underline;"><strong>March 9th, 1:00pm - 3:00pm</strong></span></p>
+<p><span style="text-decoration: underline;">﻿</span>﻿@ Barriques Old Sauk - <a href="https://barriquesmarket.com/products/barriques-wine-101" target="_blank" title="Wine 101 Tasting" rel="noopener noreferrer">Wine 101</a>: Learn to taste like a pro!</p>
+<meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>March 22nd, 6:00pm - 7:30pm</strong></span></p>
+<p><em><span></span></em><span></span>@ Barriques Middleton - <a href="https://barriquesmarket.com/products/all-italian-brunello-vino-nobile-chianti-classico-riserva" target="_blank" title="Italian Wine Tasting" rel="noopener noreferrer">All Italian: Brunello, Vino Nobile &amp; Chianti Classico Riserva</a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/february-reward-member-wine-deals</id>
+    <published>2019-02-01T00:00:00-06:00</published>
+    <updated>2019-02-01T00:00:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/february-reward-member-wine-deals"/>
+    <title>February Reward Member Wine Deals</title>
+    <author>
+      <name>Matt Weygandt</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Our February Reward Member Wine Deals span everything from the collectible Mullineaux 'Iron' Syrah, to the everyday Folonari Pinot Grigio and lots more in between. Availability varies by store. Offers valid while supplies last. Reward discounts not combinable with any other discount.</p>
+<p>Chateau Fuisse Pouilly Fuisse: Reg $63.99, <strong>Deal $48 + 5 Reward Pts</strong><br>Foradori Teroldego Sgarzon<span>: Reg $46.99, <strong>Deal $38 + 5 Reward Pts</strong></span><br>2016 Domaine Huet Sec<span>: Reg $39.99, <strong>Deal $30 + 5 Reward Pts</strong></span><br>Domaine Huet Clos du Bourgone<span>: Reg $39.99, <strong>Deal $30 + 5 Reward Pts</strong></span><br>Luis Roderer Brut<span>: Reg $44.99, <strong>Deal $38 + 5 Reward Pts</strong></span><br>2014 Dominus<span>: Reg $249.99, <strong>Deal $200 + 5 Reward Pts</strong></span><br>Molly Dooker Shiraz<span>: Reg $26.99, <strong>Deal $21.99+ 5 Reward Pts</strong></span><br>Rombauer Carneros Chardonnay<span>: Reg $38.99, <strong>Deal $31.99 + 5 Reward Pts</strong></span><br>Mullineaux 'Iron' Syrah<span>: Reg $140, <strong>Deal $95 + 5 Reward Pts</strong></span><br>Domaine Huet Vouvray<span>: Reg $39.99, <strong>Deal $31.99 + 5 Reward Pts</strong></span><br>Folonari Pinot Grigio<span>: Reg $8.99, <strong>Deal $6.99 + 5 Reward Pts</strong></span><br>Peterson Dry Creek Zinfandel<span>: Reg $18.99, <strong>Deal $14.99 + 5 Reward Pts</strong></span></p>
+<p>Look for the 5pt Reward Signs for more deals at the Barriques neighborhood store near you.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/february-spirits-deals</id>
+    <published>2019-02-01T00:00:00-06:00</published>
+    <updated>2019-02-01T00:00:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/february-spirits-deals"/>
+    <title>February Reward Member Spirits Deals</title>
+    <author>
+      <name>Matt Weygandt</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>If you are Single Malt Scotch drinker, then our February Spirits Reward Deals are going to be right up your alley. The items below are available through the month of February or until we run out, whichever comes first.  </p>
+<p>Macallan 12yr - Reg $65.99, <strong>Deal $55 + 5 Reward Points</strong><br>Clynellish 14yr <span>- Reg $69.99, <strong>Deal $60 + 5 Reward Points</strong></span><br>Westland Peated Single Malt <span>- Reg $78.99, <strong>Deal $68 + 5 Reward Points</strong></span><br>Westland Sherry Wood Single Malt <span>- Reg $78.99, <strong>Deal $68 + 5 Reward Points</strong></span><br>Compass Box Hedonism <span>- Reg $93.79, <strong>Deal $80 + 5 Reward Points</strong></span></p>
+<p><span>St. George Coffee Liqueur - Reg $39.89, <strong>Deal $33.89 + 5 Reward Points</strong><br>Avion Espresso Liqueur - Reg $27.29, <strong>Deal $21.99 + 5 Reward Points</strong><br>Cedilla Acai Liqueur - Reg $33.99, <strong>Deal $28.99 + 5 Reward Points</strong><br>Yuu Baal Mezcal Espadin - Reg $47.99, <strong>Deal $41.99 + 5 Reward Points</strong><br>Casa Noble Anejo Tequila - Reg $130, <strong>Deal $112.99 + 5 Reward Points</strong><br>Don Julio Anejo Tequila  - Reg $63.99, <strong>Deal $54.99 + 5 Reward Points</strong><br></span><span>Herencia Mexicana Repasado Tequila - Reg $47.49, <strong>Deal $41.99 + 5 Reward Points</strong><br>Kah Anejo Tequila - Reg $59.99, <strong>Deal $51.99 + 5 Reward Points</strong><br>Kah Repasado Tequila - Reg $56.99, <strong>Deal $49.99 + 5 Reward Points</strong><br></span></p>
+<p><span>Look for more Reward Deal signs at your neighborhood Barriques location.</span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/finn-picks-wine-club-launches</id>
+    <published>2018-11-28T20:31:00-06:00</published>
+    <updated>2018-11-28T20:31:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/finn-picks-wine-club-launches"/>
+    <title>Finn Picks Wine Club Launches</title>
+    <author>
+      <name>Matt Weygandt</name>
+    </author>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">The Finn Picks club is our newest and most personalized wine club.  As a Barriques Co-founder, Finn has decades of experience matching our customer's tastes with the seemingly limitless options available from wine producers worldwide.  This new club lets him take that experience and select one to two bottles of wine per month for each of our members based on their specific tastes and preferences.  Find out about <a href="https://barriquesmarket.com/collections/finn-picks-wine-club" title="Finn Pick's Wine Club">all the great benefits of this new wine club here</a>.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/many-uses-for-spent-coffee-grounds</id>
+    <published>2018-11-15T12:31:00-06:00</published>
+    <updated>2018-11-15T12:31:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/many-uses-for-spent-coffee-grounds"/>
+    <title>Many Uses for Spent Coffee Grounds</title>
+    <author>
+      <name>Matt Weygandt</name>
+    </author>
+    <content type="html">
+      <![CDATA[Fresh brewed coffee creates an amazing sensory experience, but dealing with the grounds left behind can best be described as messy.  Most people just throw them in the trash but there are lots of ways to use this valuable recycled resource.  Here’s a few tips:<br><br><strong>Keep Bugs at Bay</strong><br>Coffee grounds are great for pest control.  Ants especially don’t like them - both grounds and the acids damage their exoskeletons.  Use spent grounds to keep ants out of the house by laying down a 2 inch wide line around the foundation and entrances.  It also works for many kinds of worms, snails, slugs and other insects.<br>Put the same kind of line around plants, or mix grounds with hot water, and pour over anthills.  This also happens to get rid of fleas, too - though your dog or cat might be offended if you pour coffee all over him!<br><br><strong>Garden Benefits</strong><br>Coffee grounds are a great addition to garden fertilizer as they are rich in organic matter and trace elements which make the soil more fertile.  Plants that like acidic soil especially benefit from an extra side dressing of grounds. Pick those plants carefully, though; you wouldn’t want to kill your ficus!<br>Grounds also stimulate growth of some types of vegetables, especially root crops.  Mix coffee grounds in rows where you plant carrots, beets or potatoes and see what happens.<br>And one last benefit... a garden covered with coffee grounds deters neighborhood cats looking for an outdoor litter box.<br><br><strong>Healthy Coffee Options</strong><br>Coffee is one of Nature’s antioxidant bonanzas.  Its complex flavors spring from small amounts of several dozens of organic acids that are powerful antioxidants, properties of which have changed the medical perception of coffee from a health threat to a health drink.<br>Spent coffee grounds retain some of those acids plus are gently abrasive and mildly acidy; those qualities make them a great exfoliant.  Instead of paying big money for expensive creams, mix the grounds into cold cream or skin conditioner and give your skin a treatment that tightens, tones and exfoliates in one step. The same chemistry also makes spent grounds a great hair conditioner!<br><br><strong>Around the Home</strong><br>Coffee grounds have been used for over a century to mask food odors in homes and stores.  If you have smells in your kitchen, living room, even in the refrigerator or freezer, put out some fresh or even dried coffee grounds to make your home smell much nicer.<br>In the kitchen, use coffee grounds as a dry rub or add to your usual barbecue mix, to create tasty smoked flavor in foods.<br>You can also use them to camouflage scratches on your furniture by rubbing them with damp coffee grounds.<br><br>Barriques generates 1000’s of pounds of coffee grounds each year in our cafés. Even w/ all these great uses, we have far more than we need.  We would be happy to share this wonderful resource so if you would like us to set coffee grounds aside for your own personal use, <a href="https://barriquesmarket.com/pages/about-us-1" target="_blank" title="Contact Us" rel="noopener noreferrer">please let us know</a>.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/a-trio-of-rsvp-required-tastings</id>
+    <published>2018-11-13T14:21:00-06:00</published>
+    <updated>2018-12-12T14:22:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/a-trio-of-rsvp-required-tastings"/>
+    <title>A Trio of RSVP Required Tastings</title>
+    <author>
+      <name>Matt Weygandt</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>We have a trio of RSVP tastings coming up in December and an incentive to get signed up early for these space limited events. </p>
+<p><span style="text-decoration: underline;"><strong>Fri, December 7th</strong></span> <br>@ Barriques Monroe St - <a href="https://barriquesmarket.com/products/annual-big-boy-wine-tasting" target="_blank" title="Big Boy Tasting" rel="noopener noreferrer">The semi-annual Big Boy Tasting is back</a>.  Reserve your space now and save $5 through December 1st by using code "BIGBOY18" at checkout.</p>
+<p><span style="text-decoration: underline;"><strong>Fri, December 21</strong> </span><br>@ Barriques Monroe St.- <a href="https://barriquesmarket.com/products/port-n-chocolate-tasting" title="Port &amp; Chocolate Tasting">Port n' Chocolate</a> for those who like to live life to the fullest.  Featuring chocolate from Mt. Horeb's Sjolind Chocolate. <span>Reserve your space now and save $3 through December 15th by using code "PORTCHOC18" at checkout.</span><br>@ Barriques Fitchburg -  <a href="https://barriquesmarket.com/products/champagne-strawberries-tasting" target="_blank" title="Champagne &amp; Strawberries Tasting" rel="noopener noreferrer">Champagne and Strawberries.</a>  A perfect pairing for a relaxing evening to take your mind off the holiday hustle. <span>Reserve your space now and save $5 through December 15th by using code "CHAMPSTRAW18" at checkout.</span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/barriques-holiday-hours</id>
+    <published>2018-11-12T15:56:00-06:00</published>
+    <updated>2018-12-27T10:51:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/barriques-holiday-hours"/>
+    <title>Barriques Holiday Hours</title>
+    <author>
+      <name>Matt Weygandt</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>﻿Please find our 2018 holiday hours listed below:</p>
+<p><strong><span style="text-decoration: underline;">Monroe St., Middleton &amp; Fitchburg</span></strong></p>
+<p><strong>Thanksgiving:</strong> 7am - 4pm<br><strong>Christmas Eve:</strong> <span>7am - 5pm</span><br><strong>Christmas:</strong> Closed<br><strong>New Year's Eve:</strong> <span>7am - 7pm</span><br><strong>New Year's Day:</strong> 8<span>am - 5pm<br><strong>Fitchburg - New Year's Day:</strong> 8am - 2pm<br></span></p>
+<p><strong><span style="text-decoration: underline;">West Wash, Old Sauk, Park St., Atwood &amp; University</span></strong></p>
+<p><strong>Thanksgiving:</strong> 7am - 2pm<br><strong>Christmas Eve:</strong><span> </span><span>7am - 2pm</span><br><strong>Christmas:</strong> Closed<br><strong>New Year's Eve:</strong> <span>7am - 7pm</span><br><strong>New Year's Day:</strong> 8<span>am - 2pm</span></p>
+<p><span> </span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/wine-deal-dr-loosen-red-slate-dry-riesling</id>
+    <published>2018-11-08T08:00:00-06:00</published>
+    <updated>2018-11-08T08:00:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/wine-deal-dr-loosen-red-slate-dry-riesling"/>
+    <title>Wine Deal: Dr. Loosen Red Slate Dry Riesling</title>
+    <author>
+      <name>Matt Weygandt</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Ernst Loosen was born into a 200 year tradition of German winemaking. Fortunately for the wine world and his family legacy, Ernst chose to set his interest in Roman ruins aside and take the reigns of his family wine business in the mid-80’s. After a stint at Germany’s renowned winemaking school in Geisenheim, he set about to visit the best winemakers in the world. He noted that one key philosophy they all shared was that they respected the traditions of their craft but were not afraid to use modern techniques and know-how to improve the quality of their wine. This was a lesson that has served him well over the succeeding decades of winemaking where he steered his family estate to become one of the worlds best. Our email deal this week is the 2016 Dr. Loosen Red Slate Dry Riesling. The fruit for this wine all comes from estate vineyards in the villages of Kinheim, Erden, Ürzig and Lösnich, known for their red slate soils. The grapes are hand selected, fermented with natural yeasts and aged in 3,000 liter neutral barrels. It’s a perfect entre’ into the high quality wine making Ernst, the once reluctant winemaker, regularly produces.<br><br>The 2016 Red Slate Dry Riesling displays a clear, platinum white color throughout the glass. It is a buoyant, aromatic wine that has peach blossom, champagne mango, lime zest and green apple that twists into a smoky slate minerality and spice. The very bright, dry, crisp mouthfeel with a saline touch showcases vibrant citrusy fruits that end in a signature taut racy finish. Stretch your wings a bit for this wine. There is so much to be enjoyed from a refreshing, dry Riesling like this, one that has a little POP and a palate to balance the intensity and richness of a Thanksgiving dinner as well as a long night by the fire with family and friends. Enjoy.</p>
+<p>Reg Retail: $15.99, Our Deal Pricing: $12.99 or $144/case.  Offer good through Wed, Nov 14th. Send an email to <a href="mailto:winedeals@barriquesmarket.com" title="winedeals@barriquesmarket.com">winedeals@barriquesmarket.com</a> if you are interested in having us set some aside for you. </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/blogs/news/featured-coffee-costa-rica-dota-santa-maria</id>
+    <published>2018-11-03T08:00:00-05:00</published>
+    <updated>2018-11-03T08:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/blogs/news/featured-coffee-costa-rica-dota-santa-maria"/>
+    <title>Featured Coffee: Costa Rica Dota Santa Maria</title>
+    <author>
+      <name>Matt Weygandt</name>
+    </author>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p>The <a href="https://barriquesmarket.myshopify.com/products/costa-rica-dota-santa-maria" target="_blank" title="Costa Rica Dota Santa Maria" rel="noopener noreferrer">Costa Rica Dota Santa Maria</a> is our featured coffee of the week.  It is light roasted to bring out the lovely flavors of orange, lemon zest and candy-honey.   It is medium-­bodied and well balanced with a crisp, clean engaging finish.  Purchase now and use code COSTADOTA10 at checkout to save 10%.</p>
+<p> </p>]]>
+    </content>
+  </entry>
+</feed>

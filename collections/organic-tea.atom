@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/organic-tea.atom"/>
+  <title>Barriques</title>
+  <updated>2020-03-23T12:06:37-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508459827272</id>
+    <published>2020-03-23T12:06:37-05:00</published>
+    <updated>2020-03-23T12:06:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/china-breakfast-4-oz"/>
+    <title>China Breakfast - 4 oz</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/ChinaBreak.jpg?v=1584983223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            10.00 - 24.00
+            <a href="https://barriquesmarket.com/products/china-breakfast-4-oz">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div class="prod-desc">
+<p>Our signature breakfast tea is a tippy Dian Hong growing between 1,600 - 1,800 meters in elevation at the densely forested Wa Shan Ecological Tea Garden in Yunnan. Breakfast is beloved for its mellow character and hints of sweet caramel and raisin. Milder than English Breakfast, this tea presents a deep red infusion that is smooth enough to enjoy on its own or exquisite with milk and honey.</p>
+</div>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508459827272</id>
+      <title>4oz</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508459827272</id>
+      <title>1lb</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508455927880</id>
+    <published>2020-03-23T11:31:18-05:00</published>
+    <updated>2020-03-23T11:31:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/orange-blossom-4-oz"/>
+    <title>Orange Blossom</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/OrangeBls.jpg?v=1584982839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Orange Blossom features fragrant jasmine green tea blended with citrusy herbs like lemongrass and lemon myrtle. The essence of orange, lime and tangerine add zesty brightness, with subtle hints of rose lending high floral notes. Altogether, Orange Blossom uplifts the palate with its inviting aroma.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508455927880</id>
+      <title>1lb</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508453470280</id>
+    <published>2020-03-23T11:31:18-05:00</published>
+    <updated>2020-03-23T11:31:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/green-tea-mint-4-oz"/>
+    <title>Green Tea Mint</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/GreenTea.jpg?v=1584982670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            13.00 - 25.50
+            <a href="https://barriquesmarket.com/products/green-tea-mint-4-oz">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>The fresh, sweet flavor and long-lasting candy cane mint aroma of peppermint from the Pacific Northwest blends smoothly with the pleasant character of roasted green tea. This blend evokes mint chocolate in a clean, gratifying way. Green Tea Mint makes a wonderful cup to enjoy after a meal.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508453470280</id>
+      <title>4oz</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508453470280</id>
+      <title>1lb</title>
+      <s:price currency="USD">25.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508450193480</id>
+    <published>2020-03-23T11:31:18-05:00</published>
+    <updated>2020-03-23T11:31:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/peppermint-rooibos-4-oz"/>
+    <title>Peppermint Rooibos - 4 oz</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/PeppermintR.jpg?v=1584982365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            9.00 - 15.00
+            <a href="https://barriquesmarket.com/products/peppermint-rooibos-4-oz">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Peppermint Rooibos makes a deep red infusion with a smooth, rich mouthfeel and fresh minty sweetness that underlines the finer points of peppermint. The slightest touch of bergamot harmonizes these herbs, highlighting the soothing aroma of peppermint with the sweet and silky character of rooibos.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508450193480</id>
+      <title>4oz</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508450193480</id>
+      <title>1lb</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1694522638406</id>
+    <published>2020-03-23T11:31:18-05:00</published>
+    <updated>2020-03-23T11:31:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/tangerine-ginger"/>
+    <title>Tangerine Ginger</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/BulkTea_TangerineGinger_LG.jpg?v=1581533344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Tangerine Ginger combines roots, fruits and herbs to create an uplifting, bold-flavored vitality tonic. Ginger and licorice invigorate, while rosehips and tangerine refresh with their bright succulence. Wild-harvested schizandra berry bestows an exotic layer of aromatic complexity. This rejuvenating, adaptogenic berry is harvested at its peak ripeness to lend tart cranberry and citrus accents to this vibrant juicy blend.</p>
+<p>Tasting Notes: A punchy hibiscus blend with zesty, revitalizing ginger and succulent citrus</p>
+<p>Ingredients: Organic ginger root, organic and Fair Trade Certified™ hibiscus flowers, organic schizandra berries, organic licorice root, organic rosehips, organic orange peel, essential orange and tangerine oils.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1694522638406</id>
+      <title>1lb</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1919297159238</id>
+    <published>2018-12-13T11:40:30-06:00</published>
+    <updated>2018-12-13T11:40:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/jade-cloud"/>
+    <title>Jade Cloud - 1lb</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/BulkTea_JadeCloud_LG.jpg?v=1581533211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Three different styles of green tea (steamed, oven-baked and roasted) are combined to make a deliciously smooth everyday green tea inspired by the classic Chinese green tea known as Wulu. Jade Cloud is grown from hardy tea cultivars like Long Jing #43 and Hubei E-Cha #10, and is harvested entirely by hand from the middle to the end of April according to "two leaves and a bud" plucking standard. Savory notes from steamed tea leaves are expertly balanced with the toasted chestnut flavor and flowery aromas of baked and roasted lots.</span></p>
+<p><span>Tasting Notes: A lively, delicious everyday green tea nurtured by the clouds and cool mist of early spring</span></p>
+<p><span>Ingredients: Organic and Fair Trade Certified™ green tea.</span></p>
+<p><span>Package Size: 16oz (1 lb)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Tea</s:tag>
+    <s:tag>Organic Tea</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1919297159238</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1694485741638</id>
+    <published>2018-10-19T12:23:59-05:00</published>
+    <updated>2018-10-19T12:23:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/turmeric-ginger"/>
+    <title>Turmeric Ginger</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/BulkTea_TurmericGinger_LG.jpg?v=1581533422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The awesome, centering energy of golden turmeric root is enhanced by strengthening licorice root and zesty ginger in this Ayurveda inspired blend. Fragrant lemongrass and citrus peels create a lemon drop candy sweetness that balances the pungency of the roots. The combination of turmeric, ginger, lemon and honey is an ancient herbal recipe for longevity, stamina and balance.<br>Tasting Notes: An enlivening blend of golden turmeric with spicy ginger and zesty citrus<br><br>Ingredients: Organic ginger root, organic turmeric root, organic licorice root, organic lemongrass, organic orange peel, organic lemon peel, essential orange and lemon oils<br><br>Additional Info: Infusing ancient herbal traditions with epicurean creativity, our Herbal Teas express our mastery in sourcing exotic herbs, spices and fruits from all over the world. These natural ingredients are hand-blended in micro-batches to harmonize and develop a refined complexity.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1694485741638</id>
+      <title>1lb</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1694371512390</id>
+    <published>2018-10-19T12:02:51-05:00</published>
+    <updated>2018-10-19T12:02:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/blueberry-rooibos"/>
+    <title>Blueberry Rooibos</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/BulkTea_BlueberryRooibos_LG.jpg?v=1581530385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            14.00 - 30.00
+            <a href="https://barriquesmarket.com/products/blueberry-rooibos">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This fruity, succulent blend makes a bright crimson infusion highlighting the tart flavor of hibiscus flowers in harmony with the floral aroma and sweet-sour hints of wild schizandra berry.<br><br>Tasting Notes: A succulent rooibos blend with sweet blueberries and revitalizing schizandra berries<br><br>Ingredients: Organic and Fair Trade Certified™ rooibos, organic blueberries, organic schizandra berries, organic and Fair Trade Certified™ hibiscus flowers, natural blueberry and strawberry flavors.</p>
+<p><span>Package Size: 16oz (1 lb)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fair Trade Tea</s:tag>
+    <s:tag>Herbal Tea</s:tag>
+    <s:tag>Organic Tea</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1694371512390</id>
+      <title>4 oz</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>741391010629</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1694371512390</id>
+      <title>1 lb</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>741391010630</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1694296440902</id>
+    <published>2018-10-19T11:37:33-05:00</published>
+    <updated>2018-10-19T11:37:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/rishi-masala-chai-concentrate"/>
+    <title>Rishi Organic Masala Chai Concentrate</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/RishiMasalaChai.jpg?v=1585147422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">An energizing and rich blend of fresh spices and real vanilla, slow brewed with a full-bodied organic &amp; Fair Trade Certified™ wild-grown black tea.<br><br>Ingredients: An infusion of filtered water, organic Fair Trade Certified™ black tea, organic cinnamon, organic cardamom, organic black pepper, organic cloves, organic ginger, organic dried cane syrup, organic blackstrap molasses, organic vanilla extract, organic lemon juice.<br><br>Package Size: 32oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1694296440902</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1675418042438</id>
+    <published>2018-10-16T09:41:09-05:00</published>
+    <updated>2018-10-16T09:41:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/jade-cloud-tin"/>
+    <title>Jasmine Tea</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/JasmineGreen.jpg?v=1581533288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            28.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jasmine tea is the most popular flower-scented tea in East Asia, enjoyed throughout the day and as an uplifting after-meal tea. This tea’s deliciously sweet floral aroma is created through an artisanal tea scenting process. Jasmine blossoms, collected at their peak season, are repeatedly mixed amongst tea leaves and removed only after imparting their fragrance deeply into the tea.</p>
+<p>Tasting Notes: Fresh and soothing green tea scented with the enchanting aroma of jasmine blossoms</p>
+<p>Ingredients: Organic and Fair Trade Certified™ green tea with jasmine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1675418042438</id>
+      <title>1lb</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1674782212166</id>
+    <published>2018-10-16T09:41:09-05:00</published>
+    <updated>2018-10-16T09:41:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/earl-grey-tin"/>
+    <title>Earl Grey - 1lb</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/EarlGrey.jpg?v=1581530945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Earl Grey is a British tea classic and the most popular tea of the Western World. This citrus-scented tea blend dates back to the 19th Century Sino-British trade of opium, tea, silk and porcelain. Our bestselling Organic Earl Grey blends bold-flavored Yunnan Dian Hong harvested from antique tea trees with natural Bergamot citrus from Southern Italy.</span></p>
+<p><span>Ingredients: Organic black tea, natural essential bergamot oil.</span></p>
+<p><span>Package Size: 16oz (1 lb)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blackt Tea</s:tag>
+    <s:tag>Organic Tea</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674782212166</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/coffee-gear.atom"/>
+  <title>Barriques</title>
+  <updated>2021-04-14T17:07:09-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/6652500836510</id>
+    <published>2021-04-14T17:07:09-05:00</published>
+    <updated>2021-04-14T17:07:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/aeropress%C2%AE-go-travel-coffee-maker"/>
+    <title>AeroPress® Go Travel Coffee Maker</title>
+    <s:type>Merchandise</s:type>
+    <s:vendor>Aerobie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/aeropress_gotravel_coffeepress.jpg?v=1618437820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aerobie<br>
+        <strong>Type: </strong>Merchandise<br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The AeroPress coffee maker is a new kind of coffee press that brews coffee under ideal conditions: proper temperature, total immersion, and rapid filtering. This results in amazingly delicious coffee with a wide range of beautiful flavors but without bitterness and with very low acidity. Since its introduction the AeroPress has become a much beloved brewer for serious coffee lovers and coffee professionals around the world.</p>
+<ul class="features" data-mce-fragment="1">
+<li data-mce-fragment="1">Rapid, total immersion brewing process makes delicious full flavored coffee without bitterness</li>
+<li data-mce-fragment="1">Makes 1 to 3 cups per pressing in about one minute</li>
+<li data-mce-fragment="1">Brews regular American style coffee</li>
+<li data-mce-fragment="1">Brews espresso style coffee for use in lattes and other espresso based drinks</li>
+<li data-mce-fragment="1">Microfilter means no grit in your cup (unlike a French press)</li>
+<li data-mce-fragment="1">Inlcudes 350 microfilters</li>
+<li data-mce-fragment="1">Clean up takes just seconds</li>
+<li data-mce-fragment="1">Bisphenol-A (BPA) and phthalate free</li>
+<li data-mce-fragment="1">Made in the U.S.A.</li>
+</ul>
+<p data-mce-fragment="1"><a href="https://barriquesmarket.com/collections/coffee-gear/products/aerobie-aeropress-microfilters" title="Aerobie Filters" data-mce-fragment="1" data-mce-href="https://barriquesmarket.com/collections/coffee-gear/products/aerobie-aeropress-microfilters">Don't forget to get some filters</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>April 14 Show</s:tag>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6652500836510</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.95</s:price>
+      <s:sku>085276001005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5810553585822</id>
+    <published>2020-10-14T17:03:30-05:00</published>
+    <updated>2020-10-14T17:03:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/bodum-chambord-french-press-8cup"/>
+    <title>Bodum Chambord French Press - 8cup</title>
+    <s:type>Merchandise</s:type>
+    <s:vendor>Bodum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/61DFW0RJVxL._SL1500.png?v=1602713011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bodum<br>
+        <strong>Type: </strong>Merchandise<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">An original, dome-topped French press coffee maker with contemporary flair. The plunger-style brewing method results in fresh coffee revered for its rich, full-bodied character.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<span data-mce-fragment="1">8 cup/34oz</span><span data-mce-fragment="1"> </span>capacity</li>
+<li data-mce-fragment="1">Glass body</li>
+<li data-mce-fragment="1">Stainless steel filter</li>
+<li data-mce-fragment="1">Dishwasher-safe</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>March 3 Show</s:tag>
+    <s:tag>October 14 Show</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5810553585822</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>699965195359</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5810523504798</id>
+    <published>2020-10-14T16:40:16-05:00</published>
+    <updated>2020-10-14T16:40:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/bodum-bistro-electric-coffee-grinder"/>
+    <title>Bodum Bistro Electric Coffee Grinder</title>
+    <s:type>Merchandise</s:type>
+    <s:vendor>Bodum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/BodumBistro_Electric_CoffeeGrinder.png?v=1602711842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bodum<br>
+        <strong>Type: </strong>Merchandise<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>October 14 Show</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5810523504798</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>699965370961</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4513702281288</id>
+    <published>2020-03-30T19:11:04-05:00</published>
+    <updated>2020-03-30T19:11:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/float-tea-tea-infuser"/>
+    <title>Float-Tea Tea Infuser</title>
+    <s:type></s:type>
+    <s:vendor>Fred &amp; Friends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Float-Tea_3.jpg?v=1585438053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fred &amp; Friends<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Throw a miniature pool party in your mug with FLOAT-TEA. Simply fill the stainless steel bottom with loose tea, twist on the top, sit back and relax.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Stocking Stuffers</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4513702281288</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>728987031687</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508578250824</id>
+    <published>2020-03-23T14:46:28-05:00</published>
+    <updated>2020-03-23T14:46:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/forlife-stump-teapot"/>
+    <title>FORLIFE Stump Teapot</title>
+    <s:type></s:type>
+    <s:vendor>FORLIFE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Stump2.jpg?v=1584995806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FORLIFE<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The very same teapots we use in our cafés! A complete tea pot, with an extra-fine stainless steel tea infuser and permanently attached hinged lid for easy use. The extra-fine infuser enables you to steep fine loose-leaf teas such as Rooibos tea to large whole-leaf teas like Oolong tea. This teapot is also ideal for use of tea bags.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508578250824</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>874118003662</s:sku>
+      <s:grams>599</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508383248456</id>
+    <published>2020-03-23T09:20:06-05:00</published>
+    <updated>2020-03-23T09:20:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/toddy-cold-brew-bundle"/>
+    <title>Toddy Cold Brew Bundle</title>
+    <s:type></s:type>
+    <s:vendor>Toddy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/toddy_1024x1024_2x_a6a487ff-9848-4308-b0a8-8fff0c73776b.png?v=1584975112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toddy<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>If you are  missing your Barriques Cold Brew, get the Toddy Cold Brew Bundle and save over 25% when buying each item individually. With this bundle you get the following:</p>
+<p><a href="https://barriquesmarket.com/products/toddy-cold-brew-system">-Toddy Cold Brew System</a><br><a href="https://barriquesmarket.com/products/toddy-cold-brew-system-filters-2pk">-Toddy Filters 2pk</a><br><a href="https://barriquesmarket.com/products/toddy-cold-brew-system-replacement-stoppers-2-pk">-Toddy Replacement Stopper 2pk</a><br>-<a href="https://barriquesmarket.com/products/iced-coffee-blend">1lb Barriques Cold Brew Coffee</a>(your choice of grind)</p>
+<meta charset="utf-8">
+<p><span>The Toddy coffee maker extracts the coffee bean’s true delicious flavor and eliminates much of the acidity, producing a bold, super-smooth coffee that can be served one cup at a time. It is also ideal for making tea – served hot or over ice.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:tag>Retail Products</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508383248456</id>
+      <title>Wholebean</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508383248456</id>
+      <title>Ground For Cold Brew</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4472908251208</id>
+    <published>2020-02-12T11:55:57-06:00</published>
+    <updated>2020-02-12T11:55:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/tea-infuser-spiked-tea"/>
+    <title>Tea Infuser - Spiked Tea</title>
+    <s:type></s:type>
+    <s:vendor>Fred &amp; Friends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/SpikedTea2.jpg?v=1581533992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fred &amp; Friends<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tea time with a twist! Brew some tea with the unicorn of the sea! SPIKED TEA narwhal infuser hangs out in your cup and has a handy horn for dunking and stirring.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4472908251208</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>728987026607</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4472906416200</id>
+    <published>2020-02-12T11:55:57-06:00</published>
+    <updated>2020-02-12T11:55:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/chemex-six-cup-coffemaker"/>
+    <title>Chemex Six Cup Coffemaker</title>
+    <s:type>Merchandise</s:type>
+    <s:vendor>Chemex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Chemex.png?v=1581533612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chemex<br>
+        <strong>Type: </strong>Merchandise<br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">CHEMEX® delivers the purest flavor experience<br><br>Made of non-porous Borosilicate glass which will not absorb odors or chemical residues, CHEMEX pour-over allows coffee to be covered and refrigerated for reheating without losing flavor. Simple, easy to use with timeless, elegant design<br>The Six Cup Classic Series used together with the scientifically designed, patented CHEMEX® Bonded Filters, will guarantee that our pour over brewing process will deliver the perfect cup of coffee, without any sediments or bitter elements.<br><br><a href="https://barriquesmarket.com/products/chemex-square-filters" title="Chemex Filter 100 Pack">Don't forget the genuine Chemex filters.   </a><br><a href="https://barriquesmarket.com/products/chemex-square-filters" title="Chemex Filter 100 Pack">Use CHEMEX® Bonded Filters FP-1, FC-100, FS-100, FSU-100</a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>February 17 Show</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4472906416200</id>
+      <title>Default Title</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>028068001012</s:sku>
+      <s:grams>585</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1965091684422</id>
+    <published>2019-01-17T14:24:45-06:00</published>
+    <updated>2019-01-17T14:24:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/tea-infuser-manatea"/>
+    <title>Tea Infuser - Manatea</title>
+    <s:type></s:type>
+    <s:vendor>Fred &amp; Friends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Mana1.jpg?v=1547757384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fred &amp; Friends<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>It's Mana... Tea Time!</span></p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><span>Everybody's favorite Floridian wants to brew you a nice cup of tea and share a slow, calm, relaxing moment. The ManaTea infuser is molded from virgin, food-safe silicone.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>Gifts Under 20</s:tag>
+    <s:tag>Holiday 2020</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1965091684422</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>728987020438</s:sku>
+      <s:grams>54</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1965088309318</id>
+    <published>2019-01-17T14:24:45-06:00</published>
+    <updated>2019-01-17T14:24:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/tea-infuser-slow-brew"/>
+    <title>Tea Infuser - Slow Brew</title>
+    <s:type></s:type>
+    <s:vendor>Fred &amp; Friends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/SlowBrew.jpg?v=1547757252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fred &amp; Friends<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Hang out with a cup of tea.</span></p>
+<meta charset="utf-8">
+<p><span>Take a break from your frantic pace and let Slow Brew make you the ideal cup of tea. This sweet sloth infuser is made of heat-resistant, BPA- and phthalate-free silicone and hangs patiently inside your mug or cup.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>Gifts Under 20</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1965088309318</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>728987023699</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1965084606534</id>
+    <published>2019-01-17T14:24:45-06:00</published>
+    <updated>2019-01-17T14:24:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/tea-infuser-purr-tea"/>
+    <title>Tea Infuser - Purr Tea</title>
+    <s:type></s:type>
+    <s:vendor>Fred &amp; Friends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/PurrTea.jpg?v=1547756998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fred &amp; Friends<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Brew the purrfect cup of tea.</span></p>
+<p><span>Fill the Purr Tea with your favorite loose tea leaves, hang its little paws on the edge of your cup, and you'll be curling up with the coziest cuppa in no time. BPA- and phthalate-free.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1965084606534</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>728987029813</s:sku>
+      <s:grams>54</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1965083525190</id>
+    <published>2019-01-17T14:24:45-06:00</published>
+    <updated>2019-01-17T14:24:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/tea-infuser-como-tea-llama"/>
+    <title>Tea Infuser - Como Tea Llama</title>
+    <s:type></s:type>
+    <s:vendor>Fred &amp; Friends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/TeaLlama2.jpg?v=1547756876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fred &amp; Friends<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Groovy Peruvian Infuser.<br><br>Fill this Andean-inspired infuser with your favorite blend of tea, stand it upright in your mug, and steep. ¡COMO TEA LLAMA es muy bueno! BPA- and phthalate-free.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1965083525190</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>728987029691</s:sku>
+      <s:grams>54</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1607500333126</id>
+    <published>2018-10-02T09:16:46-05:00</published>
+    <updated>2018-10-02T09:16:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/bodum-chambord-french-press"/>
+    <title>Bodum Chambord French Press - 3cup</title>
+    <s:type>Merchandise</s:type>
+    <s:vendor>Bodum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/71GqTGJc19L._SL1500.jpg?v=1602713026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bodum<br>
+        <strong>Type: </strong>Merchandise<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An original, dome-topped French press coffee maker with contemporary flair. The plunger-style brewing method results in fresh coffee revered for its rich, full-bodied character.</p>
+<ul>
+<li>3 cup/12oz</li>
+<li>Glass body</li>
+<li>Stainless steel filter</li>
+<li>Dishwasher-safe</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>October 14 Show</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1607500333126</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>699965207977</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1607495974982</id>
+    <published>2018-10-02T09:15:02-05:00</published>
+    <updated>2018-10-02T09:15:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/toddy-cold-brew-system-replacement-stoppers-2-pk"/>
+    <title>Toddy Cold Brew System – Replacement Stoppers (2 pk)</title>
+    <s:type></s:type>
+    <s:vendor>Toddy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/stoppers-2.png?v=1538519337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toddy<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>The first step in Toddy’s cold-water brewing process is simple but necessary: placing the Toddy Rubber Stopper in the brewing container. These natural rubber stoppers are sold 2 stoppers per bag.</div>
+<div></div>
+<div></div>
+<div>Unlike our filters, which we suggest replacing after every 10 to 12 uses, Toddy Rubber Stoppers can be used indefinitely, but should be kept on hand in case they are lost or misplaced.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1607495974982</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.19</s:price>
+      <s:sku>00758591011201</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1607492239430</id>
+    <published>2018-10-02T09:13:42-05:00</published>
+    <updated>2018-10-02T09:13:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/toddy-cold-brew-system-filters-2pk"/>
+    <title>Toddy Cold Brew System – Filters (2pk)</title>
+    <s:type></s:type>
+    <s:vendor>Toddy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/filters-2.png?v=1538519299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toddy<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toddy filters are uniquely designed specifically for cold brew filtration, extracting all the natural and delicious flavors of coffee and tea, and leaving behind the bitter acids and oils attached to their warm brew counterparts.</p>
+<p>Filters are suggested to be changed after 10 to 12 uses or after three months, whichever comes first. Cleaning simply requires rinsing under running water to remove any residue, squeezing off any moisture, and storing in an airtight container in your refrigerator or freezer in between uses. No soap needed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1607492239430</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>00758591011034</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1607489093702</id>
+    <published>2018-10-02T09:12:27-05:00</published>
+    <updated>2018-10-02T09:12:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/toddy-cold-brew-system"/>
+    <title>Toddy Cold Brew System</title>
+    <s:type></s:type>
+    <s:vendor>Toddy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/toddy.png?v=1538519269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toddy<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Now you can create a ‘coffeehouse’ coffee – served steaming hot or iced cold, and in the comfort of your home – for much less than expensive signature coffee drinks!</strong></p>
+<p>As important as those fresh roasted beans are to your cup of coffee, it’s what you do with them that counts the most.</p>
+<p>In 1964, as a chemical engineering graduate of Cornell, Todd Simpson developed and patented a cold brew system that, using regular coffee beans, creates a superior-tasting cup of steaming HOT coffee. And, with 67% LESS ACID than coffee made by conventional hot brew methods, it’s easier on sensitive stomachs.</p>
+<p>The Toddy coffee maker extracts the coffee bean’s true delicious flavor and eliminates much of the acidity, producing a bold, super-smooth coffee that can be served one cup at a time. The Toddy brewer is also ideal for making tea – served hot or over ice.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1607489093702</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>758591011027</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1607486537798</id>
+    <published>2018-10-02T09:11:08-05:00</published>
+    <updated>2018-10-02T09:11:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/chemex-square-filters"/>
+    <title>Chemex Square Filters</title>
+    <s:type></s:type>
+    <s:vendor>Chemex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/SquareFilter.png?v=1581618000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chemex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Oxygen cleansed. 100 filters per pack. Made in the USA.</span></p>
+<p>FS-100. Fits all Chemex brewers, except CM-1, CM-1C, and CM-1GH. (Three cup brewers)<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>October 14 Show</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1607486537798</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>028068001074</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1607466876998</id>
+    <published>2018-10-02T09:03:50-05:00</published>
+    <updated>2018-10-02T09:03:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/bodum-chambord-replacement-beaker"/>
+    <title>Bodum Chambord Replacement Beaker</title>
+    <s:type>Merchandise</s:type>
+    <s:vendor>Bodum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/3-cup-2.png?v=1538519208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bodum<br>
+        <strong>Type: </strong>Merchandise<br>
+        <strong>Price: </strong>
+            14.99 - 19.99
+            <a href="https://barriquesmarket.com/products/bodum-chambord-replacement-beaker">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Replacement glass carafe that fits the Bodum Chambord French Press. Available in </span>3 cup/12oz &amp;<span> </span><span>8 cup/34oz</span><span> </span>capacity.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1607466876998</id>
+      <title>3 Cup</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>727015100586</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1607466876998</id>
+      <title>8 Cup</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>727015100678</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1607453671494</id>
+    <published>2018-10-02T08:59:02-05:00</published>
+    <updated>2018-10-02T08:59:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/aerobie-aeropress-microfilters"/>
+    <title>AeroPress® Microfilters (350 ct)</title>
+    <s:type>Merchandise</s:type>
+    <s:vendor>Aerobie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/aero-f-2.png?v=1538518815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aerobie<br>
+        <strong>Type: </strong>Merchandise<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-vertical a-spacing-none">
+<li><span class="a-list-item">This package of 350 AeroPress microfilters should last for months</span></li>
+<li><span class="a-list-item">The Micro-filter removes grit, unlike other press-type coffee makers</span></li>
+<li><span class="a-list-item">The filters are designed for use with the AeroPress, an entirely new way to make coffee</span></li>
+<li><span class="a-list-item">The AeroPress’s ideal water temperature and faster brewing yields rich flavor with lower acidity and without bitterness</span></li>
+<li><span class="a-list-item">Water and grounds are mixed together for 10 seconds, then gentle air pressure pushes the mix through a micro-filter in just 20 seconds</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1607453671494</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>085276000817</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1607451213894</id>
+    <published>2018-10-02T08:41:54-05:00</published>
+    <updated>2018-10-02T08:41:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/aerobie-aeropress-coffee-maker"/>
+    <title>AeroPress® Coffee Maker</title>
+    <s:type>Merchandise</s:type>
+    <s:vendor>Aerobie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/aero-3.png?v=1538518768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aerobie<br>
+        <strong>Type: </strong>Merchandise<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The AeroPress coffee maker is a new kind of coffee press that brews coffee under ideal conditions: proper temperature, total immersion, and rapid filtering. This results in amazingly delicious coffee with a wide range of beautiful flavors but without bitterness and with very low acidity. Since its introduction the AeroPress has become a much beloved brewer for serious coffee lovers and coffee professionals around the world.</p>
+<ul class="features">
+<li>Rapid, total immersion brewing process makes delicious full flavored coffee without bitterness</li>
+<li>Makes 1 to 3 cups per pressing in about one minute</li>
+<li>Brews regular American style coffee</li>
+<li>Brews espresso style coffee for use in lattes and other espresso based drinks</li>
+<li>Microfilter means no grit in your cup (unlike a French press)</li>
+<li>Inlcudes 350 microfilters</li>
+<li>Clean up takes just seconds</li>
+<li>Bisphenol-A (BPA) and phthalate free</li>
+<li>Made in the U.S.A.</li>
+</ul>
+<p><a href="https://barriquesmarket.com/collections/coffee-gear/products/aerobie-aeropress-microfilters" title="Aerobie Filters">Don't forget to get some filters</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brew Ware</s:tag>
+    <s:tag>July 8 Show</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1607451213894</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>085276000800</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+</feed>

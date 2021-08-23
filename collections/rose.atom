@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/rose.atom"/>
+  <title>Barriques</title>
+  <updated>2021-08-05T17:09:21-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/6875269103774</id>
+    <published>2021-08-05T17:09:21-05:00</published>
+    <updated>2021-08-05T17:09:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/chateau-pradeaux-bandol-rose"/>
+    <title>Chateau Pradeaux Bandol Rosé</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/ChateauPradeauxBandol_Rose.png?v=1628201361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - Now you are in for a treat.  The Bandol Rosé from Pradeaux is perhaps the most serious wine in this category. Robust, rich, and complex with an ability to age gracefully, this wine is based on Cinsault (50%) and Mourvèdre (50%), taking its slight orange tint from the latter cépage. The younger vines of the domaine (average age: 25 years) are utilized to produce a rare rosé with staying power and exceptional complexity.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6875269103774</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>811644010221</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6814655512734</id>
+    <published>2021-07-12T10:00:39-05:00</published>
+    <updated>2021-07-12T10:00:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/montauto-staccione-rosato-toscana"/>
+    <title>Montauto Staccione Rosato Toscana</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/bottiglia-staccione-2020.png?v=1626102039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - Organically produced.  Very floral, elegant nose with plenty of red berry fruits of raspberry, strawberry with a backdrop of mineral.  Pleasant brightness to the palate, long, lingering fruit and crisp core.--Finn</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6814655512734</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8056539350101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6814639063198</id>
+    <published>2021-07-12T09:41:12-05:00</published>
+    <updated>2021-07-12T09:41:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/filipa-pato-3b-sparkling-rose"/>
+    <title>Filipa Pato 3B Sparkling Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/filipapato_3bbeirassparklingrose.png?v=1626100873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A blend of 80% Baga and 20% Bical harvested early from assorted vineyards in Bairrada (the three “Bs” of the title). Primary fermentation with indigenous yeasts; base wine is unfined and unfiltered. Secondary fermentation via traditional method in bottle followed by nine months’ aging sur lies before disgorgement. No dosage.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Portugal</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6814639063198</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>5600816160056</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6786537586846</id>
+    <published>2021-06-28T15:20:34-05:00</published>
+    <updated>2021-06-28T15:20:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/prisma-pinot-noir-rose"/>
+    <title>Prisma Pinot Noir Rosè</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/prisma_pinotRose.png?v=1624911630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - Fresh, lively upfront aromas of strawberry, cherry, candied rhubarb and red watermelon.  Summery, zippy profile to the palate, ripe red berry fruits and a bright, crisp finish.  Super friendly in glass for just sipping, yet pairs nicely with a grilled summer veggie pasta dish, garden fresh Caprese salad or Burrata pizza.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>June 30 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6786537586846</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>846170103000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6779889320094</id>
+    <published>2021-06-24T14:36:56-05:00</published>
+    <updated>2021-06-24T14:36:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/santa-marina-prosecco-rose"/>
+    <title>Santa Marina Prosecco Rosè</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/SMA-Sell-Sheets-Santa-Marina-Prosecco-Rose.png?v=1624563414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fresh aromas of summertime raspberries, strawberries with a soft floral note.  Refreshing, delicate mousse, great fruit and crisp core.  A great wine for appetizers, aperitif, fruit salads and mild cheeses.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Sparkling</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6779889320094</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>039383011785</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6770340233374</id>
+    <published>2021-06-19T16:38:13-05:00</published>
+    <updated>2021-06-19T16:38:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/li-veli-susumaniello-rosate"/>
+    <title>Li Veli Susumaniello Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/LiVeli_SusumanielloRosate.png?v=1624138595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - Elegant, persistent and aromatic notes of strawberry and cranberry.  Light weight in the mouth with waves of flavor across the palate. Savory finish with a touch of acidity.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6770340233374</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>748789700574</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6770344951966</id>
+    <published>2021-06-19T16:33:29-05:00</published>
+    <updated>2021-06-19T16:33:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/contrade-rosato"/>
+    <title>Contrade Rosato</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Contrade_Rosato.png?v=1624138410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - 100% Negroamaro.  Pleasant, fleshy aromas of strawberry, raspberry and cranberry.  Fleshy mouthfeel with lush fruits, savory acidity and minerality.  A joy to drink on its own and goes well with a summer salad, Friday night fish fry or shellfish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hybrid Tasting 07/16</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6770344951966</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>748789700604</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6756790632606</id>
+    <published>2021-06-10T10:05:56-05:00</published>
+    <updated>2021-06-10T10:05:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/cleto-chiarli-brut-de-noir-rose-1-5l"/>
+    <title>Cleto Chiarli Brut de Noir Rose - 1.5L</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/cletochiarli_rosemagnum.png?v=1623337556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><span data-mce-fragment="1">NV - Fragrances of wild raspberry, red currant, red strawberry that fill the glass.  Vivacious, buoyant and persistent mousse that is tiny yet still holds a nice texture to the palate, wild red berry fruits permeate throughout and lively finish.  A wine to be enjoyed over and over again.--Finn</span></p>
+<p><span data-mce-fragment="1">Note: Box not included.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6756790632606</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>060998</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6734520844446</id>
+    <published>2021-05-28T13:24:57-05:00</published>
+    <updated>2021-05-28T13:24:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/les-violettes-cotes-du-rhone-rose"/>
+    <title>Les Violettes Cotes Du Rhone Rose´</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/LesViolettes_CotesduRhone_Rose.png?v=1622226625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - Red fruits led by raspberry with strawberry, cherry, and citrus. Floral notes. Fruity and round with a delicate acidity. Excellent ripe fruit extraction while a very pleasant lightness appropriate in to rosé.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6734520844446</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>689927081295</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6732590448798</id>
+    <published>2021-05-27T15:50:16-05:00</published>
+    <updated>2021-05-27T15:50:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/fabre-en-provence-cotes-de-provence-rose"/>
+    <title>Fabre en Provence, Cotes de Provence Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/FabreenProvence_CotesdeProvence_Rose.png?v=1622148557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - A very fresh, vibrant wine made from Syrah, Cinsault and Grenache.  The calcareous soils lend to the minerality with fresh floral notes, strawberry, raspberry and peach.  Nicely delineated mouthfeel, vibrant fruit flavors and mineraly, saline, dry finish.  One of the stars of Provence!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>In-Person Tasting 06/18</s:tag>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6732590448798</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>892591000848</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6718786797726</id>
+    <published>2021-05-19T11:02:33-05:00</published>
+    <updated>2021-05-19T11:02:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/qss-rare-rose"/>
+    <title>QSS Rare Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/qssrare_rose.png?v=1621440040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - A light rosey wine with aromas of raspberry, dried flowers and spices.  The palate is tasty, smooth and fresh.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>In-Person Tasting 06/18</s:tag>
+    <s:tag>May 19 Show</s:tag>
+    <s:tag>ori-Portugal</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6718786797726</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5600879340013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6707067093150</id>
+    <published>2021-05-13T11:22:03-05:00</published>
+    <updated>2021-05-13T11:22:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/cuvee-tour-campanets-coteaux-daix-en-provence-rose"/>
+    <title>Cuvee Tour Campanets Coteaux d&apos;Aix en Provence Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/CuveeTourCampanets_CoteauxdAixenProvence_Rose.png?v=1620922902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - A delicate and classic Provence rosé to enjoy any time. Made mainly from Syrah and Grenache whose grapes are skin macerated to pronounce the wine's aromatic complexity. The palate is soft and creamy with a voluptuous feel and flavors of wild strawberries.--Winery</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>May 19 Show</s:tag>
+    <s:tag>ori-France</s:tag>
+    <s:tag>ori-Switzerland</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6707067093150</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>3770004575008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6706932482206</id>
+    <published>2021-05-13T09:12:42-05:00</published>
+    <updated>2021-05-13T09:12:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/ercole-piedmonte-doc-rosato"/>
+    <title>Ercole Piedmonte DOC Rosato</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/ErcolePiedmonte_DOCRosato.png?v=1620915158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - This vibrant rosato is a blend of classic Piedmont grape varieties of Barbera and Dolcetto.  Fresh aromas of raspberry, ruby watermelon and citrus.  Pleasantly fleshy with nice focus in the red berry fruits and rounded finish.  Nice as an aperetif, with summer salads light cheeses.--Finn. 1 Liter</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>In-Person Tasting 06/18</s:tag>
+    <s:tag>May 19 Show</s:tag>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6706932482206</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>678113000172</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6706926157982</id>
+    <published>2021-05-13T09:06:34-05:00</published>
+    <updated>2021-05-13T09:06:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/domaine-millet-gascogne-rose"/>
+    <title>Domaine Millet Gascogne Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/DomaineMillet_GascogneRose.png?v=1620914795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - The 2020 has a very fresh POP to the nose. A light colored rosé with hints of violet. A very pleasing nose of red fruits, principally strawberries and fresh cherries. Good balance in the mouth.<br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>May 19 Show</s:tag>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6706926157982</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>857461002063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6703936995486</id>
+    <published>2021-05-11T12:37:10-05:00</published>
+    <updated>2021-05-11T12:37:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/chateau-doupia-minervois-rose"/>
+    <title>Chateau d&apos;Oupia Minervois Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/chateaudoupia_minervoisrose.png?v=1620754631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - Organic.  The Iche family over delivers every time in the bottle.  This is a rose comes from some of the best hillside terriors in the Languedoc.  Fresh raspberry, strawberry, tangerine fruits with a vibrant core.  Very pleasant texture to the palate, citrusy core and crisp, dry finish.--Finn</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>May 19 Show</s:tag>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>var-</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6703936995486</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>610373581305</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4515053043784</id>
+    <published>2021-05-07T08:11:57-05:00</published>
+    <updated>2021-05-07T08:11:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/villa-wolf-pinot-noir-rose"/>
+    <title>Villa Wolf Pinot Noir Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/villawolfrose.png?v=1585591543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2020 - The Pfalz is a very warm and sunny region, often called the “Tuscany of Germany,” so all of the Pinot varieties do well here. The Villa Wolf Pinot Noir Rosé is a true rosé, made with a brief maceration before pressing to extract color. It is light and refreshing, with deliciously bright berry and fruit flavors and a clean, zippy finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CWT</s:tag>
+    <s:tag>In-Person Tasting 06/18</s:tag>
+    <s:tag>May 19 Show</s:tag>
+    <s:tag>ori-Germany</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine Live</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4515053043784</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>183103000174</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6665881616542</id>
+    <published>2021-04-21T08:58:09-05:00</published>
+    <updated>2021-04-21T08:58:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/christophe-avi-mary-taylor-agenais-rose"/>
+    <title>Christophe Avi Mary Taylor Agenais Rosé</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/agenais_rose_marytaylor.png?v=1619012878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - Christophe Avi is a farmer with a passion for biodynamic viticulture. In his 40s, he runs his ancestor’s farm that borders AOC Buzet and AOC Cotes de Bruhlois.  A blend of Cabernet Sauvignon and Cabernet Franc.  A wine with more tension, fresh vibrant citrusy, orange blossom, crisp with a mineral driven core.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>April 21 Show</s:tag>
+    <s:tag>May 19 Show</s:tag>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6665881616542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>686461170065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6644222722206</id>
+    <published>2021-04-09T17:14:33-05:00</published>
+    <updated>2021-04-09T17:14:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/prisoner-unshackled-rose"/>
+    <title>Prisoner Unshackled Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/prisoner_unshackled_rose.png?v=1618006467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2019 - Bright and crisp with juicy tropical fruit characteristics. Featuring aromas of citrus with a hint of strawberry and melon. Flavors of grapefruit, tangerine and lemon with bright acidity results in a refreshing rosé with vibrant acidity and a crisp finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>May 19 Show</s:tag>
+    <s:tag>ori-California</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>var-</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6644222722206</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>086003278004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6644224032926</id>
+    <published>2021-04-09T16:43:36-05:00</published>
+    <updated>2021-04-09T16:43:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/seaglass-monterey-rose"/>
+    <title>Seaglass Monterey Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/seaglass_rose.png?v=1618004612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2019 - A fragrant nose of wild strawberries and dried rose petals, echoing the ocean’s whisper across our Monterey County vineyards. A refreshing acidity balances the bright, juicy cherry and ripe raspberry flavors on the palate. This one belongs at every summer table.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>May 12 Show</s:tag>
+    <s:tag>May 19 Show</s:tag>
+    <s:tag>ori-California</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>var-</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6644224032926</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>085200028078</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6643751420062</id>
+    <published>2021-04-09T09:20:42-05:00</published>
+    <updated>2021-04-09T09:20:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/banshee-mendocino-rose"/>
+    <title>Banshee Mendocino Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/BansheeMendocino_Rose.png?v=1617978183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2019 - Beautiful pale coral hue with aromas of sea foam, salinity, and fresh cut watermelon unfold onto the palate with notes of juicy pink grapefruit, macadamia nut, and strawberry creamsicle. Racy acidity and elegance are balanced perfectly in this cool, dry, crisp Rosé.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>May 19 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>var-</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6643751420062</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>853868006123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6640651141278</id>
+    <published>2021-04-07T15:56:22-05:00</published>
+    <updated>2021-04-07T15:56:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/quinta-da-lixa-vinho-verde-rose"/>
+    <title>Quinta da Lixa Vinho Verde Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/QuintadaLixa_VinhoVerde_Rose.png?v=1617828718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - Pink color and lively strawberry and red currant flavor complemented with floral hints reveal the exuberance of the aroma. In the mouth it’s well balanced with good acidity and fresh fruit notes, young and crisp. It boasts with smooth, delicate finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>May 19 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>var-</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6640651141278</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>866559000096</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6627258761374</id>
+    <published>2021-04-05T16:45:54-05:00</published>
+    <updated>2021-04-05T16:45:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/quinta-de-cabriz-rose"/>
+    <title>Quinta de Cabriz Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/quintadecabriz_rose.png?v=1617285833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - From the Portuguese Dão wine region a rosé blend of Touriga Nacional and Alfrocheiro.   Fresh upfront aromas of raspberry, blueberry, strawberry fruits.  A fleshy red berry fruit infused palate, lush and well rounded.  Pair it nicely with simple pan seared pork chops, grilled fish or red berry salad.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>May 19 Show</s:tag>
+    <s:tag>ori-Portugal</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>var-</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6627258761374</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>5604575005757</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6595816292510</id>
+    <published>2021-03-22T11:47:59-05:00</published>
+    <updated>2021-03-22T11:47:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/marquis-de-goulaine-rose-danjou"/>
+    <title>Marquis de Goulaine Rose d&apos;Anjou</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/marquisdegoulaine_rosedanjou.png?v=1616165355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - Very fresh, lush red berry fruits of strawberry, raspberry with green spearmint notes.  Light bodied with upfront red fruits, well rounded and mineraly finish.  A wine for aperitif, light salads or chilled shrimp.--Finn</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>May 19 Show</s:tag>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>var-</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6595816292510</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>641586113793</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6569282535582</id>
+    <published>2021-03-08T10:46:58-06:00</published>
+    <updated>2021-03-08T10:46:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/elena-walch-20-26-rose"/>
+    <title>Elena Walch 20/26 Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/elenawalch_2060_Rose_9eee1e88-20e2-479b-8143-f1a830e83f22.png?v=1615221963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2019 - The Rosé “20/26” is based on the desire to produce an important rose with balanced fruit and fresh acidity. With a sugar gradation of 20 ° Babo and a fermentation at 26 ° C, the first vintage of the cuvée was created and then became her name. The strong Lagrein, paired with the elegance of the Pinot Noir and the curves of the Merlot, express a saignée vinification of an elegant rosé with a pronounced structure and great finesse.--Winemaker</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>May 19 Show</s:tag>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Virtual Tasting 03/26</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6569282535582</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>670815454321</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5568038633630</id>
+    <published>2020-08-12T16:22:16-05:00</published>
+    <updated>2020-08-12T16:22:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/bonny-doon-vin-gris-de-cigare-rose"/>
+    <title>Bonny Doon Vin Gris de Cigare Rose</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/BonnyDoon_CigareRose.png?v=1597267679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - On the nose, subtle suggestions of rose hips, linden flower, black currant as well as a slightly toastiness (methinks perhaps due to the extended bâtonnage and lees contact). On the palate, wonderful bracing natural acidity, good weight and comforting viscosity. Some discreet floral and fruity suggestions, (mostly ribes with background black-cherry notes).</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>August 12 Show</s:tag>
+    <s:tag>ori-California</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:tag>var-</s:tag>
+    <s:tag>var-Rose</s:tag>
+    <s:tag>Virtual Tasting 08/21</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5568038633630</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>769434104219</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

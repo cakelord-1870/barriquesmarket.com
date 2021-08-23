@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/white-wine.atom"/>
+  <title>Barriques</title>
+  <updated>2021-08-20T09:57:25-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/6909561438366</id>
+    <published>2021-08-20T09:57:25-05:00</published>
+    <updated>2021-08-20T09:57:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/dauny-sancerre-les-caillottes"/>
+    <title>Dauny Sancerre Les Caillottes</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/DaunySancerre_LesCaillottes.png?v=1629471443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - On the nose are perceived the classic hints of Sauvignon Blanc, a beautiful bouquet of currant, with hints of gooseberry and freshly mown grass.  In the mouth is fresh, elegant, fruity and crisp finish.  Great with oysters on the half-shell, white fish, goat cheeses and green salads.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Sancerre</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6909561438366</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>791930004977</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6902925623454</id>
+    <published>2021-08-17T14:48:51-05:00</published>
+    <updated>2021-08-17T14:48:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/alois-lageder-chardonnay"/>
+    <title>Alois Lageder Chardonnay</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/aloislageder_chardonnay.png?v=1629229724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One of the synonymous names with the highest quality wines of northern Italy is Alois Lageder, a sustainable/renewable energy winery with a focus on biodiversity and biodynamically produced wines.  Fifth and sixth generation Lageder family members oversee the wine production, marketing and vineyard management.  Their influence has led other producers to implement similar programs to help preserve their soil, minimize impact of agriculture and maintain their pristine landscape for the future generations.</p>
+<p data-mce-fragment="1">Chardonnay is well suited to the cool growing season of this area and excels in the chalky gravelly soils.  Alois Lageder takes a section of the grapes and ferments them on their lees in concrete for 4 months, leaving the remaining to ferment in stainless tanks outside in the naturally cool temperatures.  This wine displays a bright, white to golden color that is perfectly clear in the glass.  Vibrant aromas of Granny Smith apple, pear, lime zest, crushed stone and pear blossom will deeply penetrate your sniffer.  On the palate, there's the vibrancy of the Alto Adige, focused, taut and filled with refreshing fall fruits, driven mineral structure and a crisp, dry finish.  The Alois Lageder Chardonnay is a dream wine for a sommelier to put on a restaurant wine list as it delivers way above its pay grade and is a treat of a wine for food pairing.  Easily pair up with Chicken Piccata, a grilled shrimp pesto pasta, or pan fried Turbot with a caper butter reduction. Cheers.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>August 18 Show</s:tag>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Chardonnay</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6902925623454</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>609286300752</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6891379261598</id>
+    <published>2021-08-13T12:56:25-05:00</published>
+    <updated>2021-08-13T12:56:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/barrialto-aranza"/>
+    <title>Barrialto Aranza</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Barrialto_Aranza.png?v=1628877350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2019 - Organic.  A very unique white made from Palamino grapes grown in coastal Mediterranean soils which lends to the saline texture.  Cool diurnal temps helps this wine retain freshness and acidity, while it is aged in used Madeira barrels that give this wine nutty, dried orange flavors.  A wine for a complex Portuguese fish stew, Bacalaitos (fried fish balls), or with rosemary encrusted Manchego cheese.--Finn</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Portugal</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Paloma</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6891379261598</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>664841103117</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6891370479774</id>
+    <published>2021-08-13T12:46:38-05:00</published>
+    <updated>2021-08-13T12:46:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/trizanne-signature-wines-sauvignon-blanc"/>
+    <title>Trizanne Signature Wines Sauvignon Blanc</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/TSW_SauvignonBlanc.png?v=1628876787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - Trizanne produces some of the most evocative Sauvignon Blancs from the South African coastal tip of Elim.  The wine is aged one the lees for a period of time to give the wine more texture and mid palate.   Aromas of exotic tropical fruits, citrus and minerals.  A load of texture, richness and body fills the palate with a crisp finish.  A wine for oysters, pan seared tilapia in a beurre blanc sauce or homemade salsa w/ lime chips.--Finn</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-South Africa</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Sauvignon Blanc</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6891370479774</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6009900041551</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6891365499038</id>
+    <published>2021-08-13T12:41:14-05:00</published>
+    <updated>2021-08-13T12:41:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/domaine-de-chevaunet-touraine-sauvignon-blanc"/>
+    <title>Domaine de Chevaunet Touraine Sauvignon Blanc</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/touraine_sauvignon_domainedechevaunet.png?v=1628876580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2019 - Grown on the chalky, mineraly soils of the Loire Valley, France.  Bright, crisp nose of lime, grapefruit, citrus with a wet stone note.  Vibrant, dry, savory palate of crisp fruits and dry finish.  A nice wine for pairing with white fish, summer salads or shellfish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6891365499038</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>185961000440</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6891361206430</id>
+    <published>2021-08-13T12:39:25-05:00</published>
+    <updated>2021-08-13T12:39:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/bodegas-luzon-blanco-jumilla"/>
+    <title>Bodegas Luzon Blanco Jumilla</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/luzoncoleccion_blanco.png?v=1628876360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - A blend of Macabeo and Sauvignon Blanc from southern Spain.  Delicious aromas of tropical fruits, citrus with orange blossom.  Flavorful on the palate with ripe fruits, juicy with a crisp core.  Enjoyable in the glass by itself, or put it with poached rainbow trout, walleye or tropical salad.--Finn</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Spain</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Macabeo</s:tag>
+    <s:tag>var-Sauvignon Blanc</s:tag>
+    <s:tag>var-White Blend</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6891361206430</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>8436005760021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6891351965854</id>
+    <published>2021-08-13T12:34:51-05:00</published>
+    <updated>2021-08-13T12:34:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/bonny-doon-picpoul"/>
+    <title>Bonny Doon Picpoul de Pinet</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/picpoul_bonnydoon.png?v=1628876083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - Bonny Doon Beeswax Vineyard Picpoul exudes a discreet scent of white flowers and pineapple. But while the scent is subtle, the wine's bracing acidity and its unique savoriness strikes the palate. A discernible quality of brininess makes this wine an excellent match for all manners of crustacean and molluscan variety.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hybrid Tasting 08/20</s:tag>
+    <s:tag>ori-California</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Picpoul</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6891351965854</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>769434644227</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6875249508510</id>
+    <published>2021-08-05T16:58:30-05:00</published>
+    <updated>2021-08-05T16:58:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/avinyo-petillant"/>
+    <title>Avinyo Petillant</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/avinyo_petillant.png?v=1628200667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            14.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - A blend of Macabeo &amp; Petit Grand de Muscat.  Like a vinho verde w/ a little sparkle with aromas lime, white flower, apricot, green mango and citrus.  Quite refreshing, lively, fun to drink.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Spain</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-White Blend</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6875249508510</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.49</s:price>
+      <s:sku>664841000935</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6871898325150</id>
+    <published>2021-08-04T10:22:50-05:00</published>
+    <updated>2021-08-04T10:22:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/granbazan-albarino-etiqueta-verde"/>
+    <title>Granbazán Albarino Etiqueta Verde</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/GranbazanAlbarino_EtiquetaVerde.png?v=1628090571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The 2020 Granbazán Albarino Etiqueta Verde (green label) is their core Albarino and is aged on its fine lees.  It is a beautifully bright white wine in the glass that delivers signature aromas of white peach, apricot, champagne mango, Kaffir lime with a vibrant edge and classic mineral note.  On the palate, the wine delivers incredible tension and focus and a 'WHOA' intense flavor of tropical fruits, fresh acidity, great minerality and crisp, dry finish.  There's no better pairing with a fresh seafood ceviche or chilled marinated mussels than this Albarino from Granbazán.  It is also a stellar classic with a plate of oysters on the half shell or served next to a nice cheese board with a triple cream and a Spanish Cabrales.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Spain</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Albariño/Alvarinho</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6871898325150</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>097985146601</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6844743516318</id>
+    <published>2021-07-26T14:56:48-05:00</published>
+    <updated>2021-07-26T14:56:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/luc-cholot-viognier"/>
+    <title>Luc Cholot Viognier</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/lucchalot_viognier.png?v=1627329409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - An aromatic, ripe nose of peach blossom, honeysuckle, pear with mineral notes.  Vibrant palate of fresh fruits, melon and well rounded finish.  Enjoy by itself or with a fresh fruit salad, mild cheeses or white fish.--Finn</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Viognier</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6844743516318</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>638729000621</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6837933179038</id>
+    <published>2021-07-23T15:54:10-05:00</published>
+    <updated>2021-07-23T15:54:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/kruger-rumpf-estate-riesling-trocken"/>
+    <title>Kruger Rumpf Estate Riesling Trocken</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/KrugerRumpfEstate_RieslingTrocken.png?v=1627073583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - Organic.  Vibrant, fresh aromas of apricot, pear, peach, green apple and petrol.  Intense fruits lace the palate before giving way to a bone dry finish.  A wine for white pizza, jambon, or a baked white fish w/ a beurre blanc sauce.--Finn</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Germany</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Riesling</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6837933179038</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>4024831702144</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6837930852510</id>
+    <published>2021-07-23T15:49:16-05:00</published>
+    <updated>2021-07-23T15:49:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/von-winning-sauvignon-blanc-ii"/>
+    <title>Von Winning Sauvignon Blanc II</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/von_winning_sauvignon_blanc_ii.png?v=1627073357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2019 - Von Winning's 2019 Sauvignon Blanc II offers a clear and refreshing Sancerre-like bouquet of white and green fruits along with herbaceous and flinty aromas. Round and fruity on the palate, with good freshness and a silky texture, this is a medium-bodied, very elegant, stimulatingly salty and grippy Sauvignon Blanc with a mouthwatering finish.--90pts Wine Advocate</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Sauvignon Blanc</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6837930852510</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>747736547828</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6820798890142</id>
+    <published>2021-07-15T09:36:25-05:00</published>
+    <updated>2021-07-15T09:36:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/garofoli-macrina-verdicchio"/>
+    <title>Garofoli &quot;Macrina&quot; Verdicchio</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Garofoli_Macrina_Verdicchio.png?v=1626359781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2019 - Macrina was one of the first Verdicchio wines bottled in a Bordeaux-style bottle, signaling a new style of Verdicchio more modern than the wines formerly produced in amphora-shaped bottles. The wine uses slightly late-harvested grapes to give it more body and longevity. The name Macrina comes from Saint Macrina, whose likeness was in a votive shrine near the vineyard where people from the farms used to pray.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hybrid Tasting 07/16</s:tag>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Verdicchio</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6820798890142</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>851874005086</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6820789387422</id>
+    <published>2021-07-15T09:31:22-05:00</published>
+    <updated>2021-07-15T09:31:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/aia-vecchia-vermentino"/>
+    <title>Aia Vecchia Vermentino</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/AiaVecchia_Vermentino.png?v=1626359433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 -  In the glass, the wine is straw yellow with pale green hues. The bouquet is fresh with zesty aromas of freshly cut grass, grapefruit and hints of salt air. On the palate, the wine has a creamy and round mouthfeel with bright acidity accompanied by hints of limestone and a slight earthiness. The finish is lengthy, dry and refreshing.  Recommended as an aperitif or an accompaniment to fresh seafood, summer salads and poultry.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hybrid Tasting 07/16</s:tag>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Vermentino</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6820789387422</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>8032749661084</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6820782145694</id>
+    <published>2021-07-15T09:27:04-05:00</published>
+    <updated>2021-07-15T09:27:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/vietti-roero-arneis"/>
+    <title>Vietti Roero Arneis</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/roero_arneisdocg.png?v=1626359130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2020 - Straw yellow colour with fresh floral, citrus and melon aromas with hints of almond. Dry, medium-bodied wine with crisp acidity. Well-balanced, elegant with good complexity and a lingering finish.  As an aperitif with light hors d’oeuvres, vegetables, raw fish, salads, light soups, simple veal, pork and chicken dishes and creamy cheese.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hybrid Tasting 07/16</s:tag>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Arneis</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6820782145694</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>748789500044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6814830526622</id>
+    <published>2021-07-13T15:55:43-05:00</published>
+    <updated>2021-07-13T15:55:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/zuani-pinot-grigio-sodevo"/>
+    <title>Zuani Pinot Grigio Sodevo</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/2018ZuaniVigneDOCCollioBianco_Friuli_Italy_1200x1200_51c7c95b-d78e-4e82-bd2d-56d4c931c361.png?v=1626114240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">The 2019 Zuani Pinot Grigio Sodevo is hand picked, destemmed, gently pressed, fermented in stainless steel to preserve freshness and aged on its lees for 5 months.  The clarity is nearly flawless in the glass with its bright golden color.  In the nose you immediately appreciate the focus of this wine with its intensity, delivering golden apple, pear, citrus aromas layered with crunchy minerality.  The wine instantly delivers a gratifying, mouthwatering fresh minerality with tangy citrus, richer body from the lees aging and long finish.  This powerhouse of a Pinot Grigio is a treat just to sip, yet the Italians demand a great meal with their wines, so pair it up with fresh grilled black cod in a miso glaze, wild mushroom risotto or a garden fresh golden beet canederli.  Enjoy!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>July 14 Show</s:tag>
+    <s:tag>July 21 Show</s:tag>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Pinot Grigio</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6814830526622</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8051764260010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6793875259550</id>
+    <published>2021-07-01T12:34:06-05:00</published>
+    <updated>2021-07-01T12:34:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/vinha-da-lage-vinho-verde-hiatus"/>
+    <title>Vinha da Lage Vinho Verde &quot;Hiatus&quot;</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/VinhadaLage_VinhoVerde-Hiatus_807536fd-b5e5-4458-9e22-142288537ea5.png?v=1625160812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">We always love discovering wines that ‘hit above their pay grade’ and over deliver at such a great value.  In the glass, the Vinha da Lage Vinho Verde displays a bright white gold color with a iridescent green tinge to the rim.  Vibrancy is the word that best describes this wine, first in the nose with lemon/lime, grapefruit, citrus blossom aromas and then carrying through to the palate with crisp, minerally fruits and a mouthwatering citrusy finish.  It is a lovely wine to drink by the glass and is purpose-built for being paired with seafood ceviche, tropical fruit salad, baked black cod or thinly sliced jamon.  </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Portugal</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Vinho Verde</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6793875259550</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>5600314852019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6779394228382</id>
+    <published>2021-06-24T08:19:13-05:00</published>
+    <updated>2021-06-24T08:19:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/b-g-vouvray"/>
+    <title>B&amp;G Vouvray</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/BG_Vouvray.png?v=1624540749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2019 - Pale straw with green highlights. Great nose of subtle white flowers mixed with white fruits A lovely and intense wine with floral notes, peach and pear flavors. - Winery</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Vouvray</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6779394228382</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>087000102705</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6777807700126</id>
+    <published>2021-06-23T14:19:38-05:00</published>
+    <updated>2021-06-23T14:19:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/in-person-twighlight-zone-white-tasting-07-09"/>
+    <title>In-Person Twilight Zone White Tasting 07/09</title>
+    <s:type>Tasting</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/twilight_zone_800x_38e658ce-1310-424f-8c45-b837a2a8636b.png?v=1624475969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Tasting<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>Online Tickets Are No Longer Available.  Walk-in admission is available.</strong></span></p>
+<p>We are back in-person for an exciting tasting of some of our favorite, albeit unusual, white wines.  The Twilight Zone tastings feature wines you may not recognize but be happy you got to know during our tasting.  They include things like the Collective Mutante PX #1 and the Sincronia from Mallorca as just a few examples.  E<span data-mce-fragment="1">vent runs from 5 - 7pm at Barriques Monroe St.  Stop by anytime during those two hours. $14 discounted advance purchase price, $18 day of event. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>In-Person Tasting 07/09</s:tag>
+    <s:tag>July 14 Show</s:tag>
+    <s:tag>July 7 Show</s:tag>
+    <s:tag>June 23 Show</s:tag>
+    <s:tag>June 30 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6777807700126</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6770342592670</id>
+    <published>2021-06-19T16:27:32-05:00</published>
+    <updated>2021-06-19T16:27:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/ziereisen-pinot-gris"/>
+    <title>Ziereisen Pinot Gris</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Ziereisen_PinotGris.png?v=1624138046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2018 - "Vinified in large oak vats and aged on the full lees for 18 months, the slightly pink-colored 2018 Grauer Burgunder is pure and flinty on the still-reductive and yeast-dominated nose that is terribly fresh and shows lime juice and notes of crushed stones. Fresh and pure on the palate, with subtle intensity and a silky texture, this is an elegant, tightly structured and persistently mineral Pinot Gris in a pretty unique style. It is still terribly young but very promising. Excellent!"--92pts Wine Advocate</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Pinot Gris</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6770342592670</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>7260140325371</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6761723232414</id>
+    <published>2021-06-14T11:38:27-05:00</published>
+    <updated>2021-06-14T11:38:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/chateau-ducasse-graves"/>
+    <title>Chateau Ducasse Graves</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/chateauducasse_graves.png?v=1623688541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">Chateau Ducasse Graves is grown in a terrific soil structure with a base of clay-limetone soil with a mix of iron, gravel and sand.  It is a classic bordeaux blanc blend of 40% Sauvignon Blanc and 60% Semillon.  Very bright, mineraly laced aromatics of lemon citrus, white grapefruit, pineapple and crisp.  Clean, vibrant, dry palate with a savory mineraly texture is nicely balanced with a little weight coming from the Semillon.  This is a perfect marriage with oysters, yet is also great with shellfish, baked walleye pike or a summer asparagus salad.  </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Graves</s:tag>
+    <s:tag>var-White Blend</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6761723232414</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>3760024713092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6761705078942</id>
+    <published>2021-06-14T11:04:34-05:00</published>
+    <updated>2021-06-14T11:04:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/brooks-pinot-blanc"/>
+    <title>Brooks Pinot Blanc</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/brooks_pinotblanc.png?v=1623686668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2019 - Organic/biodynamic.  Aromatics of the Brooks 2019 Pinot Blanc include Anjou pear, fresh chamomile, citrus blossoms, flint and white peony.  On the palate, notes of lemon, beeswax, pineapple, mango and pear skin. This is beautifully bright wine, with racy acidity, minerality and lush herbal, citrus and tropical notes.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Oregon</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Pinot Blanc</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6761705078942</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>261297</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6761701671070</id>
+    <published>2021-06-14T11:01:04-05:00</published>
+    <updated>2021-06-14T11:01:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/beyra-white"/>
+    <title>Beyra White</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/beyra_white.png?v=1623686445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2019 - Mineral and citrus fruitiness, grapefruit, hints of nettle and white flowers, very fresh and light on the palate, revealing the altitude of the vineyards. The soul of this wine lies in the unique combination of the Síria and Fonte Cal native grape varieties, from old vines planted in granite and schist soils with quartz veins, in the Douro River. Excellent as an aperitif, with appetizers, grilled fish and shellfish and to share<br data-mce-fragment="1">with friends!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Portugal</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-White Blend</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6761701671070</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>5609851522119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6761695314078</id>
+    <published>2021-06-14T10:48:51-05:00</published>
+    <updated>2021-06-14T10:48:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/jax-dutton-ranch-chardonnay"/>
+    <title>JAX Dutton Ranch Chardonnay</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/jax_dutton_chardonnay.png?v=1623685732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2017 - The 2017 Chardonnay Dutton Ranch was aged 10 months in 30% new French oak. It opens with leesy pear, quince and yellow apple with a minerally undercurrent plus accents of hay, button mushroom, acacia blossoms and honey. The palate is medium-bodied and intense with honeyed, fleshy fruits, fresh acidity and a long, layered finish with just a touch of warmth. 175 cases produced.--92pts Wine Advocate</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>var-Chardonnay</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6761695314078</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>791154449332</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/5435856781470</id>
+    <published>2021-06-10T09:40:54-05:00</published>
+    <updated>2021-06-10T09:40:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/garciarevalo-casamaro-verdejo"/>
+    <title>Garciarevalo Casamaro Verdejo</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Garciarevalo_Cassamaro_Verdejo.png?v=1598897814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PICKUP ONLY.  You will receive confirmation as soon as the wine is ready for pickup at the location you requested. </strong></p>
+<p>2020 - <span>Think of this wine being a much more aromatic and bright Sauvignon Blanc with fresh acidity and minerality laced throughout. </span>This vintage is very fresh and vibrant in the glass with spice-laced aromas of grapefruit, green apple and white flowers, with a chalky mineral nuance building in the glass. Tangy and incisive on the palate, offering taut citrus fruit and quince flavors and a suggestion of tarragon. <span>A friendly wine to pair with Clams Casino, oysters on the half shell, chilled stone crab or baked black cod.  </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Spain</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>September 2 Show</s:tag>
+    <s:tag>var-Other Whites</s:tag>
+    <s:tag>White Wine</s:tag>
+    <s:tag>Wine</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/5435856781470</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>664841008009</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

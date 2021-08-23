@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/spirits.atom"/>
+  <title>Barriques</title>
+  <updated>2021-08-05T09:18:17-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/6874311721118</id>
+    <published>2021-08-05T09:18:17-05:00</published>
+    <updated>2021-08-05T09:18:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/doundrins-distilling-lemon-rum"/>
+    <title>Doundrins Distilling Lemon Rum</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/lemon_rum.png?v=1629300001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            26.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fresh from Cambridge, WI.  Lemon infused white rum made from sugar cane. Delish!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>August 18 Show</s:tag>
+    <s:tag>ori-Wisconsin</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Rum</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6874311721118</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.49</s:price>
+      <s:sku>850003592640</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6872131305630</id>
+    <published>2021-08-04T13:12:24-05:00</published>
+    <updated>2021-08-04T13:12:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/state-line-london-dry-gin"/>
+    <title>State Line London Dry Gin</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/StateLine_LondonDryGin.png?v=1628100737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">State Line London Dry Gin is firmly rooted in the old world style featuring juniper and bright citrus notes, but fear not, this isn’t your grandpa’s gin.  Balanced by orris root, coriander, angelica root, and cubeb, the London Dry drinks incredibly smooth, even at 94 proof.--Stateline distiller</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Gin</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6872131305630</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>850008876059</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6797048938654</id>
+    <published>2021-07-02T08:23:13-05:00</published>
+    <updated>2021-07-02T08:23:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/russells-reserve-10yr"/>
+    <title>Russells Reserve 10yr</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/russells_reserve.png?v=1625232171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bottled at 90 proof, this hand selected small batch bourbon has a rich, caramel and vanilla taste and a uniquely smooth finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>July 7 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Bourbon</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6797048938654</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>721059957502</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6797046382750</id>
+    <published>2021-07-02T08:19:09-05:00</published>
+    <updated>2021-07-02T08:19:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/aperol-1-liter"/>
+    <title>Aperol 1 Liter</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Aperol_Liter.png?v=1625231950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div id="notesDiv" data-mce-fragment="1">
+<p data-mce-fragment="1">Aperol has a unique taste thanks to the secret recipe.  It infuses select ingredients including bitter and sweet oranges, rhubarb &amp; gentian combined w/herbs and roots. </p>
+</div>
+<div name="notesDiv2" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div name="notesDiv2" data-mce-fragment="1">1 Liter<br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Liqueurs/Schnapps</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6797046382750</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>721059002387</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6779908063390</id>
+    <published>2021-06-24T14:47:30-05:00</published>
+    <updated>2021-06-24T14:47:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/dancing-goat-limousin-rye-tasting-kit"/>
+    <title>Dancing Goat Limousin Rye Tasting Kit</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/LIMOUSIN-RYE-MAPLE-SYRUP.png?v=1624564034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Forward notes of light vanilla and caramel finish with a swell of spice and warmth. Blended in a custom made Solera finishing system with Limousin oak barrels.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Whiskey</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6779908063390</id>
+      <title>Default Title</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>819994020129</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6779907408030</id>
+    <published>2021-06-24T14:44:41-05:00</published>
+    <updated>2021-06-24T14:44:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/lunazul-blanco-tequila"/>
+    <title>Lunazul Blanco Tequila</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Untitleddrawing_40_743e9ebf-06d2-483a-b4b5-30490c9951df.png?v=1624563876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>Refreshing fruity nose exhibiting tropical and apple notes with a healthy dose of salt and citrus, similar to that of fresh agave.  The palate is semi-viscous and peppery with ripe fruit tones giving way to crisp citrus notes and a hint of vanilla.  Wonderfully balanced finish with long lasting citrusy, peppery, and herbaceous notes.<br></p>
+<p>750ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Tequila</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6779907408030</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>096749908035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6779892236446</id>
+    <published>2021-06-24T14:36:30-05:00</published>
+    <updated>2021-06-24T14:36:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/starlight-rickhouse-rye-whiskey"/>
+    <title>Starlight Rickhouse Rye Whiskey</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/StarlightRickhouse_RyeWhiskey.png?v=1624563388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A small batch Rye Whiskey is aged in new American Oak barrels displaying distinctive hints of sweet caramel and vanilla. The prominent characteristics of rye exhibiting classic spicy notes which shine through, making for a smooth finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Whiskey</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6779892236446</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>643390396188</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6770355044510</id>
+    <published>2021-06-19T16:48:16-05:00</published>
+    <updated>2021-06-19T16:48:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/wandering-mind-hibiscus-liqueur"/>
+    <title>Wandering Mind Hibiscus Liqueur</title>
+    <s:type>Wine</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/WanderingMind_HibiscusLiqueur.png?v=1624139236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Wine<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Made in Madison by local bartender Jason BonDurant.  Wandering Mind Spirits Hibiscus Liqueur is a highly versatile cordial that pays homage to the hibiscus aguas frescas found in Mexico, Central America and the Caribbean. It deftly melds the tart, cranberry-like flavor of hibiscus with the bright acidity of lime peel and the lingering, warming spices of ginger and cinnamon.  <a href="https://wanderingmindspirits.com/wmshibiscusrecipes/">Visit the Wandering Mind Spirit website for some great cocktail suggestions using this the Hibiscus Liqueur.</a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>June 23 Show</s:tag>
+    <s:tag>ori-Wisconsin</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6770355044510</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>892060006500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6756780048542</id>
+    <published>2021-06-14T11:23:35-05:00</published>
+    <updated>2021-06-14T11:23:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/cointreau"/>
+    <title>Cointreau</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Cointreau_Liqueur_750ml.png?v=1623687775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The premium liqueur imported from France, is a crystal clear liqueur that blends sweet and bitter orange peels distilled to perfection. - </span>750ml</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-France</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6756780048542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>087236565107</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6758587498654</id>
+    <published>2021-06-14T10:17:46-05:00</published>
+    <updated>2021-06-14T10:17:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/milagro-silver-tequila-1"/>
+    <title>Milagro Silver Tequila</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/milagro_silver_tequila.png?v=1623683845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Milagro Silver is an estate-grown, 100% blue agave tequila that is renowned for its crisp, fresh, agave taste and world-class smoothness. 1 Liter</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Tequila</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6758587498654</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>083664870462</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6744236753054</id>
+    <published>2021-06-11T19:00:39-05:00</published>
+    <updated>2021-06-11T19:00:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/senator-straight-rye"/>
+    <title>Senator Straight Rye</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/thesenator_straightrye_117fb5a6-9ac5-420b-a2da-fdfbded95299.png?v=1622742162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Barrel Proof Straight Rye Whiskey.<br data-mce-fragment="1">Aged a minimum of 6 years in new charred oak barrels, mingling 10-20 select barrels.<br data-mce-fragment="1">Bottled at barrel proof to showcase the bold Rye flavors.<br data-mce-fragment="1">"A nutty palate with notes of toffee, orange peel, herbs and light tobacco, with chocolate brownies and blackberry emerging with water" - Whiskey Advocate<br data-mce-fragment="1">95% Rye, 5% Malted Barley<br data-mce-fragment="1">112-121 Proof</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>July 21 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Rye</s:tag>
+    <s:tag>virtual tasting 06/11</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6744236753054</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>609788231462</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6758565904542</id>
+    <published>2021-06-11T16:33:16-05:00</published>
+    <updated>2021-06-11T16:33:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/casa-noble-crystal-tequila"/>
+    <title>Casa Noble Crystal Tequila</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/CasaNoble_CrystalTequila.png?v=1623447197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">Based on the experience of seven generations of maestro tequileros, Casa Noble is an award winning luxury tequila worth sharing. It is one of the few triple distilled tequilas – a process that brings out pure agave flavors and a smooth finish. The clean, crisp taste of our Blanco celebrates the fresh flavor of 100% Blue Weber Agave. Enticing agave and lemongrass aromas set the palate for flavors of honey, buttery-sweet cooked agave, and a hint of citrus. Named Best Blanco Tequila at the 2016 World Tequila Awards and #1 Blanco at the 2017 Cigar &amp; Spirits World Spirits Competition. Casa Noble is Certified Organic.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Tequila</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6758565904542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>081240050376</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6757196497054</id>
+    <published>2021-06-10T15:03:03-05:00</published>
+    <updated>2021-06-10T15:03:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/barriques-margarita-madness-07-02"/>
+    <title>Barriques Margarita Madness - 07/02</title>
+    <s:type>Tasting</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/MargaritaMadness.png?v=1623355384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Tasting<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>Online Ticket Sales Are Now Closed.   </strong></span></p>
+<p>July 2nd we will be returning to the in-person version of our annual Margarita Madness tradition.  Join us at Barriques Monroe St. from 5pm - 7pm for this fun event.  $15 advance admission.  $20 day of event.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>In-Person Tasting 07/02</s:tag>
+    <s:tag>June 23 Show</s:tag>
+    <s:tag>June 30 Show</s:tag>
+    <s:tag>June 9 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Margarita</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6757196497054</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6756847550622</id>
+    <published>2021-06-10T10:44:53-05:00</published>
+    <updated>2021-06-10T10:44:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/on-the-rocks-jalapeno-margarita-200ml"/>
+    <title>On The Rocks Jalapeno Margarita - 200ml</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/ontherocks_jalapenopineapple200.png?v=1623339894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The perfect drink for those who share our love of all things hot. The Jalapeño Pineapple Margarita uses a flavor combination of pineapple and triple sec married with plata tequila and the heat from the jalapeño. 200ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6756847550622</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>855880008079</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6744238260382</id>
+    <published>2021-06-03T12:55:52-05:00</published>
+    <updated>2021-06-03T12:55:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/representative-straight-bourbon"/>
+    <title>Representative Straight Bourbon</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/therepresentative_bourbon_e97f4af1-f86f-4185-b98b-023bd12ccd42.png?v=1622742224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Aged a minimum of 4 years (2 Congressional Terms). Small batch, approximately 20 barrels. Barrel entry 120 proof, Distilled at MPG in Indiana. Strong notes of vanilla, cherry and peach. Flavor is full of citrus and tobacco, finished with long sweet vanilla<br data-mce-fragment="1">notes and spice.<br data-mce-fragment="1">Approx. 115 Proof<br data-mce-fragment="1">75% Corn, 21% Rye, 4% Barley</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Bourbon</s:tag>
+    <s:tag>virtual tasting 06/11</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6744238260382</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>609788231677</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6744234295454</id>
+    <published>2021-06-03T12:54:29-05:00</published>
+    <updated>2021-06-03T12:54:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/roulette-straight-rye-whiskey"/>
+    <title>Roulette Straight Rye Whiskey</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/roulette_rye_1769003b-21c2-4fd9-b71a-da417a6b3417.png?v=1622742076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            27.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Small batched Rye Whiskey from Indiana. Aged no less than four years.<br data-mce-fragment="1">Bottled at a bold and cocktail-friendly 100 proof.<br data-mce-fragment="1">95% Rye, 5% Barley</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Whiskey</s:tag>
+    <s:tag>virtual tasting 06/11</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6744234295454</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.49</s:price>
+      <s:sku>609788231707</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6744240586910</id>
+    <published>2021-06-03T12:52:52-05:00</published>
+    <updated>2021-06-03T12:52:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/deadwood-straight-rye"/>
+    <title>Deadwood Straight Rye</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/deadwood_rye_e0de5e90-32d6-48f0-96ea-4fc3231c7cd1.png?v=1622742764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Quality everyday American Rye Whiskey. All barrels over 2 years old. Batches currently contain about 20 barrels.<br data-mce-fragment="1">Distilled in Indiana, blended and bottled in small batches in Kentucky.<br data-mce-fragment="1">95% IN Rye, 70% TN Rye, 30% Corn<br data-mce-fragment="1">83 Proof</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Rye</s:tag>
+    <s:tag>var-Whiskey</s:tag>
+    <s:tag>virtual tasting 06/11</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6744240586910</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>609788231332</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6744242978974</id>
+    <published>2021-06-03T12:51:29-05:00</published>
+    <updated>2021-06-03T12:51:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/deadwood-straight-bourbon"/>
+    <title>Deadwood Straight Bourbon</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/deadwood_bourbon_9a23e2fb-0a0a-411b-8874-cfce6023e752.png?v=1622742397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Quality everyday American Straight Bourbon Whiskey<br data-mce-fragment="1">All barrels over 2 years old.  Batches currently contain about 20 barrels.<br data-mce-fragment="1">Distilled in Indiana, blended and bottled in small batches in Kentucky.<br data-mce-fragment="1">75% Corn, 21% Rye, 4% Barley<br data-mce-fragment="1">81 Proof</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Bourbon</s:tag>
+    <s:tag>virtual tasting 06/11</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6744242978974</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>609788231271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6740080656542</id>
+    <published>2021-06-01T17:30:08-05:00</published>
+    <updated>2021-06-01T17:30:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/zoom-proof-wood-whiskey-06-11"/>
+    <title>Zoom Proof &amp; Wood Whiskey Tasting Pack 06/11</title>
+    <s:type>Tasting</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/proofwood_tasting.png?v=1622588629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Tasting<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">
+<span data-mce-fragment="1">Dave Schmier of Redemption Rye fame will be our guest host during a virtual tasting of Whiskey's from this latest venture, Proof &amp; Wood.  Included in the tasting pack will be 2oz samples of the </span>Deadwood Bourbon, Deadwood Rye, Roulette Rye, The Representative Straight Bourbon &amp; The Senator Straight Rye.  The event will take place on Friday, June 11th at 7pm.</div>
+<div data-mce-fragment="1"><br></div>
+<div data-mce-fragment="1">
+<meta charset="UTF-8"> <span>After purchasing your tasting pack, you will receive an email with instructions on how to join us virtually, on the the 11th.  This event is limited to 30 tasting packs so get yours before they sell out. Cheers!  </span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>June 2 Show</s:tag>
+    <s:tag>June 9 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Whiskey</s:tag>
+    <s:tag>virtual tasting 06/11</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6740080656542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6732627017886</id>
+    <published>2021-05-27T15:59:14-05:00</published>
+    <updated>2021-05-27T15:59:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/wollersheim-straight-bb-bourbon"/>
+    <title>Wollersheim Straight BB Bourbon</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Wollersheim_Bourbon.png?v=1622149149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            52.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This is a Bottle in Bond whiskey, raised in Wisconsin oak, all of the grains corn and rye sourced from a single farmer 1 mile from the distillery, over 100 proof, aged for 4 years, from a single year and single distillery.  The first release was sold out at the distillery in one day, so only a few bottles available.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Wisconsin</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Bourbon</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6732627017886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>027952920514</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6730076881054</id>
+    <published>2021-05-27T12:00:40-05:00</published>
+    <updated>2021-05-27T12:00:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/buffalo-trace-wheatley-vodka-1"/>
+    <title>Buffalo Trace &quot;Wheatley&quot; Vodka</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/wheatleyvodka_750ml.png?v=1622134760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            24.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8"><span data-mce-fragment="1">Wheatley Vodka is made at </span><a href="https://www.buffalotracedistillery.com/" data-saferedirecturl="https://www.google.com/url?q=https://www.buffalotracedistillery.com/&amp;source=gmail&amp;ust=1598392962457000&amp;usg=AFQjCNHFPhu_y8i0esYkfWZ5FK0iz_6UCg" data-mce-fragment="1" data-mce-href="https://www.buffalotracedistillery.com/" target="_blank">Buffalo Trace Distillery</a><span data-mce-fragment="1"> in Frankfort, Kentucky by Master Distiller Harlen Wheatley. Crafted in small-batches using a one of a kind micro-still, Harlen’s unique wheat recipe is distilled a total of 10 times, triple-filtered and bottled at 82 proof, creating a delicate and balanced profile.</span><span data-mce-fragment="1">Pure and crisp on the nose. The fresh and clean taste finishes with hint of soft vanilla. This is the way vodka should taste. 750ml.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Vodka</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6730076881054</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.49</s:price>
+      <s:sku>088004019761</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6729913761950</id>
+    <published>2021-05-26T14:05:50-05:00</published>
+    <updated>2021-05-26T14:05:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/wollersheim-press-house-brandy-old-fashioned-cocktail-syrup-combo"/>
+    <title>Wollersheim Press House Brandy &amp; Old Fashioned Cocktail Syrup Combo</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/wollersheim_brandycombo.png?v=1622055933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><meta charset="UTF-8"><span data-mce-fragment="1">We create a great Wisconsin made pairing featuring the </span>Wollersheim's Press House Brandy and their Old Fashioned Cocktail Syrup.  The All-American brandy made its from American native grape wine, distilled on-site and aged two years in American oak barrels. Sweet and soft. </p>
+<p data-mce-fragment="1"><meta charset="UTF-8"><span>The Old Fashioned Syrup is a blend of Wisconsin cherry juice, Milwaukee-made bitters and brown sugar to make a new riff on the classic Wisconsin Old Fashioned. </span><br data-mce-fragment="1"><span>Muddle 1/4 oz of Wollersheim Old Fashioned Syrup with a cherry (and optional orange slice), add 1.5 oz of Wollersheim Press House Brandy, add ice, then top with approximately 3 oz of sweet or sour soda.</span></p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>May 26 Show</s:tag>
+    <s:tag>ori-Wisconsin</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Brandy</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6729913761950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>271999</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6705591222430</id>
+    <published>2021-05-12T11:23:48-05:00</published>
+    <updated>2021-05-12T11:23:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/carpano-antica-vermouth-8oz-to-go"/>
+    <title>Carpano Antica Vermouth - 8oz To Go</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/carpano_vermouth_8oz.png?v=1620841896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div id="notesDiv" data-mce-fragment="1">
+<p data-mce-fragment="1">This dark, mysterious vermouth is rich, complex and layered, boasting aromas of mint and other herbs, plums and figs, reminiscent of Madeira. The rich flavors are hard to pin down: cocoa, red wine, almonds, bitter marmalade, hints of spice and toffee all play across the palate, finishing with a bracing bitter edge.  Makes an incredible Manhattan, but try it on the rocks with a lemon peel.  Delicious!</p>
+</div>
+<div name="notesDiv2" data-mce-fragment="1"></div>
+8oz Carry Out By The Glass</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>May 12 Show</s:tag>
+    <s:tag>ori-Italy</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Vermouth</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6705591222430</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6644222361758</id>
+    <published>2021-04-09T17:06:05-05:00</published>
+    <updated>2021-04-09T17:06:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/starlight-carl-t-double-oaked-bourbon"/>
+    <title>Starlight Carl T. Double Oaked Bourbon</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Starlight_CarlT_DoubleOakedBourbon.png?v=1618005959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Carl T. is their small batch signature bourbon named after 4th generation family member, Carl Theodore Huber. After 4 years of aging in new, charred American Oak, this Carl T. batch was transferred into unused Seguin Moreau Vanilla Toast bourbon barrels to age an additional 8 months. This process provides intense oak notes, enhanced vanilla flavor, and mellowed rye spiciness.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>April 21 Show</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Bourbon</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6644222361758</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>643390732214</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/6644037943454</id>
+    <published>2021-04-09T12:05:22-05:00</published>
+    <updated>2021-04-09T12:05:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/wollersheim-garden-gate-gin"/>
+    <title>Wollersheim Garden Gate Gin</title>
+    <s:type>Spirits</s:type>
+    <s:vendor>Barriques WBS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/Wollersheimz_GardenGate_Gin.png?v=1617987911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques WBS<br>
+        <strong>Type: </strong>Spirits<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Contemporary dry gin featuring citrus and floral notes. Made from locally-grown wheat and botanicals such as chamomile, rosemary, lemongrass and lavender. Serve with tonic or in cocktails.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ori-Wisconsin</s:tag>
+    <s:tag>Pickup Only</s:tag>
+    <s:tag>Spirits</s:tag>
+    <s:tag>var-Gin</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/6644037943454</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>027952920163</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

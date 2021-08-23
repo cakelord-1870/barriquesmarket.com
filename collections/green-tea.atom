@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/green-tea.atom"/>
+  <title>Barriques</title>
+  <updated>2020-03-23T11:31:18-05:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508455927880</id>
+    <published>2020-03-23T11:31:18-05:00</published>
+    <updated>2020-03-23T11:31:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/orange-blossom-4-oz"/>
+    <title>Orange Blossom</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/OrangeBls.jpg?v=1584982839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Orange Blossom features fragrant jasmine green tea blended with citrusy herbs like lemongrass and lemon myrtle. The essence of orange, lime and tangerine add zesty brightness, with subtle hints of rose lending high floral notes. Altogether, Orange Blossom uplifts the palate with its inviting aroma.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508455927880</id>
+      <title>1lb</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/4508453470280</id>
+    <published>2020-03-23T11:31:18-05:00</published>
+    <updated>2020-03-23T11:31:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/green-tea-mint-4-oz"/>
+    <title>Green Tea Mint</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/GreenTea.jpg?v=1584982670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            13.00 - 25.50
+            <a href="https://barriquesmarket.com/products/green-tea-mint-4-oz">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>The fresh, sweet flavor and long-lasting candy cane mint aroma of peppermint from the Pacific Northwest blends smoothly with the pleasant character of roasted green tea. This blend evokes mint chocolate in a clean, gratifying way. Green Tea Mint makes a wonderful cup to enjoy after a meal.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508453470280</id>
+      <title>4oz</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/4508453470280</id>
+      <title>1lb</title>
+      <s:price currency="USD">25.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1919297159238</id>
+    <published>2018-12-13T11:40:30-06:00</published>
+    <updated>2018-12-13T11:40:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/jade-cloud"/>
+    <title>Jade Cloud - 1lb</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/BulkTea_JadeCloud_LG.jpg?v=1581533211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Three different styles of green tea (steamed, oven-baked and roasted) are combined to make a deliciously smooth everyday green tea inspired by the classic Chinese green tea known as Wulu. Jade Cloud is grown from hardy tea cultivars like Long Jing #43 and Hubei E-Cha #10, and is harvested entirely by hand from the middle to the end of April according to "two leaves and a bud" plucking standard. Savory notes from steamed tea leaves are expertly balanced with the toasted chestnut flavor and flowery aromas of baked and roasted lots.</span></p>
+<p><span>Tasting Notes: A lively, delicious everyday green tea nurtured by the clouds and cool mist of early spring</span></p>
+<p><span>Ingredients: Organic and Fair Trade Certified™ green tea.</span></p>
+<p><span>Package Size: 16oz (1 lb)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Tea</s:tag>
+    <s:tag>Organic Tea</s:tag>
+    <s:tag>Pickup Ok</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1919297159238</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1675418042438</id>
+    <published>2018-10-16T09:41:09-05:00</published>
+    <updated>2018-10-16T09:41:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/jade-cloud-tin"/>
+    <title>Jasmine Tea</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Rishi Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/JasmineGreen.jpg?v=1581533288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rishi Tea<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            28.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jasmine tea is the most popular flower-scented tea in East Asia, enjoyed throughout the day and as an uplifting after-meal tea. This tea’s deliciously sweet floral aroma is created through an artisanal tea scenting process. Jasmine blossoms, collected at their peak season, are repeatedly mixed amongst tea leaves and removed only after imparting their fragrance deeply into the tea.</p>
+<p>Tasting Notes: Fresh and soothing green tea scented with the enchanting aroma of jasmine blossoms</p>
+<p>Ingredients: Organic and Fair Trade Certified™ green tea with jasmine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1675418042438</id>
+      <title>1lb</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,2880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://barriquesmarket.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://barriquesmarket.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://barriquesmarket.com/collections/wine-clubs.atom"/>
+  <title>Barriques</title>
+  <updated>2018-11-28T11:35:21-06:00</updated>
+  <author>
+    <name>Barriques</name>
+  </author>
+  <entry>
+    <id>https://barriquesmarket.com/products/1884478275654</id>
+    <published>2018-11-28T11:35:21-06:00</published>
+    <updated>2018-11-28T11:35:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/finn-picks-wine-club-6-month-subscription"/>
+    <title>Finn Picks Wine Club 6 Month Subscription</title>
+    <s:type>Wine Club</s:type>
+    <s:vendor>Barriques Clubs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/IMG_0130.JPG?v=1543426032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Clubs<br>
+        <strong>Type: </strong>Wine Club<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Finn Picks club is our newest and most personalized wine club.  As a Barriques Co-founder, Finn has picked every bottle of wine that has ever found a home at Barriques over the past 20 years. He has decades of experience matching our customer's tastes with the seemingly limitless options available from wine producers worldwide. He has fashioned Barriques' wine reputation as one that is highly selective and offers tremendous value. Members of our Finn Picks club get to take advantage of his insider knowledge and get customized wine picks chosen based on their specific preferences. It's the closest thing we have to on-demand, one-on-one wine consultation with 'the man' himself. </p>
+<p>As part of your Finn Picks membership you will receive one or two wine selections each month that Finn will pick exclusively for you based on your wine preferences. You will also receive an invitation to the FREE, bi-annual Finn Picks Club member tasting as well as exclusive Barriques in-store rewards offers for our Reward Club members. All you need to do is choose which Barriques location you would like to pick the wine up at and we will follow up with a detailed questionnaire to best understand your particular wine preferences. The wines will then be available to pickup anytime after the 15th of each month.  </p>
+<p>In addition to the special Finn Picks Club benefits, all of our wine club members receive the following: </p>
+<ul>
+<li>20% off purchases of a case of the current month club wines</li>
+<li>15% off purchase of any full case (mixed or straight).</li>
+<li>10% off any half case (mixed or straight).</li>
+<li>Discounted prices at most tastings and events.</li>
+</ul>
+<p><strong>FAQ</strong></p>
+<ol>
+<li>
+<strong>When can I pick up the wine?</strong> Club members can pick up their wine(s) after the 15th of each month at their designated pick up location.</li>
+<li>
+<strong>When will my credit card be billed? </strong>Your credit card will be billed at the time of your order for the entire six month subscription.</li>
+<li>
+<strong>If I can't make it in to pickup the wine for a month or two is that ok?</strong> Of course. Stop by when it is convenient. An email reminder may be made to those who have not picked up their wine by the 30th but we often hold onto wine for months for people.</li>
+<li>
+<strong>Can we give the membership as a gift?</strong> Definitely. Barriques Wine Clubs make great gifts. If you are giving the wine club membership as a gift, please indicate the recipients name &amp; email address in the text box above. <em><strong>No notification</strong></em> will be sent to the recipient by Barriques. However, you will receive a link to download a certificate that you can fill out and give to the recipient which will explain how the club works and what benefits they receive as members of a Barriques Wine of the Month Club. </li>
+<li>
+<strong>Who to I contact if I have any more questions?</strong> You can find help at any <a href="http://www.barriquesmarket.com/our-cafes/" target="_blank" rel="noopener noreferrer">Barriques location</a> or send an email to clubs@barriquesmarket.com.  We would love to hear from you.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fixed Month Wine Club</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884478275654</id>
+      <title>Monroe</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884478275654</id>
+      <title>Middleton</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884478275654</id>
+      <title>Fitchburg</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884478275654</id>
+      <title>West Wash</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884478275654</id>
+      <title>Old Sauk</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884478275654</id>
+      <title>Park St.</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884478275654</id>
+      <title>Atwood</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884478275654</id>
+      <title>University</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1884482437190</id>
+    <published>2018-11-28T11:35:08-06:00</published>
+    <updated>2018-11-28T11:35:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/finn-picks-wine-club-12-month-subscription"/>
+    <title>Finn Picks Wine Club 12 Month Subscription</title>
+    <s:type>Wine Club</s:type>
+    <s:vendor>Barriques Clubs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/IMG_0127.JPG?v=1543426012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Clubs<br>
+        <strong>Type: </strong>Wine Club<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Finn Picks club is our newest and most personalized wine club. As a Barriques Co-founder, Finn has picked every bottle of wine that has ever found a home at Barriques over the past 20 years. He has decades of experience matching our customer's tastes with the seemingly limitless options available from wine producers worldwide. He has fashioned Barriques' wine reputation as one that is highly selective and offers tremendous value. Members of our Finn Picks club get to take advantage of his insider knowledge and get customized wine picks chosen based on their specific preferences. It's the closest thing we have to on-demand, one-on-one wine consultation with 'the man' himself. </p>
+<p>As part of your Finn Picks membership you will receive one or two wine selections each month that Finn will pick exclusively for you based on your wine preferences. You will also receive an invitation to the FREE, bi-annual Finn Picks Club member tasting as well as exclusive Barriques in-store rewards offers for our Reward Club members. All you need to do is choose which Barriques location you would like to pick the wine up at and we will follow up with a detailed questionnaire to best understand your particular wine preferences. The wines will then be available to pickup anytime after the 15th of each month.  </p>
+<p>In addition to the special Finn Picks Club benefits, all of our wine club members receive the following: </p>
+<ul>
+<li>20% off purchases of a case of the current month club wines</li>
+<li>15% off purchase of any full case (mixed or straight).</li>
+<li>10% off any half case (mixed or straight).</li>
+<li>Discounted prices at most tastings and events.</li>
+</ul>
+<p><strong>FAQ</strong></p>
+<ol>
+<li>
+<strong>When can I pick up the wine?</strong> Club members can pick up their wine(s) after the 15th of each month at their designated pick up location.</li>
+<li>
+<strong>When will my credit card be billed? </strong>Your credit card will be billed at the time of your order for the entire six month subscription.</li>
+<li>
+<strong>If I can't make it in to pickup the wine for a month or two is that ok?</strong> Of course. Stop by when it is convenient. An email reminder may be made to those who have not picked up their wine by the 30th but we often hold onto wine for months for people.</li>
+<li>
+<strong>Can we give the membership as a gift?</strong> Definitely. Barriques Wine Clubs make great gifts. If you are giving the wine club membership as a gift, please indicate the recipients name &amp; email address in the text box above. <em><strong>No notification</strong></em> will be sent to the recipient by Barriques. However, you will receive a link to download a certificate that you can fill out and give to the recipient which will explain how the club works and what benefits they receive as members of a Barriques Wine of the Month Club. </li>
+<li>
+<strong>Who to I contact if I have any more questions?</strong> You can find help at any <a href="http://www.barriquesmarket.com/our-cafes/" target="_blank" rel="noopener noreferrer">Barriques location</a> or send an email to clubs@barriquesmarket.com. We would love to hear from you.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fixed Month Wine Club</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884482437190</id>
+      <title>Monroe</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884482437190</id>
+      <title>Middleton</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884482437190</id>
+      <title>Fitchburg</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884482437190</id>
+      <title>West Wash</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884482437190</id>
+      <title>Old Sauk</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884482437190</id>
+      <title>Park St.</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884482437190</id>
+      <title>Atwood</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884482437190</id>
+      <title>University</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1874214813766</id>
+    <published>2018-11-27T13:38:27-06:00</published>
+    <updated>2018-11-27T13:38:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/finn-picks-wine-club-3-month-subscription"/>
+    <title>Finn Picks Wine Club 3 Month Subscription</title>
+    <s:type>Wine Club</s:type>
+    <s:vendor>Barriques Clubs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/IMG_0125.JPG?v=1543343374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Clubs<br>
+        <strong>Type: </strong>Wine Club<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Finn Picks club is our newest and most personalized wine club. As a Barriques Co-founder, Finn has picked every bottle of wine that has ever found a home at Barriques over the past 20 years. He has decades of experience matching our customer's tastes with the seemingly limitless options available from wine producers worldwide. He has fashioned Barriques' wine reputation as one that is highly selective and offers tremendous value. Members of our Finn Picks club get to take advantage of his insider knowledge and get customized wine picks chosen based on their specific preferences. It's the closest thing we have to on-demand, one-on-one wine consultation with 'the man' himself. </p>
+<p> </p>
+<p>As part of your Finn Picks membership you will receive one or two wine selections each month that Finn will pick exclusively for you based on your wine preferences. You will also receive an invitation to the FREE, bi-annual Finn Picks Club member tasting as well as exclusive Barriques in-store rewards offers for our Reward Club members. All you need to do is choose which Barriques location you would like to pick the wine up at and we will follow up with a detailed questionnaire to best understand your particular wine preferences. The wines will then be available to pickup anytime after the 15th of each month.  </p>
+<p>In addition to the special Finn Club benefits, all of our wine club members receive the following: </p>
+<ul>
+<li>20% off purchases of a case of the current month club wines</li>
+<li>15% off purchase of any full case (mixed or straight).</li>
+<li>10% off any half case (mixed or straight).</li>
+<li>Discounted prices at most tastings and events.</li>
+</ul>
+<p><strong>FAQ</strong></p>
+<ol>
+<li>
+<strong>When can I pick up the wine?</strong> Club members can pick up their wine(s) after the 15th of each month at their designated pick up location.</li>
+<li>
+<strong>When will my credit card be billed? </strong>Your credit card will be billed at the time of your order for the entire three month subscription.</li>
+<li>
+<strong>If I can't make it in to pickup the wine for a month or two is that ok?</strong>  Of course. Stop by when it is convenient. An email reminder may be made to those who have not picked up their wine by the 30th but we often hold onto wine for months for people.</li>
+<li>
+<strong>Can we give the membership as a gift?</strong> Definitely. Barriques Wine Clubs make great gifts. If you are giving the wine club membership as a gift, please indicate the recipients name &amp; email address in the text box above. <em><strong>No notification</strong></em> will be sent to the recipient by Barriques. However, you will receive a link to download a certificate that you can fill out and give to the recipient which will explain how the club works and what benefits they receive as members of a Barriques Wine of the Month Club. </li>
+<li>
+<strong>Who to I contact if I have any more questions?</strong> You can find help at any <a href="http://www.barriquesmarket.com/our-cafes/" target="_blank" rel="noopener noreferrer">Barriques location</a> or send an email to clubs@barriquesmarket.com. We would love to hear from you.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fixed Month Wine Club</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1874214813766</id>
+      <title>Monroe</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1874214813766</id>
+      <title>Middleton</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1874214813766</id>
+      <title>Fitchburg</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1874214813766</id>
+      <title>West Wash</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1874214813766</id>
+      <title>Old Sauk</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1874214813766</id>
+      <title>Park St.</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1874214813766</id>
+      <title>Atwood</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1874214813766</id>
+      <title>University</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1884485484614</id>
+    <published>2018-11-27T13:38:14-06:00</published>
+    <updated>2018-11-27T13:38:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/finn-picks-wine-club-month-to-month"/>
+    <title>Finn Picks Wine Club Month To Month</title>
+    <s:type>Wine Club</s:type>
+    <s:vendor>Barriques Clubs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/IMG_0129.JPG?v=1543347288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Clubs<br>
+        <strong>Type: </strong>Wine Club<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Finn Picks club is our newest and most personalized wine club. As a Barriques Co-founder, Finn has picked every bottle of wine that has ever found a home at Barriques over the past 20 years. He has decades of experience matching our customer's tastes with the seemingly limitless options available from wine producers worldwide. He has fashioned Barriques' wine reputation as one that is highly selective and offers tremendous value. Members of our Finn Picks club get to take advantage of his insider knowledge and get customized wine picks chosen based on their specific preferences. It's the closest thing we have to on-demand, one-on-one wine consultation with 'the man' himself. <br></p>
+<p>As part of your Finn Picks membership you will receive one or two wine selections each month that Finn will pick exclusively for you based on your wine preferences. You will also receive an invitation to the FREE, bi-annual Finn Picks Club member tasting as well as exclusive Barriques in-store rewards offers for our Reward Club members. All you need to do is choose which Barriques location you would like to pick the wine up at and we will follow up with a detailed questionnaire to best understand your particular wine preferences. The wines will then be available to pickup anytime after the 15th of each month.  </p>
+<p>In addition to the special Finn Picks Club benefits, all of our wine club members receive the following: </p>
+<ul>
+<li>20% off purchases of a case of the current month club wines</li>
+<li>15% off purchase of any full case (mixed or straight).</li>
+<li>10% off any half case (mixed or straight).</li>
+<li>Discounted prices at most tastings and events.</li>
+</ul>
+<p><strong>FAQ</strong></p>
+<ol>
+<li>
+<strong>When can I pick up the wine?</strong> Club members can pick up their wine(s) after the 15th of each month at their designated pick up location.</li>
+<li>
+<strong>When will my credit card be billed? </strong>Your credit card will be billed on the first of each month. You will continue to be billed until you cancel your subscription.</li>
+<li>
+<strong>How do I cancel my 'Month to Month' subscription?</strong> Please send an email to clubs@barriquesmarket.com.</li>
+<li>
+<strong>Can we give the membership as a gift?</strong> Definitely. Barriques Wine Clubs make great gifts. If you are giving the wine club membership as a gift, please indicate the recipients name &amp; email address in the text box above. <em><strong>No notification</strong></em> will be sent to the recipient by Barriques.  However, you will receive a link to download a certificate that you can fill out and give to the recipient which will explain how the club works and what benefits they receive as members of a Barriques Wine of the Month Club. </li>
+<li>
+<strong>Who to I contact if I have any more questions?</strong> You can find help at any <a href="http://www.barriquesmarket.com/our-cafes/" target="_blank">Barriques location</a> or send an email to clubs@barriquesmarket.com. We would love to hear from you.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>December 9 Show</s:tag>
+    <s:tag>July 15 Show</s:tag>
+    <s:tag>Month to Month Wine Club</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884485484614</id>
+      <title>Monroe</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884485484614</id>
+      <title>Middleton</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884485484614</id>
+      <title>Fitchburg</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884485484614</id>
+      <title>West Wash</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884485484614</id>
+      <title>Old Sauk</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884485484614</id>
+      <title>Park St.</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884485484614</id>
+      <title>Atwood</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1884485484614</id>
+      <title>University</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1572786044998</id>
+    <published>2018-11-12T20:28:23-06:00</published>
+    <updated>2018-11-12T20:28:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/wall-of-100-wine-club"/>
+    <title>Wall of 100 Wine Club Month To Month Subscription</title>
+    <s:type>Wine Club</s:type>
+    <s:vendor>Barriques Clubs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/IMG_5540.JPG?v=1539883149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Clubs<br>
+        <strong>Type: </strong>Wine Club<br>
+        <strong>Price: </strong>
+            12.00 - 24.00
+            <a href="https://barriquesmarket.com/products/wall-of-100-wine-club">(48 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wine from the famous Wall of 100 for as little as $12 a month per bottle. Our Wall of 100 Wine of the Month Club features some of the best values in the wine world hand-selected for you each month.</p>
+<p>Choose the number of bottles you would like to receive, whether you would like red, white or both and which Barriques location you would like to pick the wine up at. Wines are available to pickup anytime after the 15th of each month.  You card will be charged on the 1st of each month until you cancel your subscription.<br></p>
+<p>Other benefits associated w/ your club membership include:</p>
+<ul>
+<li>20% off purchases of a case of the current month club wines</li>
+<li>15% off purchase of any full case (mixed or straight).</li>
+<li>10% off any half case (mixed or straight).</li>
+<li>Discounted prices at most tastings and events.</li>
+</ul>
+<p><strong>FAQ</strong></p>
+<ol>
+<li>
+<strong>When can I pick up the wine?</strong> Club members can pick up their wine(s) after the 15th of each month at their designated pick up location.</li>
+<li>
+<strong>When will my credit card be billed? </strong>Your credit card will be billed on the first of each month. You will continue to be billed until you cancel your subscription.</li>
+<li>
+<strong>How do I cancel my 'Month to Month' subscription?</strong> Please send an email to clubs@barriquesmarket.com.</li>
+<li>
+<strong>If I can't make it in to pickup the wine for a month or two is that ok?</strong>  Of course.  Stop by when it is convenient.  An email reminder may be made to those who have not picked up their wine by the 30th but we often hold onto wine for months for people.</li>
+<li>
+<strong>Can we give the membership as a gift?</strong>   Definitely.  Barriques Wine Clubs make great gifts. If you are giving the wine club membership as a gift, please indicate the recipients name &amp; email address in the text box above.  <em><strong>No notification</strong></em> will be sent to the recipient by Barriques.  However, you will receive a link to download a certificate that you can fill out and give to the recipient which will explain how the club works and what benefits they receive as members of a Barriques Wine of the Month Club.</li>
+<li>
+<strong>Who to I contact if I have any more questions?</strong>  You can find help at any <a href="http://www.barriquesmarket.com/our-cafes/" target="_blank">Barriques location</a> or send an email to clubs@barriquesmarket.com.  We would love to hear from you.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>December 9 Show</s:tag>
+    <s:tag>Gifts Under 20</s:tag>
+    <s:tag>Holiday 2020</s:tag>
+    <s:tag>July 15 Show</s:tag>
+    <s:tag>Month to Month Wine Club</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / Red / Monroe</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / Red / Middleton</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / Red / Fitchburg</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / Red / West Wash</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / Red / Old Sauk</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / Red / Park St.</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / Red / Atwood</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / Red / University</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / White / Monroe</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / White / Middleton</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / White / Fitchburg</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / White / West Wash</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / White / Old Sauk</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / White / Park St.</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / White / Atwood</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / White / University</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / Both / Monroe</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / Both / Middleton</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / Both / Fitchburg</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / Both / West Wash</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / Both / Old Sauk</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / Both / Park St.</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / Both / Atwood</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>1 / Both / University</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / Red / Monroe</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / Red / Middleton</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / Red / Fitchburg</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / Red / West Wash</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / Red / Old Sauk</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / Red / Park St.</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / Red / Atwood</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / Red / University</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / White / Monroe</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / White / Middleton</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / White / Fitchburg</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / White / West Wash</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / White / Old Sauk</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / White / Park St.</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / White / Atwood</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / White / University</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / Both / Monroe</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / Both / Middleton</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / Both / Fitchburg</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / Both / West Wash</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / Both / Old Sauk</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / Both / Park St.</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / Both / Atwood</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1572786044998</id>
+      <title>2 / Both / University</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1674344988742</id>
+    <published>2018-11-12T20:28:06-06:00</published>
+    <updated>2018-11-12T20:28:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/wall-of-100-wine-club-6-month-subscription"/>
+    <title>Wall of 100 Wine Club 6 Month Subscription</title>
+    <s:type>Wine Club</s:type>
+    <s:vendor>Barriques Clubs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/IMG_5542.JPG?v=1539883108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Clubs<br>
+        <strong>Type: </strong>Wine Club<br>
+        <strong>Price: </strong>
+            72.00 - 144.00
+            <a href="https://barriquesmarket.com/products/wall-of-100-wine-club-6-month-subscription">(48 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wine from the famous Wall of 100 for as little as $12 a month per bottle. Our Wall of 100 Wine of the Month Club features some of the best values in the wine world hand-selected for you each month.</p>
+<p>Choose the number of bottles you would like to receive, whether you would like red, white or both and which Barriques location you would like to pick the wine up at. Wines are available to pickup anytime after the 15th of each month.  </p>
+<p>Other benefits associated w/ your club membership include:</p>
+<ul>
+<li>20% off purchases of a case of the current month club wines</li>
+<li>15% off purchase of any full case (mixed or straight).</li>
+<li>10% off any half case (mixed or straight).</li>
+<li>Discounted prices at most tastings and events.</li>
+</ul>
+<p><strong>FAQ</strong></p>
+<ol>
+<li>
+<strong>When can I pick up the wine?</strong> Club members can pick up their wine(s) after the 15th of each month at their designated pick up location.</li>
+<li>
+<strong>When will my credit card be billed? </strong>Your credit card will be billed at the time of your order for the entire six month subscription.</li>
+<li>
+<strong>If I can't make it in to pickup the wine for a month or two is that ok?</strong>  Of course.  Stop by when it is convenient.  An email reminder may be made to those who have not picked up their wine by the 30th but we often hold onto wine for months for people.</li>
+<li>
+<strong>Can we give the membership as a gift?</strong>   Definitely.  Barriques Wine Clubs make great gifts. If you are giving the wine club membership as a gift, please indicate the recipients name &amp; email address in the text box above.  <em><strong>No notification</strong></em> will be sent to the recipient by Barriques.  However, you will receive a link to download a certificate that you can fill out and give to the recipient which will explain how the club works and what benefits they receive as members of a Barriques Wine of the Month Club.</li>
+<li>
+<strong>Who to I contact if I have any more questions?</strong>  You can find help at any <a href="http://www.barriquesmarket.com/our-cafes/" target="_blank" rel="noopener noreferrer">Barriques location</a> or send an email to clubs@barriquesmarket.com.  We would love to hear from you.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fixed Month Wine Club</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / Red / Monroe</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / Red / Middleton</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / Red / Fitchburg</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / Red / West Wash</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / Red / Old Sauk</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / Red / Park St.</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / Red / Atwood</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / Red / University</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / White / Monroe</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / White / Middleton</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / White / Fitchburg</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / White / West Wash</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / White / Old Sauk</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / White / Park St.</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / White / Atwood</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / White / University</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / Both / Monroe</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / Both / Middleton</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / Both / Fitchburg</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / Both / West Wash</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / Both / Old Sauk</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / Both / Park St.</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / Both / Atwood</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>1 / Both / University</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / Red / Monroe</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / Red / Middleton</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / Red / Fitchburg</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / Red / West Wash</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / Red / Old Sauk</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / Red / Park St.</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / Red / Atwood</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / Red / University</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / White / Monroe</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / White / Middleton</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / White / Fitchburg</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / White / West Wash</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / White / Old Sauk</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / White / Park St.</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / White / Atwood</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / White / University</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / Both / Monroe</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / Both / Middleton</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / Both / Fitchburg</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / Both / West Wash</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / Both / Old Sauk</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / Both / Park St.</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / Both / Atwood</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674344988742</id>
+      <title>2 / Both / University</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1674308157510</id>
+    <published>2018-11-12T20:27:43-06:00</published>
+    <updated>2018-11-12T20:27:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/wall-of-100-wine-club-3-month-subscription"/>
+    <title>Wall of 100 Wine Club 3 Month Subscription</title>
+    <s:type>Wine Club</s:type>
+    <s:vendor>Barriques Clubs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/IMG_5543.JPG?v=1539883093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Clubs<br>
+        <strong>Type: </strong>Wine Club<br>
+        <strong>Price: </strong>
+            36.00 - 72.00
+            <a href="https://barriquesmarket.com/products/wall-of-100-wine-club-3-month-subscription">(48 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wine from the famous Wall of 100 for as little as $12 a month per bottle. Our Wall of 100 Wine of the Month Club features some of the best values in the wine world hand-selected for you each month.</p>
+<p>Choose the number of bottles you would like to receive, whether you would like red, white or both and which Barriques location you would like to pick the wine up at. Wines are available to pickup anytime after the 15th of each month.  </p>
+<p>Other benefits associated w/ your club membership include:</p>
+<ul>
+<li>20% off purchases of a case of the current month club wines</li>
+<li>15% off purchase of any full case (mixed or straight).</li>
+<li>10% off any half case (mixed or straight).</li>
+<li>Discounted prices at most tastings and events.</li>
+</ul>
+<p><strong>FAQ</strong></p>
+<ol>
+<li>
+<strong>When can I pick up the wine?</strong> Club members can pick up their wine(s) after the 15th of each month at their designated pick up location.</li>
+<li>
+<strong>When will my credit card be billed? </strong>Your credit card will be billed at the time of your order for the entire three month subscription.</li>
+<li>
+<strong>If I can't make it in to pickup the wine for a month or two is that ok?</strong>  Of course.  Stop by when it is convenient.  An email reminder may be made to those who have not picked up their wine by the 30th but we often hold onto wine for months for people.</li>
+<li>
+<strong>Can we give the membership as a gift?</strong>   Definitely.  Barriques Wine Clubs make great gifts. If you are giving the wine club membership as a gift, please indicate the recipients name &amp; email address in the text box above.  <em><strong>No notification</strong></em> will be sent to the recipient by Barriques.  However, you will receive a link to download a certificate that you can fill out and give to the recipient which will explain how the club works and what benefits they receive as members of a Barriques Wine of the Month Club.</li>
+<li>
+<strong>Who to I contact if I have any more questions?</strong>  You can find help at any <a href="http://www.barriquesmarket.com/our-cafes/" target="_blank" rel="noopener noreferrer">Barriques location</a> or send an email to clubs@barriquesmarket.com.  We would love to hear from you.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fixed Month Wine Club</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / Red / Monroe</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / Red / Middleton</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / Red / Fitchburg</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / Red / West Wash</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / Red / Old Sauk</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / Red / Park St.</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / Red / Atwood</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / Red / University</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / White / Monroe</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / White / Middleton</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / White / Fitchburg</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / White / West Wash</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / White / Old Sauk</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / White / Park St.</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / White / Atwood</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / White / University</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / Both / Monroe</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / Both / Middleton</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / Both / Fitchburg</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / Both / West Wash</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / Both / Old Sauk</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / Both / Park St.</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / Both / Atwood</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>1 / Both / University</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / Red / Monroe</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / Red / Middleton</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / Red / Fitchburg</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / Red / West Wash</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / Red / Old Sauk</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / Red / Park St.</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / Red / Atwood</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / Red / University</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / White / Monroe</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / White / Middleton</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / White / Fitchburg</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / White / West Wash</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / White / Old Sauk</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / White / Park St.</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / White / Atwood</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / White / University</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / Both / Monroe</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / Both / Middleton</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / Both / Fitchburg</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / Both / West Wash</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / Both / Old Sauk</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / Both / Park St.</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / Both / Atwood</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674308157510</id>
+      <title>2 / Both / University</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1674362159174</id>
+    <published>2018-11-12T20:27:20-06:00</published>
+    <updated>2018-11-12T20:27:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/wall-of-100-wine-club-12-month-subscription"/>
+    <title>Wall of 100 Wine Club 12 Month Subscription</title>
+    <s:type>Wine Club</s:type>
+    <s:vendor>Barriques Clubs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/IMG_5541.JPG?v=1539883086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Clubs<br>
+        <strong>Type: </strong>Wine Club<br>
+        <strong>Price: </strong>
+            144.00 - 288.00
+            <a href="https://barriquesmarket.com/products/wall-of-100-wine-club-12-month-subscription">(48 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wine from the famous Wall of 100 for as little as $12 a month per bottle. Our Wall of 100 Wine of the Month Club features some of the best values in the wine world hand-selected for you each month.</p>
+<p>Choose the number of bottles you would like to receive, whether you would like red, white or both and which Barriques location you would like to pick the wine up at. Wines are available to pickup anytime after the 15th of each month.  </p>
+<p>Other benefits associated w/ your club membership include:</p>
+<ul>
+<li>20% off purchases of a case of the current month club wines</li>
+<li>15% off purchase of any full case (mixed or straight).</li>
+<li>10% off any half case (mixed or straight).</li>
+<li>Discounted prices at most tastings and events.</li>
+</ul>
+<p><strong>FAQ</strong></p>
+<ol>
+<li>
+<strong>When can I pick up the wine?</strong> Club members can pick up their wine(s) after the 15th of each month at their designated pick up location.</li>
+<li>
+<strong>When will my credit card be billed? </strong>Your credit card will be billed at the time of your order for the entire twelve month subscription.</li>
+<li>
+<strong>If I can't make it in to pickup the wine for a month or two is that ok?</strong>  Of course.  Stop by when it is convenient.  An email reminder may be made to those who have not picked up their wine by the 30th but we often hold onto wine for months for people.</li>
+<li>
+<strong>Can we give the membership as a gift?</strong>   Definitely.  Barriques Wine Clubs make great gifts. If you are giving the wine club membership as a gift, please indicate the recipients name &amp; email address in the text box above.  <em><strong>No notification</strong></em> will be sent to the recipient by Barriques.  However, you will receive a link to download a certificate that you can fill out and give to the recipient which will explain how the club works and what benefits they receive as members of a Barriques Wine of the Month Club.</li>
+<li>
+<strong>Who to I contact if I have any more questions?</strong>  You can find help at any <a href="http://www.barriquesmarket.com/our-cafes/" target="_blank" rel="noopener noreferrer">Barriques location</a> or send an email to clubs@barriquesmarket.com.  We would love to hear from you.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fixed Month Wine Club</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / Red / Monroe</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / Red / Middleton</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / Red / Fitchburg</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / Red / West Wash</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / Red / Old Sauk</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / Red / Park St.</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / Red / Atwood</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / Red / University</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / White / Monroe</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / White / Middleton</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / White / Fitchburg</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / White / West Wash</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / White / Old Sauk</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / White / Park St.</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / White / Atwood</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / White / University</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / Both / Monroe</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / Both / Middleton</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / Both / Fitchburg</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / Both / West Wash</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / Both / Old Sauk</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / Both / Park St.</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / Both / Atwood</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>1 / Both / University</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / Red / Monroe</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / Red / Middleton</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / Red / Fitchburg</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / Red / West Wash</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / Red / Old Sauk</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / Red / Park St.</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / Red / Atwood</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / Red / University</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / White / Monroe</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / White / Middleton</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / White / Fitchburg</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / White / West Wash</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / White / Old Sauk</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / White / Park St.</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / White / Atwood</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / White / University</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / Both / Monroe</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / Both / Middleton</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / Both / Fitchburg</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / Both / West Wash</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / Both / Old Sauk</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / Both / Park St.</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / Both / Atwood</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1674362159174</id>
+      <title>2 / Both / University</title>
+      <s:price currency="USD">288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1670402179142</id>
+    <published>2018-11-12T20:26:11-06:00</published>
+    <updated>2018-11-12T20:26:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/green-wine-club-12-month-subscription"/>
+    <title>Green Wine Club 12 Month Subscription</title>
+    <s:type>Wine Club</s:type>
+    <s:vendor>Barriques Clubs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/IMG_5549.JPG?v=1539889081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Clubs<br>
+        <strong>Type: </strong>Wine Club<br>
+        <strong>Price: </strong>
+            216.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Green Wine of the Month Club features wineries producing organic and/or biodynamic wines or who incorporate sustainable business practices to their operations and is available for as little as $18 per month.  A Barriques Wine of the Month Club is a fantastic way to experience and enjoy the world of wine.  As a member, you’ll receive one bottle of delicious wine and informative notes waiting for you to pick up at the Barriques location of your choice.  See below for more benefits and facts about your club membership.</p>
+<p>Choose whether you would like red, white or both(will alternate months) and which Barriques location you would like to pick the wine up at. Wines are available to pickup anytime after the 15th of each month.  You card will be charged at the time of your order for all twelve months of your subscription.</p>
+<p>Other benefits associated w/ your club membership include:</p>
+<ul>
+<li>20% off purchases of a case of the current month club wines</li>
+<li>15% off purchase of any full case (mixed or straight).</li>
+<li>10% off any half case (mixed or straight).</li>
+<li>Discounted prices at most tastings and events.</li>
+</ul>
+<p><strong>FAQ</strong></p>
+<ol>
+<li>
+<strong>When can I pick up the wine?</strong> Club members can pick up their wine(s) after the 15th of each month at their designated pick up location.</li>
+<li>
+<strong>When will my credit card be billed? </strong>Your credit card will be billed at the time of your order for the entire twelve month subscription.  </li>
+<li>
+<strong>If I can't make it in to pickup the wine for a month or two is that ok?</strong>  Of course.  Stop by when it is convenient.  An email reminder may be made to those who have not picked up their wine by the 30th but we often hold onto wine for months for people.</li>
+<li>
+<strong>Can we give the membership as a gift?</strong>   Definitely.  Barriques Wine Clubs make great gifts. If you are giving the wine club membership as a gift, please indicate the recipients name &amp; email address in the text box above.  <em><strong>No notification</strong></em> will be sent to the recipient by Barriques.  However, you will receive a link to download a certificate that you can fill out and give to the recipient which will explain how the club works and what benefits they receive as members of a Barriques Wine of the Month Club.</li>
+<li>
+<strong>Who to I contact if I have any more questions?</strong>  You can find help at any <a href="http://www.barriquesmarket.com/our-cafes/" target="_blank" rel="noopener noreferrer">Barriques location</a> or send an email to clubs@barriquesmarket.com.  We would love to hear from you.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fixed Month Wine Club</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>Red / Monroe</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>Red / Middleton</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>Red / Fitchburg</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>Red / West Wash</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>Red / Old Sauk</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>Red / Park St.</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>Red / Atwood</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>Red / University</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>White / Monroe</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>White / Middleton</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>White / Fitchburg</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>White / West Wash</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>White / Old Sauk</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>White / Park St.</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>White / Atwood</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>White / University</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>Both / Monroe</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>Both / Middleton</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>Both / Fitchburg</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>Both / West Wash</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>Both / Old Sauk</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>Both / Park St.</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>Both / Atwood</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670402179142</id>
+      <title>Both / University</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1670395068486</id>
+    <published>2018-11-12T20:26:03-06:00</published>
+    <updated>2018-11-12T20:26:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/green-wine-club-3-month-subscription"/>
+    <title>Green Wine Club 3 Month Subscription</title>
+    <s:type>Wine Club</s:type>
+    <s:vendor>Barriques Clubs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/IMG_5545.JPG?v=1539888987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Clubs<br>
+        <strong>Type: </strong>Wine Club<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Green Wine of the Month Club features wineries producing organic and/or biodynamic wines or who incorporate sustainable business practices to their operations and is available for as little as $18 per month.  A Barriques Wine of the Month Club is a fantastic way to experience and enjoy the world of wine.  As a member, you’ll receive one bottle of delicious wine and informative notes waiting for you to pick up at the Barriques location of your choice.  See below for more benefits and facts about your club membership.</p>
+<p>Choose whether you would like red, white or both(will alternate months) and which Barriques location you would like to pick the wine up at. Wines are available to pickup anytime after the 15th of each month.  You card will be charged at the time of your order for all three months of your subscription.</p>
+<p>Other benefits associated w/ your club membership include:</p>
+<ul>
+<li>20% off purchases of a case of the current month club wines</li>
+<li>15% off purchase of any full case (mixed or straight).</li>
+<li>10% off any half case (mixed or straight).</li>
+<li>Discounted prices at most tastings and events.</li>
+</ul>
+<p><strong>FAQ</strong></p>
+<ol>
+<li>
+<strong>When can I pick up the wine?</strong> Club members can pick up their wine(s) after the 15th of each month at their designated pick up location.</li>
+<li>
+<strong>When will my credit card be billed? </strong>Your credit card will be billed at the time of your order for the entire three month subscription.  </li>
+<li>
+<strong>If I can't make it in to pickup the wine for a month or two is that ok?</strong>  Of course.  Stop by when it is convenient.  An email reminder may be made to those who have not picked up their wine by the 30th but we often hold onto wine for months for people.</li>
+<li>
+<strong>Can we give the membership as a gift?</strong>   Definitely.  Barriques Wine Clubs make great gifts. If you are giving the wine club membership as a gift, please indicate the recipients name &amp; email address in the text box above.  <em><strong>No notification</strong></em> will be sent to the recipient by Barriques.  However, you will receive a link to download a certificate that you can fill out and give to the recipient which will explain how the club works and what benefits they receive as members of a Barriques Wine of the Month Club.</li>
+<li>
+<strong>Who to I contact if I have any more questions?</strong>  You can find help at any <a href="http://www.barriquesmarket.com/our-cafes/" target="_blank" rel="noopener noreferrer">Barriques location</a> or send an email to clubs@barriquesmarket.com.  We would love to hear from you.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fixed Month Wine Club</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>Red / Monroe</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>Red / Middleton</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>Red / Fitchburg</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>Red / West Wash</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>Red / Old Sauk</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>Red / Park St.</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>Red / Atwood</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>Red / University</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>White / Monroe</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>White / Middleton</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>White / Fitchburg</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>White / West Wash</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>White / Old Sauk</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>White / Park St.</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>White / Atwood</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>White / University</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>Both / Monroe</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>Both / Middleton</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>Both / Fitchburg</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>Both / West Wash</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>Both / Old Sauk</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>Both / Park St.</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>Both / Atwood</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670395068486</id>
+      <title>Both / University</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1670400507974</id>
+    <published>2018-11-12T20:25:56-06:00</published>
+    <updated>2018-11-12T20:25:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/copy-of-green-wine-club-6-month-subscription"/>
+    <title>Green Wine Club 6 Month Subscription</title>
+    <s:type>Wine Club</s:type>
+    <s:vendor>Barriques Clubs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/IMG_5548.JPG?v=1539888996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Clubs<br>
+        <strong>Type: </strong>Wine Club<br>
+        <strong>Price: </strong>
+            108.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Green Wine of the Month Club features wineries producing organic and/or biodynamic wines or who incorporate sustainable business practices to their operations and is available for as little as $18 per month.  A Barriques Wine of the Month Club is a fantastic way to experience and enjoy the world of wine.  As a member, you’ll receive one bottle of delicious wine and informative notes waiting for you to pick up at the Barriques location of your choice.  See below for more benefits and facts about your club membership.</p>
+<p>Choose whether you would like red, white or both(will alternate months) and which Barriques location you would like to pick the wine up at. Wines are available to pickup anytime after the 15th of each month.  You card will be charged at the time of your order for all six months of your subscription.</p>
+<p>Other benefits associated w/ your club membership include:</p>
+<ul>
+<li>20% off purchases of a case of the current month club wines</li>
+<li>15% off purchase of any full case (mixed or straight).</li>
+<li>10% off any half case (mixed or straight).</li>
+<li>Discounted prices at most tastings and events.</li>
+</ul>
+<p><strong>FAQ</strong></p>
+<ol>
+<li>
+<strong>When can I pick up the wine?</strong> Club members can pick up their wine(s) after the 15th of each month at their designated pick up location.</li>
+<li>
+<strong>When will my credit card be billed? </strong>Your credit card will be billed at the time of your order for the entire six month subscription.  </li>
+<li>
+<strong>If I can't make it in to pickup the wine for a month or two is that ok?</strong>  Of course.  Stop by when it is convenient.  An email reminder may be made to those who have not picked up their wine by the 30th but we often hold onto wine for months for people.</li>
+<li>
+<strong>Can we give the membership as a gift?</strong>   Definitely.  Barriques Wine Clubs make great gifts. If you are giving the wine club membership as a gift, please indicate the recipients name &amp; email address in the text box above.  <em><strong>No notification</strong></em> will be sent to the recipient by Barriques.  However, you will receive a link to download a certificate that you can fill out and give to the recipient which will explain how the club works and what benefits they receive as members of a Barriques Wine of the Month Club.</li>
+<li>
+<strong>Who to I contact if I have any more questions?</strong>  You can find help at any <a href="http://www.barriquesmarket.com/our-cafes/" target="_blank" rel="noopener noreferrer">Barriques location</a> or send an email to clubs@barriquesmarket.com.  We would love to hear from you.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fixed Month Wine Club</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>Red / Monroe</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>Red / Middleton</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>Red / Fitchburg</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>Red / West Wash</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>Red / Old Sauk</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>Red / Park St.</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>Red / Atwood</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>Red / University</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>White / Monroe</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>White / Middleton</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>White / Fitchburg</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>White / West Wash</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>White / Old Sauk</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>White / Park St.</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>White / Atwood</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>White / University</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>Both / Monroe</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>Both / Middleton</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>Both / Fitchburg</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>Both / West Wash</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>Both / Old Sauk</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>Both / Park St.</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>Both / Atwood</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670400507974</id>
+      <title>Both / University</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://barriquesmarket.com/products/1670338379846</id>
+    <published>2018-11-12T20:25:48-06:00</published>
+    <updated>2018-11-12T20:25:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://barriquesmarket.com/products/green-wine-club"/>
+    <title>Green Wine Club Month To Month</title>
+    <s:type>Wine Club</s:type>
+    <s:vendor>Barriques Clubs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/6793/1718/products/IMG_5547.JPG?v=1539889024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barriques Clubs<br>
+        <strong>Type: </strong>Wine Club<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Green Wine of the Month Club features wineries producing organic and/or biodynamic wines or who incorporate sustainable business practices to their operations and is available for as little as $18 per month.  A Barriques Wine of the Month Club is a fantastic way to experience and enjoy the world of wine.  As a member, you’ll receive one bottle of delicious wine and informative notes waiting for you to pick up at the Barriques location of your choice.  See below for more benefits and facts about your club membership.<br></p>
+<p>Choose whether you would like red, white or both(will alternate months) and which Barriques location you would like to pick the wine up at. Wines are available to pickup anytime after the 15th of each month.  You card will be charged on the 1st of each month until you cancel your subscription.</p>
+<p>Other benefits associated w/ your club membership include:</p>
+<ul>
+<li>20% off purchases of a case of the current month club wines</li>
+<li>15% off purchase of any full case (mixed or straight).</li>
+<li>10% off any half case (mixed or straight).</li>
+<li>Discounted prices at most tastings and events.</li>
+</ul>
+<p><strong>FAQ</strong></p>
+<ol>
+<li>
+<strong>When can I pick up the wine?</strong> Club members can pick up their wine(s) after the 15th of each month at their designated pick up location.</li>
+<li>
+<strong>When will my credit card be billed? </strong>Your credit card will be billed on the first of each month. You will continue to be billed until you cancel your subscription.</li>
+<li>
+<strong>How do I cancel my 'Month to Month' subscription?</strong> Please send an email to clubs@barriquesmarket.com.</li>
+<li>
+<strong>If I can't make it in to pickup the wine for a month or two is that ok?</strong>  Of course.  Stop by when it is convenient.  An email reminder may be made to those who have not picked up their wine by the 30th but we often hold onto wine for months for people.</li>
+<li>
+<strong>Can we give the membership as a gift?</strong>   Definitely.  Barriques Wine Clubs make great gifts. If you are giving the wine club membership as a gift, please indicate the recipients name &amp; email address in the text box above.  <em><strong>No notification</strong></em> will be sent to the recipient by Barriques.  However, you will receive a link to download a certificate that you can fill out and give to the recipient which will explain how the club works and what benefits they receive as members of a Barriques Wine of the Month Club.</li>
+<li>
+<strong>Who to I contact if I have any more questions?</strong>  You can find help at any <a href="http://www.barriquesmarket.com/our-cafes/" target="_blank">Barriques location</a> or send an email to clubs@barriquesmarket.com.  We would love to hear from you.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>December 9 Show</s:tag>
+    <s:tag>July 15 Show</s:tag>
+    <s:tag>Month to Month Wine Club</s:tag>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>Red / Monroe</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>Red / Middleton</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>Red / Fitchburg</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>Red / West Wash</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>Red / Old Sauk</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>Red / Park St.</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>Red / Atwood</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>Red / University</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>White / Monroe</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>White / Middleton</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>White / Fitchburg</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>White / West Wash</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>White / Old Sauk</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>White / Park St.</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>White / Atwood</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>White / University</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>Both / Monroe</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>Both / Middleton</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>Both / Fitchburg</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>Both / West Wash</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>Both / Old Sauk</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>Both / Park St.</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>Both / Atwood</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://barriquesmarket.com/products/1670338379846</id>
+      <title>Both / University</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
